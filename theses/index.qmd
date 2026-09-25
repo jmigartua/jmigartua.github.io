@@ -1,35 +1,35 @@
 ---
 title: "Theses directed"
-description: "Doctoral theses directed by Josu M. Igartua, and the bachelor's theses archive."
+description: "Doctoral theses directed by Josu M. Igartua, and the bachelor's theses site."
 title-block-style: none
 page-layout: full
 toc: false
 ---
 
 ```{=html}
-<div class="crumbs"><a href="../index.html">igartua</a> / theses</div>
+<div class="crumbs crumbs-wide"><a href="../index.html">igartua</a> / theses</div>
 <div class="page-wide">
 <h1>Theses directed</h1>
-<p class="lede">Five doctoral theses defended between 2003 and 2019, all with the highest grade, plus the bachelor's theses since 2011, which have their own site. Master's works, research placements and works at European large facilities are listed at the end.</p>
-<div class="pub-year">Doctoral theses<span class="n">5 defended · 1 in progress as of 2020</span></div>
+<p class="lede">Five doctoral theses completed between 2003 and 2019, all with the highest grade, and two in progress. The bachelor's theses since 2011, the ones in progress and the proposals for the coming course have their own site, because a CV cannot hold what they are.</p>
+<div class="pub-year">Doctoral theses<span class="n">5 completed · 2 in progress</span></div>
 <div class="pub-block">
 <div class="pub-item"><div class="t">Crystal structure and phase transitions of the double perovskites Sr₂MWO₆ (M = Ni, Zn, Co, Ca, Cd, Mg, Cu), SrLaMRuO₆ (M = Mn, Cu, Ni, Co, Fe, Zn, Mg) and La₂NiRuO₆ by diffraction methods</div><div class="ref"><strong>Milen Velev Gateshki</strong> · 2003 · Sobresaliente cum laude · Extraordinary Doctorate Prize · in Spanish</div><div class="m">Applied Physics II, Faculty of Science and Technology, UPV/EHU</div></div>
 <div class="pub-item"><div class="t">Crystal structures and phase transitions in new tungsten (SrM²⁺W⁶⁺O₆) and antimony (AM³⁺Sb⁵⁺O₆) double perovskites</div><div class="ref"><strong>Abdessamad Faik</strong> · 2009 · Sobresaliente cum laude · twenty-nine compounds studied, twenty-two of them new</div><div class="m"><a href="https://addi.ehu.es/handle/10810/13525">ADDI 10810/13525</a></div></div>
 <div class="pub-item"><div class="t">Crystal structure and phase transition studies in perovskite-type oxides using powder-diffraction techniques and symmetry-mode analysis: SrLnMRuO₆ and ALn₂CuTi₂O₉</div><div class="ref"><strong>Edurne Iturbe-Zabalo</strong> · 2012 · Apto cum laude · international mention</div><div class="m"><a href="https://addi.ehu.es/handle/10810/10151">ADDI 10810/10151</a></div></div>
 <div class="pub-item"><div class="t">Study of crystal structure and phase transitions in perovskite-type oxides using powder-diffraction techniques and symmetry-mode analysis</div><div class="ref"><strong>Brahim Orayech</strong> · 2015 · Apto cum laude · international mention · in English · six perovskite families, including Na₀.₅K₀.₅NbO₃ and the Sr₂MSbO₆ and Sr₂M₁₋ₓM′ₓTeO₆ series</div><div class="m"><a href="https://addi.ehu.es/handle/10810/16288">ADDI 10810/16288</a></div></div>
 <div class="pub-item"><div class="t">Investigation of new nanofluids based on molten salts and their corrosion mechanisms for thermal energy storage applications</div><div class="ref"><strong>Udayashankar Nithiyanantham</strong> · 2019 · Apto cum laude · international mention · in English · co-directed with Dr Abdessamad Faik, CIC Energigune</div><div class="m"><a href="http://hdl.handle.net/10810/41974">ADDI 10810/41974</a></div></div>
-<div class="pub-item"><div class="t">Doctoral thesis in progress (co-direction), as recorded in 2020</div><div class="ref"><strong>Asier Ortuondo Basterretxea</strong> · status to be updated</div></div>
+<div class="pub-item"><div class="t">Two doctoral theses in progress</div><div class="ref">On high-temperature radiative properties, emissivity metrology and energy materials, within the Thermomat group.</div></div>
 </div>
 
-<div class="pub-year">Bachelor's theses<span class="n">46 since 2011 · on their own site</span></div>
+<div class="pub-year">Bachelor's theses<span class="n">46 since 2011 · their own site</span></div>
 <div class="pub-block">
-<div class="pub-item"><div class="t"><a href="https://jmigartua.github.io/tfgs-website/past-tfg/">igartua / gral-tfg · the archive</a></div><div class="ref">Every Gradu Amaierako Lana / Trabajo de Fin de Grado I have directed or co-directed, by academic year, each with its abstract, facts, selected figures and citation block. Thirty-nine certified through 2025 and seven in progress in 2026, in Basque, Spanish and English.</div><div class="m"><a href="https://jmigartua.github.io/tfgs-website/proposals/">Proposals for 2026–2027</a> · <a href="https://jmigartua.github.io/tfgs-website/preparing/">Preparation manual</a></div></div>
+<div class="pub-item"><div class="t"><a href="https://jmigartua.github.io/tfgs-website/past-tfg/">igartua / gral-tfg · the archive</a></div><div class="ref">Every Gradu Amaierako Lana / Trabajo de Fin de Grado I have directed or co-directed, by academic year, each with its abstract, facts, selected figures and citation block. Thirty-nine certified through 2025 and seven in progress in 2026, in Basque, Spanish and English.</div><div class="m"><a href="https://jmigartua.github.io/tfgs-website/on-going/">Theses in progress</a> · <a href="https://jmigartua.github.io/tfgs-website/proposals/">Proposals for 2026–2027</a> · <a href="https://jmigartua.github.io/tfgs-website/preparing/">Preparation manual</a></div></div>
 </div>
 
-<div class="pub-year">Other supervised work<span class="n">as of 2020</span></div>
+<div class="pub-year">Other supervised work</div>
 <div class="pub-block">
-<div class="pub-item"><div class="t">Master's and pre-doctoral work</div><div class="ref">One tesina, three research works (trabajos de investigación), two DEA works, and three research works carried out at European large facilities (ILL, ESRF).</div></div>
-<div class="pub-item"><div class="t">Placements and directed academic work</div><div class="ref">Fifteen company placements in the Physics degree and two in the former licentiate, and five directed academic works (Trabajo Académicamente Dirigido).</div></div>
+<div class="pub-item"><div class="t">Master's and pre-doctoral work</div><div class="ref">Several master's theses and DEA works, three research works (trabajos de investigación) and one tesina, including projects carried out at European large facilities (ILL, ESRF) and in collaboration with industry.</div></div>
+<div class="pub-item"><div class="t">Placements and directed academic work</div><div class="ref">Around twenty-five company placements in the Physics degree and the former licentiate, and five directed academic works (Trabajo Académicamente Dirigido).</div></div>
 </div>
 </div>
 ```

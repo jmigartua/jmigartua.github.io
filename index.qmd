@@ -11,8 +11,8 @@ toc: false
   <div class="wrap mission-grid">
     <div>
       <h1>I am a physicist at the University of the Basque Country. I work on <strong>the structure of solids, the thermal radiation of materials, and how physics is taught</strong>.</h1>
-      <p class="who">Full Professor of Physics at the Faculty of Science and Technology in Leioa, on its staff since 1992 and a doctor since 1994. Thirty years of powder diffraction and phase transitions in perovskites, a decade inside the Thermomat group measuring infrared emissivity with the HAIRL radiometer, and every year since 2011 the course on thermodynamics and statistical physics, in Basque, with its notebooks, its simulations and its bachelor's theses.</p>
-      <p class="quicklinks"><a href="research/index.html">Research lines</a><span class="sep">&middot;</span><a href="publications/index.html">Publications</a><span class="sep">&middot;</span><a href="theses/index.html">Theses directed</a><span class="sep">&middot;</span><a href="teaching/index.html">Teaching</a><span class="sep">&middot;</span><a href="mailto:josu.igartua@ehu.eus">Contact</a></p>
+      <p class="who">Full Professor of Physics at the Faculty of Science and Technology in Leioa, on its staff since 1988 and a doctor since 1994. Thirty years of diffraction, calorimetry and phase transitions in perovskites; a decade in the Thermomat group, which I co-lead, measuring the infrared emissivity of materials for energy with the HAIRL radiometer; and, every year since 2011, the course on thermodynamics and statistical physics, in Basque, with its notebooks, its simulations and its bachelor's theses.</p>
+      <p class="quicklinks"><a href="research/index.html">Research lines</a><span class="sep">&middot;</span><a href="publications/index.html">Publications</a><span class="sep">&middot;</span><a href="theses/index.html">Theses</a><span class="sep">&middot;</span><a href="teaching/index.html">Teaching</a><span class="sep">&middot;</span><a href="mailto:josu.igartua@ehu.eus">Contact</a></p>
     </div>
     <figure class="spectrum">
       <img src="assets/images/diffraction-ba3-xsrx.png" alt="Powder diffraction patterns of a solid solution, intensity against scattering angle, eleven compositions from the barium to the strontium end member" style="display:block;width:100%;height:auto">
@@ -26,8 +26,8 @@ toc: false
     <div>
       <div class="featured-kicker">Now &middot; Course 2026&ndash;2027</div>
       <h2 class="featured-title">Thermodynamics and statistical physics, in Basque<span class="featured-sub">Termodinamika eta Fisika Estatistikoa &middot; 12 ECTS &middot; third year of the Physics degree</span></h2>
-      <p class="featured-body">The course I have taught every year since 2011&ndash;2012: a daily class log, short tests, a public rubric, Jupyter notebooks in Basque, and MinervaLab, the simulation laboratory for first-order phase transitions that grew out of a bachelor's thesis. Five thesis proposals are open for this course on the theses site.</p>
-      <p class="featured-links"><a href="teaching/index.html">How the course works</a><span class="sep">&middot;</span><a href="https://jmigartua.github.io/tfgs-website/proposals/">Thesis proposals 2026&ndash;2027</a><span class="sep">&middot;</span><a href="https://jmigartua.github.io/tfgs-website/preparing/">Preparation manual</a></p>
+      <p class="featured-body">The course I have taught every year since 2011&ndash;2012, and the subject I brought into Basque at this university with its first complete set of materials: a daily class log, short tests, a public rubric, Jupyter notebooks in Basque, and MinervaLab, the simulation laboratory for first-order phase transitions that grew out of a bachelor's thesis. The theses that come out of the course, those in progress and the proposals for the coming year live on their own site.</p>
+      <p class="featured-links"><a href="teaching/index.html">How the course works</a><span class="sep">&middot;</span><a href="https://jmigartua.github.io/tfgs-website/proposals/">Thesis proposals 2026&ndash;2027</a><span class="sep">&middot;</span><a href="https://jmigartua.github.io/tfgs-website/on-going/">Theses in progress</a><span class="sep">&middot;</span><a href="https://jmigartua.github.io/tfgs-website/preparing/">Preparation manual</a></p>
     </div>
     <div class="featured-when">
       <div class="d">Since 2011</div>
@@ -42,9 +42,9 @@ toc: false
     <div class="sec-head"><h2>Research</h2><a class="more" href="research/index.html">The three lines &rarr;</a></div>
     <p class="sec-intro">Two lines in the physics of materials that share a method, reading symmetry and its breaking from experiment, and a third line on how physics is learned, which uses the same computational tools I use in the laboratory.</p>
     <div class="lines">
-      <div class="line-item"><div class="num">01</div><h3><a href="research/index.html#structure">Structure and phase transitions in perovskites</a></h3><p>Crystal structures and structural phase transitions of simple and double perovskite oxides by X-ray and neutron powder diffraction, Raman spectroscopy and symmetry-mode analysis. A parametrised refinement protocol that makes laboratory X-ray data do work that used to need a synchrotron.</p><div class="caps">mode crystallography &middot; AMPLIMODES &middot; ILL, ESRF, SINQ experiments &middot; five doctoral theses</div></div>
-      <div class="line-item"><div class="num">02</div><h3><a href="research/index.html#radiation">Thermal radiative properties of materials</a></h3><p>Within Thermomat / HAIRL: directional spectral emissivity from 0.83 to 25 μm at up to 1000 °C, uncertainty budgets, temperature control of the emissometer, FAIR reporting of the measurements, and the EKHI open database.</p><div class="caps">HAIRL radiometer &middot; EKHI &middot; fer framework &middot; emissivity.org</div></div>
-      <div class="line-item"><div class="num">03</div><h3><a href="research/index.html#teaching">Computation in physics education</a></h3><p>Jupyter notebooks as the laboratory notebook of a theory course, MinervaLab for phase transitions, and the analysis of how students actually perform: from the course's own data to the physics entrance examination across Spain.</p><div class="caps">CSEDU, GIREP, RSEF &middot; MinervaLab &middot; PAU Física</div></div>
+      <div class="line-item"><div class="num">01</div><h3><a href="research/index.html#structure">Structure and phase transitions in perovskites</a></h3><p>Crystal structures and structural phase transitions of simple, double and triple perovskite oxides, and of ferroic crystals, by adiabatic calorimetry, Raman and infrared spectroscopy, X-ray and neutron powder diffraction and symmetry-mode analysis. A parametrised refinement protocol that makes laboratory X-ray data do work that used to need a synchrotron.</p><div class="caps">mode crystallography &middot; AMPLIMODES &middot; ILL, ESRF, SINQ &middot; five doctoral theses</div></div>
+      <div class="line-item"><div class="num">02</div><h3><a href="research/index.html#radiation">Thermal radiative properties of materials</a></h3><p>Within Thermomat / HAIRL: high-accuracy, angle-resolved spectral emissivity over wide spectral and temperature ranges, uncertainty budgets, temperature control of the emissometer, FAIR reporting of the measurements and the EKHI open database, for concentrated solar power, fusion materials, advanced steels and coated surfaces.</p><div class="caps">HAIRL radiometer &middot; EKHI &middot; fer framework &middot; two doctoral theses in progress</div></div>
+      <div class="line-item"><div class="num">03</div><h3><a href="research/index.html#teaching">Computation in physics education</a></h3><p>Jupyter notebooks as the laboratory notebook of a theory course, MinervaLab for phase transitions, teaching materials in Basque, and the analysis of how students actually perform: from the course's own data to the physics entrance examination across Spain.</p><div class="caps">CSEDU, GIREP, RSEF &middot; MinervaLab &middot; PAU Física</div></div>
     </div>
   </div>
 </section>
@@ -54,9 +54,9 @@ toc: false
     <div class="sec-head"><h2>Recent publications</h2><a class="more" href="publications/index.html">Full list &rarr;</a></div>
 ```
 
-{{< include _gen/pub-stats.qmd >}}
+{{< include _gen/pub-stats.en.qmd >}}
 
-{{< include _gen/recent-pubs.qmd >}}
+{{< include _gen/recent-pubs.en.qmd >}}
 
 ```{=html}
   </div>
@@ -64,13 +64,13 @@ toc: false
 
 <section class="home-section" id="theses">
   <div class="wrap">
-    <div class="sec-head"><h2>Theses</h2><a class="more" href="theses/index.html">All theses directed &rarr;</a></div>
-    <p class="sec-intro">Five doctoral theses on perovskite crystallography and thermal energy storage, all with the highest grade and three with international mention, and forty-six bachelor's theses since 2011, kept on their own site with abstracts, figures and citation blocks.</p>
+    <div class="sec-head"><h2>Theses</h2><a class="more" href="theses/index.html">Theses directed &rarr;</a></div>
+    <p class="sec-intro">Five doctoral theses completed between 2003 and 2019, two more in progress on high-temperature radiative properties and energy materials, and forty-six bachelor's theses since 2011, which have their own site together with the theses in progress and the proposals for the coming course.</p>
     <div class="net-stats">
-      <div class="net-stat"><div class="v">5</div><div class="k">doctoral theses directed</div></div>
-      <div class="net-stat"><div class="v">3</div><div class="k">with international mention</div></div>
+      <div class="net-stat"><div class="v">5</div><div class="k">doctoral theses completed</div></div>
+      <div class="net-stat"><div class="v">2</div><div class="k">doctoral theses in progress</div></div>
       <div class="net-stat"><div class="v">46</div><div class="k">bachelor's theses since 2011</div></div>
-      <div class="net-stat"><div class="v">15</div><div class="k">company placements supervised</div></div>
+      <div class="net-stat"><div class="v">25</div><div class="k">company placements supervised</div></div>
     </div>
   </div>
 </section>
@@ -80,8 +80,8 @@ toc: false
     <div class="sec-head"><h2>The sites</h2></div>
     <p class="sec-intro">This page is the hub. The detailed material lives on three sister sites built on the same design system, so a reader can move between them without noticing the join.</p>
     <div class="lines">
-      <div class="line-item"><div class="num">GRAL / TFG</div><h3><a href="https://jmigartua.github.io/tfgs-website/">igartua / gral-tfg</a></h3><p>The bachelor's theses I have directed since 2011, the proposals for the coming course and the preparation manual, in English, Spanish and Basque.</p></div>
-      <div class="line-item"><div class="num">GROUP</div><h3><a href="https://emissivity.org/network/thermomat-ehu">Thermomat / HAIRL</a></h3><p>The research group on the thermophysical properties of materials at UPV/EHU: instruments, people, projects and the EKHI database.</p></div>
+      <div class="line-item"><div class="num">GRAL / TFG</div><h3><a href="https://jmigartua.github.io/tfgs-website/">igartua / gral-tfg</a></h3><p>The bachelor's theses I have directed since 2011, the ones in progress, the proposals for the coming course and the preparation manual, in English, Spanish and Basque.</p></div>
+      <div class="line-item"><div class="num">GROUP</div><h3><a href="https://emissivity.org/network/thermomat-ehu">Thermomat / HAIRL</a></h3><p>The research group on the thermophysical properties of materials at UPV/EHU, which I co-lead: instruments, people, projects and the EKHI database.</p></div>
       <div class="line-item"><div class="num">FIELD</div><h3><a href="https://emissivity.org/">emissivity.org</a></h3><p>The reference point for laboratories working on the thermal radiative properties of materials: research map, data resources, methods and calendar.</p></div>
     </div>
   </div>

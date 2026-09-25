@@ -1,0 +1,42 @@
+---
+title: "Docencia"
+description: "Termodinámica y física estadística en euskera desde 2011, los métodos de la asignatura, libros de texto y docencia en otros centros."
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="../index.html">igartua</a> / docencia</div>
+<article class="page-article">
+<h1>Docencia</h1>
+<p class="sub">Más de diez asignaturas en la UPV/EHU a lo largo de treinta y cuatro cursos y, desde 2011, una asignatura impartida como me habría gustado que me la impartieran.</p>
+```
+
+## Termodinamika eta Fisika Estatistikoa
+
+Una asignatura anual de doce créditos en tercer curso del Grado en Física y del Doble Grado en Física e Ingeniería Electrónica, impartida en euskera a sesenta o setenta estudiantes al año. Es la asignatura que da nombre a mi cátedra y la que coordino desde 2010. Introduje la termodinámica y las materias afines en euskera en esta universidad y preparé el primer conjunto completo de materiales para ellas, de modo que la asignatura arrastra también esa historia. Su funcionamiento lleva una década estable y está documentado en público:
+
+- **Un diario de clase** (egunkaria): qué se ha hecho en cada sesión, publicado sobre la marcha, para que nadie tenga que adivinar qué espera la asignatura.
+- **Pruebas cortas** (azterketatxoak) a lo largo del año en lugar de un único examen, con una rúbrica pública y ejemplos resueltos de cómo se corrigen las respuestas.
+- **Mapas conceptuales y mapas de lectura** de los dos cuatrimestres, para que la estructura de la materia sea visible antes que los detalles.
+- **Cuadernos Jupyter en euskera** como documentos de trabajo: deducciones, ejercicios de Zemansky y los cálculos propios de los estudiantes en un mismo lugar.
+- **MinervaLab**, el laboratorio interactivo de simulación de transiciones de fase de primer orden y del fluido de van der Waals, usado en clase para la parte que más cuesta a los estudiantes.
+
+El material de la asignatura vive en repositorios anuales de GitHub. Los trabajos de fin de grado que salen de ella, los que están en curso y las propuestas para el próximo año están en [igartua / gral-tfg](https://jmigartua.github.io/tfgs-website/es/), junto con el [manual de preparación](https://jmigartua.github.io/tfgs-website/preparing/) que escribí para quien empieza un trabajo.
+
+## Otras asignaturas
+
+En la UPV/EHU he impartido física general y su laboratorio en la escuela de ingeniería industrial, física general para química, técnicas experimentales, termodinámica, ampliación de termodinámica y física estadística en la antigua licenciatura, y la asignatura de máster sobre física estadística, transiciones de fase y fenómenos críticos (2009–2013). En el centro de la UNED en Bizkaia, desde 1992, he tutorizado mecánica cuántica, termología y mecánica estadística, mecánica, física I y II y bases físicas del medio ambiente, con sus laboratorios. En la Universidad Vasca de Verano (UEU) he impartido cinco cursos y organizado siete.
+
+## Libros de texto y material docente
+
+Tres libros de texto universitarios y siete libros o materiales docentes extensos para estudiantes de grado, en su mayoría en euskera, que hicieron posible impartir el plan de estudios de física íntegramente en esa lengua: la traducción del *Física para ciencias e ingeniería* de Fishbane, Gasiorowicz y Thornton (2008, 2014), el diccionario de física de Elhuyar, *Fisikaz blai*, *Iraunkortasuna*, libros de texto de secundaria para Edebé y textos universitarios de mecánica, estadística y fluidos.
+
+## Investigación e innovación docente
+
+Dieciocho proyectos de innovación docente en la UPV/EHU, incluido el que dirigí sobre el cuaderno de laboratorio electrónico con Jupyter (PIE 2018–2019), y artículos de didáctica de la física en CSEDU 2017, GIREP 2018 y la reunión bienal de la RSEF de 2019. Ochocientas veinte horas de formación docente recibida. Coordinador de la Olimpiada de Física, tutor del programa de acción tutorial y presencia habitual en jornadas de puertas abiertas, la semana de la ciencia y el campus científico de verano. Desde 2017, coordinador del diseño y preparación del examen de física de acceso a la universidad en el País Vasco, que se ha convertido en un proyecto de datos propio sobre cómo se comporta el examen en toda España.
+
+```{=html}
+</article>
+```

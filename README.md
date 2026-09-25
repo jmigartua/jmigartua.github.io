@@ -28,12 +28,19 @@ figures from that documentation; the portrait is `Josu.png` from the same
 source. No certificate, service record, ID number, address or third-party
 photograph from the 2020 documentation is included here, by design.
 
-## Not yet decided
+## Languages and facts
 
-- Hosting: the natural home is the GitHub user site `jmigartua.github.io`
-  (which does not exist yet); a custom domain is also possible.
-- Languages: English only in this version; Basque and Spanish can follow the
-  pattern used on igartua / gral-tfg.
-- Post-2020 facts to confirm before publishing: sexenios and quinquenios
-  after 2020, the status of the doctoral thesis in progress in 2020, current
-  CUED and EAU roles, and the exact date of the 2020 appointment.
+English at the root, Spanish under `es/`, Basque under `eu/`; each directory's
+`_metadata.yml` sets `lang`, and the shared header and footer partials switch
+their navigation by `<html lang>`. Facts up to October 2020 come from the
+accreditation dossier; later facts (appointment 2 November 2020, six sexenios
+and six quinquenios, two doctoral theses in progress, recent projects and
+contracts, continuing CUED and PAU roles) come from the 2026 abbreviated CV
+and the author's own confirmation.
+
+## Hosting
+
+Published as the GitHub user site at https://jmigartua.github.io/ by the
+workflow in `.github/workflows/pages.yml` (Quarto render on Actions, deployed
+with `actions/deploy-pages`). The theses site stays at
+https://jmigartua.github.io/tfgs-website/ and is linked from here.

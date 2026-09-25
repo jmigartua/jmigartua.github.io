@@ -19,8 +19,9 @@ toc: false
 <table>
 <thead><tr><th>Years</th><th>Post</th></tr></thead>
 <tbody>
-<tr><td>2017–</td><td>Coordinator of the Physics examination for university entrance (EAU / PAU) in the Basque Country</td></tr>
-<tr><td>2016–2020</td><td>Member of the University Committee for Teaching Evaluation (CUED), four editions</td></tr>
+<tr><td>2017–</td><td>Coordinator for the design and preparation of the Physics examination for university entrance (EAU / PAU) in the Basque Country</td></tr>
+<tr><td>2016–</td><td>Member of the University Committee for Teaching Evaluation (CUED), every year since 2016: the post runs eight to ten months of each year, for the duration of each DOCENTIAZ edition from the opening of applications to the end of the appeals</td></tr>
+<tr><td>2016–</td><td>Member of the Quality Assurance Committee of the Faculty of Science and Technology</td></tr>
 <tr><td>2012–2015</td><td>Vice-Dean for Students and Academic Exchange, Faculty of Science and Technology</td></tr>
 <tr><td>2012–2015</td><td>General coordinator of the Academic Exchange Committee, and chair of the Committee on Academic Organisation and Recognition of Studies</td></tr>
 <tr><td>2011–2013</td><td>General coordinator of academic exchange for the Physics degree</td></tr>
@@ -36,12 +37,12 @@ toc: false
 
 - Elected member of the Faculty Board (permanent doctoral staff) and of its Standing Committee.
 - Member of the committees that designed the faculty's map of degrees, and of the Physics degree studies committee.
-- Member of the support group for the faculty's strategic plan; member of the quality assurance committee; member of the KOORDINA and EKOSCAN improvement groups.
+- Member of the support group for the faculty's strategic plan; member of the KOORDINA and EKOSCAN improvement groups.
 - Boards: doctoral thesis tribunals, master's thesis tribunals, at least three bachelor's thesis tribunals every year since 2011, university entrance examination boards, and hiring boards for the department.
 
-## Editorial and refereeing
+## Societies, editorial and refereeing
 
-Associate editor of *Energies* (MDPI). Reviewer for *Journal of Solid State Chemistry*, *Materials Chemistry and Physics*, the *Physical Review* journals and *Reviews of Modern Physics*, *Journal of Alloys and Compounds*, *Zeitschrift für Kristallographie* and *Physical Chemistry of Materials*.
+Vice-president of the local section of the Real Sociedad Española de Física. Associate editor of *Energies* (MDPI). Referee for around ten international journals in materials science, thermophysics, crystallography and instrumentation, among them *Journal of Solid State Chemistry*, *Materials Chemistry and Physics*, the *Physical Review* journals, *Journal of Alloys and Compounds* and *Zeitschrift für Kristallographie*, with several dozen completed reviews.
 
 ```{=html}
 </article>

@@ -1,0 +1,74 @@
+---
+title: "Sobre mí"
+description: "Trayectoria, posición y perfiles de Josu M. Igartua."
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="../index.html">igartua</a> / sobre mí</div>
+<article class="page-article">
+<div style="display:grid;grid-template-columns:200px 1fr;gap:32px;align-items:start;margin:0 0 32px;padding:24px;background:var(--tint);border:1px solid var(--line)">
+  <figure style="margin:0"><img src="../../assets/images/josu-igartua.png" alt="Josu M. Igartua" style="width:100%;height:auto;display:block;border:1px solid var(--line);aspect-ratio:1/1;object-fit:cover"></figure>
+  <div class="thesis-facts" style="margin:0;padding:0;background:none;border:0">
+    <div class="row"><div class="k">Nombre</div><div class="v">Josu Mirena Igartua Aldamiz</div></div>
+    <div class="row"><div class="k">Posición</div><div class="v">Catedrático de Universidad, Física, desde el 2 de noviembre de 2020</div></div>
+    <div class="row"><div class="k">Departamento</div><div class="v">Departamento de Física, Facultad de Ciencia y Tecnología, UPV/EHU, Leioa</div></div>
+    <div class="row"><div class="k">Área</div><div class="v">Física Aplicada &middot; Termodinámica y física estadística</div></div>
+    <div class="row"><div class="k">Grupo</div><div class="v">Thermomat / HAIRL, propiedades termofísicas de materiales (codirector)</div></div>
+    <div class="row"><div class="k">Idiomas</div><div class="v">Euskera, castellano, inglés; docencia en euskera desde 1993</div></div>
+    <div class="row"><div class="k">Contacto</div><div class="v"><a href="mailto:josu.igartua@ehu.eus">josu.igartua@ehu.eus</a> &middot; <a href="https://orcid.org/0000-0001-7983-5331">ORCID 0000-0001-7983-5331</a></div></div>
+  </div>
+</div>
+<h1>Trayectoria</h1>
+<p class="sub">Treinta y ocho años en la Universidad del País Vasco, en la misma facultad y, desde 2011, en la misma asignatura.</p>
+```
+
+Me licencié en Física en la Universidad del País Vasco en 1988, en la especialidad de física del estado sólido, y me doctoré allí en 1994 con una tesis sobre transiciones de fase estructurales sólido-sólido estudiadas mediante calorimetría adiabática y espectroscopia vibracional. Toda mi carrera académica ha transcurrido en esta universidad: colaborador de investigación y becario predoctoral desde 1988, profesor asociado desde 1992, profesor titular de universidad desde 1997 y catedrático de universidad desde el 2 de noviembre de 2020, en el área de Física Aplicada con el perfil de termodinámica y física estadística, bilingüe euskera y castellano.
+
+Mi investigación inicial fue la física de las transiciones de fase estructurales en cristales ferroicos y afines y en perovskitas simples, dobles y triples, combinando calorimetría adiabática con difracción de rayos X y neutrones y espectroscopia Raman e infrarroja en monocristales y polvos, en colaboración con grupos internacionales y con las grandes instalaciones europeas de neutrones y sincrotrón. Ese trabajo asentó mi especialización en el análisis cristalográfico de modos y en las relaciones estructura-propiedad de óxidos complejos, y produjo cinco tesis doctorales. En la última década mi actividad se ha desplazado hacia el comportamiento termofísico a alta temperatura y radiativo infrarrojo de materiales para la energía, en el grupo Thermomat, que codirijo: el desarrollo y la actualización del emisómetro HAIRL del grupo y la metodología de medidas de emisividad de alta precisión resueltas en ángulo, con aplicaciones a la energía solar de concentración, los materiales de fusión, los aceros avanzados y las superficies recubiertas, en estrecha colaboración con CIC Energigune, Tecnalia, Petronor, ArcelorMittal y ESS Bilbao, entre otros.
+
+En docencia, introduje la termodinámica y las materias afines en euskera en esta universidad y preparé el primer conjunto completo de materiales para ello, incluidas traducciones de los manuales de referencia y, más tarde, libros de texto universitarios propios. Desde 2011 mi docencia es una asignatura, Termodinamika eta Fisika Estatistikoa, y los trabajos de fin de grado que nacen de ella.
+
+## Cronología
+
+```{=html}
+<table>
+<thead><tr><th>Años</th><th>Posición</th><th>Dónde</th></tr></thead>
+<tbody>
+<tr><td>1988</td><td>Licenciado en Ciencias, sección Física, especialidad física del estado sólido</td><td>UPV/EHU</td></tr>
+<tr><td>1988–1992</td><td>Colaborador de investigación y becario predoctoral (Gobierno Vasco)</td><td>UPV/EHU</td></tr>
+<tr><td>1992–1997</td><td>Profesor asociado, bilingüe</td><td>Escuela de Ingeniería Industrial, Bilbao; Facultad de Ciencia y Tecnología, Leioa</td></tr>
+<tr><td>1994</td><td>Doctor en Física, transiciones de fase estructurales sólido-sólido</td><td>UPV/EHU</td></tr>
+<tr><td>1997–2020</td><td>Profesor titular de universidad</td><td>Física Aplicada II, Facultad de Ciencia y Tecnología</td></tr>
+<tr><td>2012–2015</td><td>Vicedecano de Alumnado y de Intercambio Académico</td><td>Facultad de Ciencia y Tecnología</td></tr>
+<tr><td>2020–</td><td>Catedrático de Universidad, Física</td><td>Departamento de Física, Facultad de Ciencia y Tecnología</td></tr>
+</tbody>
+</table>
+```
+
+## Reconocimientos
+
+- Seis sexenios de investigación reconocidos por la CNEAI, el máximo posible en mi carrera, y seis quinquenios docentes reconocidos por la UPV/EHU, igualmente el máximo.
+- Complemento A1 de investigación y docencia concedido por Unibasq en 2015, que reconoce formalmente la combinación de calidad investigadora y docente.
+- Docencia evaluada en el programa DOCENTIAZ en la banda superior («Oso ongi»), con 82,4 y 95,7 puntos en los periodos 2008–2013 y 2013–2018.
+- Cinco tesis doctorales leídas, todas con la máxima calificación, tres con mención internacional, una con premio extraordinario de doctorado; dos en curso.
+- Alrededor de cien contribuciones a congresos, con charlas invitadas en THERMEC, EUROMAT, el MRS Spring Meeting, MMC (Metrology for Meteorology and Climate) y EOSAM.
+- Revisor de una decena de revistas internacionales de ciencia de materiales, termofísica, cristalografía e instrumentación; editor asociado de *Energies* (MDPI).
+- Vicepresidente de la sección local de la Real Sociedad Española de Física.
+- Acreditado para impartir docencia en inglés y en euskera; tres cursos impartidos en la Université Moulay Ismaïl, Errachidia, Marruecos.
+
+Bibliometría, para lo que vale: 73 documentos indexados en Scopus con 1 481 citas e índice h 23, en torno a 1 700 citas en fuentes más amplias, más de 110 publicaciones en total. La lista de publicaciones de este sitio se genera a partir de un registro sincronizado con OpenAlex y da sus propios recuentos.
+
+## En otros lugares
+
+- [ORCID 0000-0001-7983-5331](https://orcid.org/0000-0001-7983-5331)
+- [Google Scholar](https://scholar.google.es/citations?user=nYJ--CkAAAAJ)
+- [ResearchGate](https://www.researchgate.net/profile/Josu-Igartua)
+- [Portal de investigación UPV/EHU](https://ekoizpen-zientifikoa.ehu.eus/investigadores/128210/detalle)
+- [GitHub](https://github.com/jmigartua)
+
+```{=html}
+</article>
+```

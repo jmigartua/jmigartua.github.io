@@ -1,0 +1,35 @@
+---
+title: "Tesis dirigidas"
+description: "Tesis doctorales dirigidas por Josu M. Igartua y el sitio de los trabajos de fin de grado."
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs crumbs-wide"><a href="../index.html">igartua</a> / tesis</div>
+<div class="page-wide">
+<h1>Tesis dirigidas</h1>
+<p class="lede">Cinco tesis doctorales leídas entre 2003 y 2019, todas con la máxima calificación, y dos en curso. Los trabajos de fin de grado desde 2011, los que están en curso y las propuestas para el próximo curso tienen su propio sitio, porque un currículum no puede contener lo que son.</p>
+<div class="pub-year">Tesis doctorales<span class="n">5 leídas · 2 en curso</span></div>
+<div class="pub-block">
+<div class="pub-item"><div class="t">Estudio, mediante métodos de difracción, de la estructura cristalina y las transiciones de fase de las perovskitas dobles Sr₂MWO₆ (M = Ni, Zn, Co, Ca, Cd, Mg, Cu), SrLaMRuO₆ (M = Mn, Cu, Ni, Co, Fe, Zn, Mg) y La₂NiRuO₆</div><div class="ref"><strong>Milen Velev Gateshki</strong> · 2003 · Sobresaliente cum laude · Premio Extraordinario de Doctorado · en castellano</div><div class="m">Física Aplicada II, Facultad de Ciencia y Tecnología, UPV/EHU</div></div>
+<div class="pub-item"><div class="t">Estudio de las estructuras cristalinas y de las transiciones de fase en nuevos materiales de wolframio (SrM²⁺W⁶⁺O₆) y de antimonio (AM³⁺Sb⁵⁺O₆) con estructura de perovskita doble</div><div class="ref"><strong>Abdessamad Faik</strong> · 2009 · Sobresaliente cum laude · veintinueve compuestos estudiados, veintidós nuevos</div><div class="m"><a href="https://addi.ehu.es/handle/10810/13525">ADDI 10810/13525</a></div></div>
+<div class="pub-item"><div class="t">Crystal structure and phase transition studies in perovskite-type oxides using powder-diffraction techniques and symmetry-mode analysis: SrLnMRuO₆ and ALn₂CuTi₂O₉</div><div class="ref"><strong>Edurne Iturbe-Zabalo</strong> · 2012 · Apto cum laude · mención internacional</div><div class="m"><a href="https://addi.ehu.es/handle/10810/10151">ADDI 10810/10151</a></div></div>
+<div class="pub-item"><div class="t">Study of crystal structure and phase transitions in perovskite-type oxides using powder-diffraction techniques and symmetry-mode analysis</div><div class="ref"><strong>Brahim Orayech</strong> · 2015 · Apto cum laude · mención internacional · en inglés · seis familias de perovskitas, entre ellas Na₀.₅K₀.₅NbO₃ y las series Sr₂MSbO₆ y Sr₂M₁₋ₓM′ₓTeO₆</div><div class="m"><a href="https://addi.ehu.es/handle/10810/16288">ADDI 10810/16288</a></div></div>
+<div class="pub-item"><div class="t">Investigation of new nanofluids based on molten salts and their corrosion mechanisms for thermal energy storage applications</div><div class="ref"><strong>Udayashankar Nithiyanantham</strong> · 2019 · Apto cum laude · mención internacional · en inglés · codirigida con el Dr. Abdessamad Faik, CIC Energigune</div><div class="m"><a href="http://hdl.handle.net/10810/41974">ADDI 10810/41974</a></div></div>
+<div class="pub-item"><div class="t">Dos tesis doctorales en curso</div><div class="ref">Sobre propiedades radiativas a alta temperatura, metrología de la emisividad y materiales para la energía, en el grupo Thermomat.</div></div>
+</div>
+
+<div class="pub-year">Trabajos de fin de grado<span class="n">46 desde 2011 · en su propio sitio</span></div>
+<div class="pub-block">
+<div class="pub-item"><div class="t"><a href="https://jmigartua.github.io/tfgs-website/es/past-tfg/">igartua / gral-tfg · el archivo</a></div><div class="ref">Todos los Gradu Amaierako Lanak / Trabajos de Fin de Grado que he dirigido o codirigido, por curso académico, cada uno con su resumen, datos, figuras seleccionadas y bloque de cita. Treinta y nueve certificados hasta 2025 y siete en curso en 2026, en euskera, castellano e inglés.</div><div class="m"><a href="https://jmigartua.github.io/tfgs-website/es/on-going/">Trabajos en curso</a> · <a href="https://jmigartua.github.io/tfgs-website/es/proposals/">Propuestas para 2026–2027</a> · <a href="https://jmigartua.github.io/tfgs-website/preparing/">Manual de preparación</a></div></div>
+</div>
+
+<div class="pub-year">Otros trabajos supervisados</div>
+<div class="pub-block">
+<div class="pub-item"><div class="t">Trabajos de máster y predoctorales</div><div class="ref">Varios trabajos de fin de máster y DEA, tres trabajos de investigación y una tesina, incluidos proyectos realizados en grandes instalaciones europeas (ILL, ESRF) y en colaboración con empresas.</div></div>
+<div class="pub-item"><div class="t">Prácticas y trabajos académicamente dirigidos</div><div class="ref">Alrededor de veinticinco prácticas en empresa en el Grado en Física y la antigua licenciatura, y cinco trabajos académicamente dirigidos.</div></div>
+</div>
+</div>
+```

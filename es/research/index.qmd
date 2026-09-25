@@ -1,0 +1,64 @@
+---
+title: "Investigación"
+description: "Tres líneas: estructura y transiciones de fase en perovskitas, propiedades radiativas térmicas de materiales y computación en la enseñanza de la física."
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="../index.html">igartua</a> / investigación</div>
+<article class="page-article">
+<h1>Investigación</h1>
+<p class="sub">Dos líneas en la física de materiales y una en el aula de física. Comparten un hábito: dejar que los datos decidan la simetría y mantener la computación reproducible.</p>
+```
+
+## Estructura y transiciones de fase en perovskitas {#structure}
+
+Mi trabajo doctoral trató de transiciones de fase estructurales sólido-sólido en cristales ferroicos y afines, estudiadas mediante calorimetría adiabática y espectroscopia vibracional. De ahí la línea creció hacia los óxidos de tipo perovskita, simples ABO₃, dobles A₂BB′O₆ y triples, que se distorsionan respecto a su estructura cúbica ideal por giros de los octaedros, orden catiónico y desplazamientos fuera del centro, y cuyas propiedades magnéticas, dieléctricas y de transporte dependen de esas distorsiones. Durante treinta años he determinado las estructuras cristalinas de estos materiales y seguido sus transiciones de fase con la temperatura, con difracción de polvo de rayos X de laboratorio y sincrotrón, difracción de neutrones, espectroscopia Raman e infrarroja y calorimetría, en monocristales y polvos. Dieciocho experimentos en el Institut Laue-Langevin, el ESRF y la fuente SINQ del PSI pertenecen a esta línea, junto con cuatro de las cinco tesis doctorales que he dirigido.
+
+El método que une el trabajo es el análisis de modos de simetría, o cristalografía de modos: describir una estructura distorsionada no por coordenadas atómicas sino por las amplitudes de los modos adaptados a la simetría de la fase madre, tal como lo implementa AMPLIMODES en el Bilbao Crystallographic Server. Mi aportación propia, desarrollada sobre K₀.₅Na₀.₅NbO₃ y las familias Sr₂MM′O₆ con M′ = Sb, W, Mo, Ru, Te, es un protocolo de refinamiento parametrizado: los datos de alta resolución de un miembro de la familia fijan las relaciones entre amplitudes de modos, y esas relaciones permiten refinar hasta una solución con sentido físico los datos de rayos X de laboratorio, que por sí solos no resuelven elementos ligeros ni giros sutiles. Reduce la necesidad de experimentos caros de alta resolución y hace utilizables los datos preliminares.
+
+```{=html}
+<figure class="thesis-figure"><img src="../../assets/images/mode-amplitudes-tolerance.png" alt="Diagrama de dispersión de amplitudes de modos de simetría frente al factor de tolerancia para perovskitas dobles con Sb, W, Mo, Ru y Te en el sitio B prima"><figcaption>Amplitud del modo X₅⁺ y de sus componentes frente al factor de tolerancia experimental para perovskitas dobles Sr₂MM′O₆, con color según el catión B′. La regularidad entre familias es lo que explota el refinamiento parametrizado.</figcaption></figure>
+```
+
+## Propiedades radiativas térmicas de materiales {#radiation}
+
+En la última década mi actividad se ha desplazado a las propiedades termofísicas a alta temperatura y al comportamiento radiativo infrarrojo de materiales para la energía, en Thermomat, el grupo de investigación en propiedades termofísicas de materiales de la UPV/EHU, que codirijo. El grupo opera HAIRL, un radiómetro infrarrojo de alta precisión construido en casa: emisividad espectral direccional de 0,83 a 25 μm, de temperatura ambiente a 1000 °C, en atmósfera controlada, con presupuesto de incertidumbre completo. Mi parte del trabajo está tanto en el instrumento y sus datos como en las muestras: la actualización del emisómetro, el control de temperatura en cascada sin modelo publicado en *IEEE Transactions on Control Systems Technology*, el método de medida actualizado y el presupuesto de incertidumbre en *Metrologia*, el marco «fer» para el reporte FAIR de resultados experimentales trazables en *IEEE Transactions on Instrumentation and Measurement*, y EKHI, la base de datos abierta de propiedades ópticas y radiativas térmicas de sólidos descrita en *Scientific Data* e indexada por emissivity.org. Los materiales van de aceros en oxidación, aleaciones de alta entropía y materiales para fusión nuclear a superficies texturizadas por láser y recubrimientos selectivos para energía solar de concentración, en estrecha colaboración con CIC Energigune, Tecnalia, Petronor, ArcelorMittal y ESS Bilbao, y con socios académicos en el extranjero.
+
+```{=html}
+<figure class="thesis-figure"><img src="../../assets/images/hairl-schematic.png" alt="Esquema óptico del emisómetro HAIRL: espectrómetro FTIR, espejos parabólicos y giratorio, dos cuerpos negros, cámara de muestra con calefactor y vacío"><figcaption>Disposición óptica de HAIRL: el espectrómetro alterna entre la cámara de muestra y dos referencias de cuerpo negro mediante un espejo giratorio; la muestra descansa sobre un calefactor en vacío o purga, sobre un eje de rotación para medidas direccionales.</figcaption></figure>
+```
+
+## Computación en la enseñanza de la física {#teaching}
+
+La tercera línea empezó como una manera de enseñar termodinámica y se convirtió en investigación. Los cuadernos Jupyter escritos en euskera son el cuaderno de laboratorio de una asignatura teórica: los estudiantes deducen, calculan y representan en el mismo documento, y la asignatura lleva un diario de lo que se ha hecho. MinervaLab, un laboratorio interactivo de simulación de transiciones de fase de primer orden y del fluido de van der Waals, se construyó como trabajo de fin de grado bajo mi dirección, se publicó bajo GPL y es la base de las contribuciones de didáctica de la física que he presentado en CSEDU 2017, GIREP 2018 y la reunión bienal de la Real Sociedad Española de Física de 2019, y del proyecto de innovación docente sobre el cuaderno de laboratorio electrónico que dirigí en la UPV/EHU. Las mismas herramientas sirven ahora a otra pregunta: qué dicen los datos sobre cómo rinden los estudiantes, desde los registros de la propia asignatura hasta el examen de acceso de física en las distintas comunidades.
+
+```{=html}
+<figure class="thesis-figure"><img src="../../assets/images/minervalab-sketch.png" alt="Boceto de planificación de MinervaLab dibujado a mano, con cajas numeradas de cronograma y códigos de aplicación"><figcaption>El boceto de planificación de MinervaLab: una descomposición de las aplicaciones de simulación, cada una con su código, dibujada antes de escribir una línea. El software está en GitHub en jongablop/MinervaLab.</figcaption></figure>
+```
+
+## Proyectos y contratos
+
+Más de cuarenta proyectos de investigación competitivos, grupos de investigación reconocidos y acciones financiadas a lo largo de la carrera, al menos ocho como investigador principal o coprincipal, incluidos los experimentos en grandes instalaciones europeas. Los recientes, todos en el grupo Thermomat:
+
+```{=html}
+<table>
+<thead><tr><th>Años</th><th>Proyecto</th><th>Financiador</th></tr></thead>
+<tbody>
+<tr><td>2025–2026</td><td>SIMULATE: aproximaciones de simulación multiescala y multifísica con aplicación en microfabricación láser (KK-2025/00075)</td><td>Gobierno Vasco, 135 284 €</td></tr>
+<tr><td>2024–2026</td><td>Estudio sistemático de defectos en la producción de aceros para su trazabilidad y eficiencia (US24/04), con Sidenor I+D</td><td>UPV/EHU, 14 585 €</td></tr>
+<tr><td>2021–2025</td><td>Grupo de investigación en propiedades termofísicas de materiales (IT1714-22)</td><td>Gobierno Vasco, 104 400 €</td></tr>
+<tr><td>2021–2023</td><td>Caracterización de aleaciones aeronáuticas de última generación para alta temperatura (PIBA_2021_1_0022)</td><td>Gobierno Vasco, 50 000 €</td></tr>
+<tr><td>2019–2022</td><td>Grupo de investigación en propiedades termofísicas de materiales (GIU19/019, IT1364-19)</td><td>UPV/EHU y Gobierno Vasco, 26 271 €</td></tr>
+<tr><td>2019–2021</td><td>Modelización para el desarrollo de algoritmos de corrección en termografía (US19/13), con Petronor</td><td>UPV/EHU, 63 450 €</td></tr>
+<tr><td>2018–2019</td><td>Investigación fundamental estratégica en almacenamiento de energía electroquímica y térmica para sistemas híbridos (ELKARTEK KK-2018/00098), coordinado por CIC Energigune</td><td>Gobierno Vasco, 74 018 € para el grupo de 3,1 M€ en total</td></tr>
+</tbody>
+</table>
+<p style="margin-top:22px">Contratos con empresas: propiedades termo-ópticas de materiales para ITP Aero (2025); técnicas termo-ópticas para la temperatura de piel de tubo en hornos de Petronor (2019–2021); emisividad infrarroja de acero 316L con distintos acabados superficiales para ESS Bilbao (2017).</p>
+```
+
+```{=html}
+</article>
+```

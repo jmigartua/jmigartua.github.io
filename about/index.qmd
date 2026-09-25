@@ -9,25 +9,27 @@ toc: false
 ```{=html}
 <div class="crumbs"><a href="../index.html">igartua</a> / about</div>
 <article class="page-article">
-<div class="thesis-hero" style="display:grid;grid-template-columns:200px 1fr;gap:32px;align-items:start;margin:0 0 32px;padding:24px;background:var(--tint);border:1px solid var(--line)">
-  <figure class="thesis-portrait" style="margin:0"><img src="../assets/images/josu-igartua.png" alt="Josu M. Igartua" style="width:100%;height:auto;display:block;border:1px solid var(--line);aspect-ratio:1/1;object-fit:cover"></figure>
+<div style="display:grid;grid-template-columns:200px 1fr;gap:32px;align-items:start;margin:0 0 32px;padding:24px;background:var(--tint);border:1px solid var(--line)">
+  <figure style="margin:0"><img src="../assets/images/josu-igartua.png" alt="Josu M. Igartua" style="width:100%;height:auto;display:block;border:1px solid var(--line);aspect-ratio:1/1;object-fit:cover"></figure>
   <div class="thesis-facts" style="margin:0;padding:0;background:none;border:0">
     <div class="row"><div class="k">Name</div><div class="v">Josu Mirena Igartua Aldamiz</div></div>
-    <div class="row"><div class="k">Position</div><div class="v">Full Professor of Physics (Catedrático de Universidad), since 2020</div></div>
+    <div class="row"><div class="k">Position</div><div class="v">Full Professor of Physics (Catedrático de Universidad), since 2 November 2020</div></div>
     <div class="row"><div class="k">Department</div><div class="v">Physics Department, Faculty of Science and Technology, UPV/EHU, Leioa</div></div>
     <div class="row"><div class="k">Area</div><div class="v">Applied Physics &middot; Thermodynamics and statistical physics</div></div>
-    <div class="row"><div class="k">Group</div><div class="v">Thermomat / HAIRL, thermophysical properties of materials</div></div>
+    <div class="row"><div class="k">Group</div><div class="v">Thermomat / HAIRL, thermophysical properties of materials (co-lead)</div></div>
     <div class="row"><div class="k">Languages</div><div class="v">Basque, Spanish, English; teaching in Basque since 1993</div></div>
     <div class="row"><div class="k">Contact</div><div class="v"><a href="mailto:josu.igartua@ehu.eus">josu.igartua@ehu.eus</a> &middot; <a href="https://orcid.org/0000-0001-7983-5331">ORCID 0000-0001-7983-5331</a></div></div>
   </div>
 </div>
 <h1>Career</h1>
-<p class="sub">Thirty-four years at the University of the Basque Country, in the same faculty and, since 2011, the same course.</p>
+<p class="sub">Thirty-eight years at the University of the Basque Country, in the same faculty and, since 2011, the same course.</p>
 ```
 
-I studied physics at the University of the Basque Country and obtained my doctorate in solid-state physics there in 1994, on the crystallography of perovskite-type oxides. I joined the teaching staff in 1992, first at the industrial engineering school in Bilbao and then at the Faculty of Science and Technology in Leioa, became a tenured associate professor (Profesor Titular) in 1997, and was appointed Full Professor of Physics in 2020, in the area of Applied Physics with the profile of thermodynamics and statistical physics, bilingual Basque and Spanish.
+I graduated in physics at the University of the Basque Country in 1988, in the solid-state physics track, and obtained my doctorate there in 1994 with a thesis on solid-solid structural phase transitions studied by adiabatic calorimetry and vibrational spectroscopy. My whole academic career has been at this university: research collaborator and doctoral fellow from 1988, assistant professor from 1992, tenured associate professor (Profesor Titular) from 1997, and Full Professor of Physics since 2 November 2020, in the area of Applied Physics with the profile of thermodynamics and statistical physics, bilingual Basque and Spanish.
 
-For most of that time my research was the structural physics of solids: crystal structures and phase transitions in simple and double perovskites, studied with powder diffraction, Raman spectroscopy and symmetry-mode analysis, with experiments at the Institut Laue-Langevin, the ESRF and the Paul Scherrer Institute. Around 2018 I moved into the Thermomat group, which measures and models the thermal radiative properties of materials, and I am one of its two principal investigators. Since 2011 my teaching has been one course, Termodinamika eta Fisika Estatistikoa, and the bachelor's theses that grow out of it.
+My early research was the physics of structural phase transitions in ferroic and related crystals and in simple, double and triple perovskites, combining adiabatic calorimetry with Raman, infrared, X-ray and neutron diffraction on single crystals and powders, in collaboration with international groups and with the large neutron and synchrotron facilities in Europe. That work established my expertise in crystallographic mode analysis and in structure–property relations in complex oxides, and produced five doctoral theses. Over the last decade my activity has moved towards the high-temperature thermophysical and infrared radiative behaviour of materials for energy, in the Thermomat group, which I co-lead: the development and upgrade of the group's HAIRL emissometer and the methodology for high-accuracy, angle-resolved emissivity measurements, with applications to concentrated solar power, fusion materials, advanced steels and coated surfaces, in close collaboration with CIC Energigune, Tecnalia, Petronor, ArcelorMittal and ESS Bilbao among others.
+
+In teaching, I introduced thermodynamics and its neighbouring subjects in Basque at this university and prepared the first complete set of materials for it, including translations of the core textbooks and, later, university-level textbooks of my own. Since 2011 my teaching has been one course, Termodinamika eta Fisika Estatistikoa, and the bachelor's theses that grow out of it.
 
 ## Timeline
 
@@ -35,25 +37,29 @@ For most of that time my research was the structural physics of solids: crystal 
 <table>
 <thead><tr><th>Years</th><th>Position</th><th>Where</th></tr></thead>
 <tbody>
-<tr><td>1989–1992</td><td>Doctoral fellow, Basque Government</td><td>UPV/EHU</td></tr>
-<tr><td>1992–1993</td><td>Lecturer (Profesor Titular de Escuela Universitaria, interim; then Profesor Asociado)</td><td>Industrial Engineering School, Bilbao, and Faculty of Science and Technology, Leioa</td></tr>
-<tr><td>1993–1995</td><td>Associate lecturer, bilingual</td><td>Faculty of Science and Technology, Leioa</td></tr>
-<tr><td>1994</td><td>PhD in Solid State Physics</td><td>UPV/EHU</td></tr>
-<tr><td>1995–1997</td><td>Profesor Titular de Universidad, interim</td><td>Applied Physics II</td></tr>
-<tr><td>1997–2020</td><td>Profesor Titular de Universidad, tenured</td><td>Applied Physics II</td></tr>
+<tr><td>1988</td><td>Licenciado en Ciencias, Physics, solid-state physics track</td><td>UPV/EHU</td></tr>
+<tr><td>1988–1992</td><td>Research collaborator and doctoral fellow (Basque Government)</td><td>UPV/EHU</td></tr>
+<tr><td>1992–1997</td><td>Assistant professor (Profesor Asociado), bilingual</td><td>Industrial Engineering School, Bilbao; Faculty of Science and Technology, Leioa</td></tr>
+<tr><td>1994</td><td>PhD in Physics, solid-solid structural phase transitions</td><td>UPV/EHU</td></tr>
+<tr><td>1997–2020</td><td>Associate professor (Profesor Titular de Universidad), tenured</td><td>Applied Physics II, Faculty of Science and Technology</td></tr>
 <tr><td>2012–2015</td><td>Vice-Dean for Students and Academic Exchange</td><td>Faculty of Science and Technology</td></tr>
-<tr><td>2020–</td><td>Full Professor of Physics (Catedrático de Universidad)</td><td>Physics Department, UPV/EHU</td></tr>
+<tr><td>2020–</td><td>Full Professor of Physics (Catedrático de Universidad)</td><td>Physics Department, Faculty of Science and Technology</td></tr>
 </tbody>
 </table>
 ```
 
 ## Recognition
 
-- Five six-year research periods (sexenios) recognised, the latest starting in 2019, and five five-year teaching periods (quinquenios) as of 2020.
-- Teaching evaluated twice under the DOCENTIAZ programme, both times in the top band ("Oso ongi"), with scores of 82.4 and 95.7 over the periods 2008–2013 and 2013–2018.
-- Doctoral supervision: five theses, all with the highest grade, three with international mention, one with the extraordinary doctorate prize.
-- Associate editor of *Energies* (MDPI); reviewer for *Journal of Solid State Chemistry*, *Materials Chemistry and Physics*, the *Physical Review* journals, *Journal of Alloys and Compounds* and *Zeitschrift für Kristallographie*, among others.
+- Six six-year research periods (sexenios) recognised by CNEAI, the maximum available in my career, and six five-year teaching periods (quinquenios) awarded by UPV/EHU, likewise the maximum.
+- A1 research-and-teaching supplement granted by Unibasq in 2015, which formally recognises the combination of research and teaching quality.
+- Teaching evaluated under the DOCENTIAZ programme in the top band ("Oso ongi"), with scores of 82.4 and 95.7 for the periods 2008–2013 and 2013–2018.
+- Five doctoral theses completed, all with the highest grade, three with international mention, one with the extraordinary doctorate prize; two in progress.
+- Around 100 conference contributions, with invited talks at THERMEC, EUROMAT, the MRS Spring Meeting, MMC (Metrology for Meteorology and Climate) and EOSAM.
+- Referee for around ten international journals in materials science, thermophysics, crystallography and instrumentation; associate editor of *Energies* (MDPI).
+- Vice-president of the local section of the Real Sociedad Española de Física.
 - Accredited to teach in English and in Basque; three courses taught at Université Moulay Ismaïl, Errachidia, Morocco.
+
+Bibliometrics, for what they are worth: 73 documents indexed in Scopus with 1 481 citations and an h-index of 23, around 1 700 citations in broader sources, more than 110 publications in all. The publication list on this site is generated from an OpenAlex-synchronised registry and gives its own counts.
 
 ## Elsewhere
 

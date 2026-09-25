@@ -15,7 +15,7 @@ toc: false
 
 ## Structure and phase transitions in perovskites {#structure}
 
-Perovskite oxides, simple ABO₃ and double A₂BB′O₆, distort from their ideal cubic structure through octahedral tilts, cation ordering and off-centre displacements, and those distortions decide their magnetic, dielectric and transport properties. For thirty years I have determined the crystal structures of these materials and followed their phase transitions with temperature, using laboratory and synchrotron X-ray powder diffraction, neutron diffraction and Raman spectroscopy. Eighteen experiments at the Institut Laue-Langevin, the ESRF and the SINQ source at PSI, fifty-three days of beam time in total, belong to this line, together with four of the five doctoral theses I have directed.
+My doctoral work was on solid-solid structural phase transitions in ferroic and related crystals, studied by adiabatic calorimetry and vibrational spectroscopy. From there the line grew into the perovskite oxides, simple ABO₃, double A₂BB′O₆ and triple, which distort from their ideal cubic structure through octahedral tilts, cation ordering and off-centre displacements, and whose magnetic, dielectric and transport properties depend on those distortions. For thirty years I have determined the crystal structures of these materials and followed their phase transitions with temperature, using laboratory and synchrotron X-ray powder diffraction, neutron diffraction, Raman and infrared spectroscopy and calorimetry, on single crystals and powders. Eighteen experiments at the Institut Laue-Langevin, the ESRF and the SINQ source at PSI belong to this line, together with four of the five doctoral theses I have directed.
 
 The method that ties the work together is symmetry-mode analysis, or mode crystallography: describing a distorted structure not by atomic coordinates but by the amplitudes of the symmetry-adapted modes of the parent phase, as implemented in the Bilbao Crystallographic Server's AMPLIMODES. My own contribution, developed on K₀.₅Na₀.₅NbO₃ and the Sr₂MM′O₆ families with M′ = Sb, W, Mo, Ru, Te, is a parametrised refinement protocol: high-resolution data on one member of a family fix the relations among mode amplitudes, and those relations let laboratory X-ray data, which cannot resolve light elements or subtle tilts on their own, be refined to a physically meaningful solution. It reduces the need for expensive high-resolution experiments and makes preliminary data usable.
 
@@ -25,7 +25,7 @@ The method that ties the work together is symmetry-mode analysis, or mode crysta
 
 ## Thermal radiative properties of materials {#radiation}
 
-Since 2018 I work in Thermomat, the research group on the thermophysical properties of materials at UPV/EHU, which operates HAIRL, a high-accuracy infrared radiometer built in-house: directional spectral emissivity from 0.83 to 25 μm, from room temperature to 1000 °C, in controlled atmosphere, with a full uncertainty budget. I am one of the group's two principal investigators. My part of the work is on the instrument and its data rather than on the samples: the model-free cascaded temperature control of the emissometer, the updated measurement method and uncertainty budget published in *Metrologia*, the "fer" framework for FAIR-compliant reporting of traceable experimental results, and EKHI, the open database of optical and thermal radiative properties of solids described in *Scientific Data* and indexed as a reference resource by emissivity.org. The materials side of the line ranges from oxidising steels and nuclear alloys to laser-patterned surfaces and emissivity-engineered coatings for concentrated solar power.
+Over the last decade my activity has moved to the high-temperature thermophysical properties and the infrared radiative behaviour of materials for energy, in Thermomat, the research group on the thermophysical properties of materials at UPV/EHU, which I co-lead. The group operates HAIRL, a high-accuracy infrared radiometer built in-house: directional spectral emissivity from 0.83 to 25 μm, from room temperature to 1000 °C, in controlled atmosphere, with a full uncertainty budget. My part of the work is on the instrument and its data as much as on the samples: the upgrade of the emissometer, the model-free cascaded temperature control published in *IEEE Transactions on Control Systems Technology*, the updated measurement method and uncertainty budget in *Metrologia*, the "fer" framework for FAIR-compliant reporting of traceable experimental results in *IEEE Transactions on Instrumentation and Measurement*, and EKHI, the open database of optical and thermal radiative properties of solids described in *Scientific Data* and indexed by emissivity.org. The materials range from oxidising steels, high-entropy alloys and materials for nuclear fusion to laser-patterned surfaces and spectrally selective coatings for concentrated solar power, in close collaboration with CIC Energigune, Tecnalia, Petronor, ArcelorMittal and ESS Bilbao, and with academic partners abroad.
 
 ```{=html}
 <figure class="thesis-figure"><img src="../assets/images/hairl-schematic.png" alt="Optical schematic of the HAIRL emissometer: FTIR spectrometer, parabolic and rotary mirrors, two blackbodies, sample chamber with heater and vacuum"><figcaption>Optical layout of HAIRL: the spectrometer alternates between the sample chamber and two blackbody references through a rotary mirror; the sample sits on a heater under vacuum or purge, on a rotation axis for directional measurements.</figcaption></figure>
@@ -39,9 +39,25 @@ The third line began as a way of teaching thermodynamics and became research. Ju
 <figure class="thesis-figure"><img src="../assets/images/minervalab-sketch.png" alt="Hand-drawn planning sketch of MinervaLab, with numbered timeline boxes and application codes"><figcaption>The planning sketch of MinervaLab: a product breakdown of the simulation apps, each with its code, drawn before a line was written. The software is on GitHub under jongablop/MinervaLab.</figcaption></figure>
 ```
 
-## Projects and facilities
+## Projects and contracts
 
-Ten recognised research groups and twenty-one competitive projects as of 2020, among them the Basque Government's ELKARTEK programme (2018–2019, co-principal investigator for the UPV/EHU node), the Spanish national plan (MAT2012-34740; MINECOG15/P65, 2016–2018), and infrastructure grants for a high-temperature infrared camera. Eighteen experiments at European large-scale facilities, worth about 550 000 € of beam time, several as principal investigator.
+More than forty competitive research projects, recognised research groups and funded actions over the career, at least eight of them as principal or co-principal investigator, including the experiments at European large-scale facilities. The recent ones, all within the Thermomat group:
+
+```{=html}
+<table>
+<thead><tr><th>Years</th><th>Project</th><th>Funder</th></tr></thead>
+<tbody>
+<tr><td>2025–2026</td><td>SIMULATE: multiscale, multiphysics simulation approaches for laser micro-fabrication (KK-2025/00075)</td><td>Basque Government, 135 284 €</td></tr>
+<tr><td>2024–2026</td><td>Systematic study of defects in steel production for traceability and efficiency (US24/04), with Sidenor I+D</td><td>UPV/EHU, 14 585 €</td></tr>
+<tr><td>2021–2025</td><td>Thermophysical Properties of Materials research group (IT1714-22)</td><td>Basque Government, 104 400 €</td></tr>
+<tr><td>2021–2023</td><td>Characterization of last-generation aeronautical alloys for high temperature (PIBA_2021_1_0022)</td><td>Basque Government, 50 000 €</td></tr>
+<tr><td>2019–2022</td><td>Thermophysical Properties of Materials research group (GIU19/019, IT1364-19)</td><td>UPV/EHU and Basque Government, 26 271 €</td></tr>
+<tr><td>2019–2021</td><td>Modelling for correction algorithms in thermography (US19/13), with Petronor</td><td>UPV/EHU, 63 450 €</td></tr>
+<tr><td>2018–2019</td><td>Strategic fundamental research on electrochemical and thermal energy storage for hybrid systems (ELKARTEK KK-2018/00098), coordinated by CIC Energigune</td><td>Basque Government, 74 018 € for the group of 3.1 M€ in total</td></tr>
+</tbody>
+</table>
+<p style="margin-top:22px">Contracts with industry: thermo-optical properties of materials for ITP Aero (2025); thermo-optical techniques for tube-skin temperature in Petronor furnaces (2019–2021); infrared emissivity of 316L steel with different surface finishes for ESS Bilbao (2017).</p>
+```
 
 ```{=html}
 </article>

@@ -1,0 +1,74 @@
+---
+title: "Nor naiz"
+description: "Josu M. Igartuaren ibilbidea, postua eta profilak."
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="../index.html">igartua</a> / nor naiz</div>
+<article class="page-article">
+<div style="display:grid;grid-template-columns:200px 1fr;gap:32px;align-items:start;margin:0 0 32px;padding:24px;background:var(--tint);border:1px solid var(--line)">
+  <figure style="margin:0"><img src="../../assets/images/josu-igartua.png" alt="Josu M. Igartua" style="width:100%;height:auto;display:block;border:1px solid var(--line);aspect-ratio:1/1;object-fit:cover"></figure>
+  <div class="thesis-facts" style="margin:0;padding:0;background:none;border:0">
+    <div class="row"><div class="k">Izena</div><div class="v">Josu Mirena Igartua Aldamiz</div></div>
+    <div class="row"><div class="k">Postua</div><div class="v">Unibertsitateko katedraduna, Fisika, 2020ko azaroaren 2tik</div></div>
+    <div class="row"><div class="k">Saila</div><div class="v">Fisika Saila, Zientzia eta Teknologia Fakultatea, UPV/EHU, Leioa</div></div>
+    <div class="row"><div class="k">Arloa</div><div class="v">Fisika Aplikatua &middot; Termodinamika eta fisika estatistikoa</div></div>
+    <div class="row"><div class="k">Taldea</div><div class="v">Thermomat / HAIRL, materialen propietate termofisikoak (ko-zuzendaria)</div></div>
+    <div class="row"><div class="k">Hizkuntzak</div><div class="v">Euskara, gaztelania, ingelesa; irakaskuntza euskaraz 1993tik</div></div>
+    <div class="row"><div class="k">Harremana</div><div class="v"><a href="mailto:josu.igartua@ehu.eus">josu.igartua@ehu.eus</a> &middot; <a href="https://orcid.org/0000-0001-7983-5331">ORCID 0000-0001-7983-5331</a></div></div>
+  </div>
+</div>
+<h1>Ibilbidea</h1>
+<p class="sub">Hogeita hemezortzi urte Euskal Herriko Unibertsitatean, fakultate berean eta, 2011tik, irakasgai berean.</p>
+```
+
+Fisikan lizentziatu nintzen Euskal Herriko Unibertsitatean 1988an, solidoen egoeraren fisikaren espezialitatean, eta bertan doktoratu nintzen 1994an, kalorimetria adiabatikoz eta bibrazio-espektroskopiaz aztertutako solido-solido fase-trantsizio estrukturalei buruzko tesi batekin. Nire ibilbide akademiko osoa unibertsitate honetan egin dut: ikerketa-laguntzaile eta doktorego aurreko bekadun 1988tik, irakasle elkartu 1992tik, unibertsitateko irakasle titular 1997tik eta unibertsitateko katedradun 2020ko azaroaren 2tik, Fisika Aplikatuaren arloan, termodinamika eta fisika estatistikoaren profilarekin, euskara eta gaztelania elebidun.
+
+Nire hasierako ikerketa kristal ferroikoen eta antzekoen eta perobskita sinple, bikoitz eta hirukoitzen fase-trantsizio estrukturalen fisika izan zen, kalorimetria adiabatikoa X izpien eta neutroien difrakzioarekin eta Raman eta infragorri espektroskopiarekin konbinatuz monokristaletan eta hautsetan, nazioarteko taldeekin eta Europako neutroi- eta sinkrotroi-instalazio handiekin lankidetzan. Lan horrek moduen analisi kristalografikoan eta oxido konplexuen egitura-propietate erlazioetan finkatu zuen nire espezializazioa, eta bost doktorego-tesi eman zituen. Azken hamarkadan nire jarduera energiarako materialen tenperatura altuko portaera termofisikora eta erradiatibo infragorrira mugitu da, Thermomat taldean, nik ko-zuzentzen dudana: taldearen HAIRL emisometroaren garapena eta eguneratzea eta zehaztasun handiko emisibitate-neurketa angeluarren metodologia, kontzentrazio bidezko eguzki-energiarako, fusio-materialetarako, altzairu aurreraturako eta gainazal estalietarako aplikazioekin, CIC Energigune, Tecnalia, Petronor, ArcelorMittal eta ESS Bilbao eta beste batzuekin lankidetza estuan.
+
+Irakaskuntzan, termodinamika eta inguruko gaiak euskaraz sartu nituen unibertsitate honetan eta horretarako lehen material-multzo osoa prestatu nuen, erreferentziazko testuliburuen itzulpenak barne eta, geroago, neure unibertsitate-testuliburuak. 2011tik nire irakaskuntza irakasgai bakarra da, Termodinamika eta Fisika Estatistikoa, eta hortik sortzen diren gradu amaierako lanak.
+
+## Kronologia
+
+```{=html}
+<table>
+<thead><tr><th>Urteak</th><th>Postua</th><th>Non</th></tr></thead>
+<tbody>
+<tr><td>1988</td><td>Zientzietan lizentziatua, Fisika, solidoen egoeraren fisikaren espezialitatea</td><td>UPV/EHU</td></tr>
+<tr><td>1988–1992</td><td>Ikerketa-laguntzailea eta doktorego aurreko bekaduna (Eusko Jaurlaritza)</td><td>UPV/EHU</td></tr>
+<tr><td>1992–1997</td><td>Irakasle elkartua, elebiduna</td><td>Industria Ingeniaritzako Eskola, Bilbo; Zientzia eta Teknologia Fakultatea, Leioa</td></tr>
+<tr><td>1994</td><td>Fisikan doktorea, solido-solido fase-trantsizio estrukturalak</td><td>UPV/EHU</td></tr>
+<tr><td>1997–2020</td><td>Unibertsitateko irakasle titularra</td><td>Fisika Aplikatua II, Zientzia eta Teknologia Fakultatea</td></tr>
+<tr><td>2012–2015</td><td>Ikasleen eta Truke Akademikoaren dekanordea</td><td>Zientzia eta Teknologia Fakultatea</td></tr>
+<tr><td>2020–</td><td>Unibertsitateko katedraduna, Fisika</td><td>Fisika Saila, Zientzia eta Teknologia Fakultatea</td></tr>
+</tbody>
+</table>
+```
+
+## Aitorpenak
+
+- CNEAIk aitortutako sei ikerketa-seiurteko, nire ibilbidean ahal den gehienekoa, eta UPV/EHUk aitortutako sei irakaskuntza-bosturteko, era berean gehienekoa.
+- Unibasqek 2015ean emandako A1 ikerketa- eta irakaskuntza-osagarria, ikerketa- eta irakaskuntza-kalitatearen konbinazioa formalki aitortzen duena.
+- Irakaskuntza DOCENTIAZ programan goiko mailan ebaluatua («Oso ongi»), 82,4 eta 95,7 punturekin 2008–2013 eta 2013–2018 aldietan.
+- Bost doktorego-tesi defendatuak, guztiak kalifikazio gorenarekin, hiru nazioarteko aipamenarekin, bat doktorego-sari bereziarekin; bi martxan.
+- Ehun bat kongresu-ekarpen, gonbidatutako hitzaldiekin THERMEC, EUROMAT, MRS Spring Meeting, MMC (Metrology for Meteorology and Climate) eta EOSAM bileretan.
+- Materialen zientzia, termofisika, kristalografia eta instrumentazioko hamar bat nazioarteko aldizkariren berrikuslea; *Energies* (MDPI) aldizkariaren editore elkartua.
+- Real Sociedad Española de Física elkartearen tokiko sekzioaren presidenteordea.
+- Ingelesez eta euskaraz irakasteko akreditatua; hiru ikastaro emanak Université Moulay Ismaïl unibertsitatean, Errachidia, Maroko.
+
+Bibliometria, balio duenerako: Scopusen indexatutako 73 dokumentu, 1 481 aipurekin eta h indizea 23, 1 700 aipu inguru iturri zabalagoetan, 110 argitalpen baino gehiago guztira. Webgune honetako argitalpen-zerrenda OpenAlexekin sinkronizatutako erregistro batetik sortzen da eta bere zenbaketak ematen ditu.
+
+## Beste toki batzuetan
+
+- [ORCID 0000-0001-7983-5331](https://orcid.org/0000-0001-7983-5331)
+- [Google Scholar](https://scholar.google.es/citations?user=nYJ--CkAAAAJ)
+- [ResearchGate](https://www.researchgate.net/profile/Josu-Igartua)
+- [UPV/EHUko ikerketa-ataria](https://ekoizpen-zientifikoa.ehu.eus/investigadores/128210/detalle)
+- [GitHub](https://github.com/jmigartua)
+
+```{=html}
+</article>
+```

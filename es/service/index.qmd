@@ -1,0 +1,49 @@
+---
+title: "Gestión académica"
+description: "Cargos, comisiones y tribunales en la Universidad del País Vasco."
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="../index.html">igartua</a> / gestión</div>
+<article class="page-article">
+<h1>Gestión académica</h1>
+<p class="sub">Diez cargos unipersonales y una larga lista de comisiones, la mayoría en la Facultad de Ciencia y Tecnología.</p>
+```
+
+## Cargos
+
+```{=html}
+<table>
+<thead><tr><th>Años</th><th>Cargo</th></tr></thead>
+<tbody>
+<tr><td>2017–</td><td>Coordinador del diseño y preparación del examen de Física de acceso a la universidad (EAU / PAU) en el País Vasco</td></tr>
+<tr><td>2016–</td><td>Miembro de la Comisión Universitaria de Evaluación Docente (CUED), todos los años desde 2016: el cargo ocupa entre ocho y diez meses de cada año, durante cada edición de DOCENTIAZ, desde la apertura de solicitudes hasta la resolución de las reclamaciones</td></tr>
+<tr><td>2016–</td><td>Miembro de la Comisión de Garantía de Calidad de la Facultad de Ciencia y Tecnología</td></tr>
+<tr><td>2012–2015</td><td>Vicedecano de Alumnado y de Intercambio Académico, Facultad de Ciencia y Tecnología</td></tr>
+<tr><td>2012–2015</td><td>Coordinador general de la Comisión de Intercambio Académico y presidente de la Comisión de Ordenación Académica y Convalidación de Estudios</td></tr>
+<tr><td>2011–2013</td><td>Coordinador general de intercambio académico del Grado en Física</td></tr>
+<tr><td>2010–</td><td>Coordinador de la asignatura Termodinamika eta Fisika Estatistikoa</td></tr>
+<tr><td>2006–2010</td><td>Coordinador de la Licenciatura en Física</td></tr>
+<tr><td></td><td>Coordinador de la Licenciatura en Ciencias Ambientales</td></tr>
+<tr><td>varios</td><td>Miembro, y en ocasiones presidente, de la comisión de euskera que certifica la capacitación para impartir docencia en euskera</td></tr>
+</tbody>
+</table>
+```
+
+## Comisiones y tribunales
+
+- Miembro electo de la Junta de Facultad (PDI doctor permanente) y de su Comisión Permanente.
+- Miembro de las comisiones que diseñaron el mapa de titulaciones de la facultad y de la Comisión de Estudios de Grado en Física.
+- Miembro del grupo de apoyo al plan estratégico de la facultad; miembro de los grupos de mejora KOORDINA y EKOSCAN.
+- Tribunales: de tesis doctorales, de trabajos de fin de máster, de al menos tres trabajos de fin de grado cada año desde 2011, de las pruebas de acceso a la universidad y de las bolsas de contratación del departamento.
+
+## Sociedades, edición y revisión
+
+Vicepresidente de la sección local de la Real Sociedad Española de Física. Editor asociado de *Energies* (MDPI). Revisor de una decena de revistas internacionales de ciencia de materiales, termofísica, cristalografía e instrumentación, entre ellas *Journal of Solid State Chemistry*, *Materials Chemistry and Physics*, las revistas *Physical Review*, *Journal of Alloys and Compounds* y *Zeitschrift für Kristallographie*, con varias decenas de revisiones completadas.
+
+```{=html}
+</article>
+```

@@ -1,0 +1,49 @@
+---
+title: "Kudeaketa akademikoa"
+description: "Karguak, batzordeak eta epaimahaiak Euskal Herriko Unibertsitatean."
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="../index.html">igartua</a> / kudeaketa</div>
+<article class="page-article">
+<h1>Kudeaketa akademikoa</h1>
+<p class="sub">Hamar kargu pertsonal eta batzorde-zerrenda luze bat, gehienak Zientzia eta Teknologia Fakultatean.</p>
+```
+
+## Karguak
+
+```{=html}
+<table>
+<thead><tr><th>Urteak</th><th>Kargua</th></tr></thead>
+<tbody>
+<tr><td>2017–</td><td>Euskadin unibertsitatera sartzeko Fisikako azterketaren (EAU / PAU) diseinuaren eta prestaketaren koordinatzailea</td></tr>
+<tr><td>2016–</td><td>Irakaskuntza Ebaluatzeko Unibertsitate Batzordeko (CUED) kidea, urtero 2016tik: karguak urte bakoitzeko zortzi-hamar hilabete hartzen ditu, DOCENTIAZ edizio bakoitzean zehar, eskaerak irekitzen direnetik erreklamazioen ebazpena amaitu arte</td></tr>
+<tr><td>2016–</td><td>Zientzia eta Teknologia Fakultateko Kalitatea Bermatzeko Batzordeko kidea</td></tr>
+<tr><td>2012–2015</td><td>Ikasleen eta Truke Akademikoaren dekanordea, Zientzia eta Teknologia Fakultatea</td></tr>
+<tr><td>2012–2015</td><td>Truke Akademikoko Batzordearen koordinatzaile nagusia eta Antolaketa Akademikoko eta Ikasketen Baliozkotzeko Batzordearen presidentea</td></tr>
+<tr><td>2011–2013</td><td>Fisikako Graduko truke akademikoaren koordinatzaile nagusia</td></tr>
+<tr><td>2010–</td><td>Termodinamika eta Fisika Estatistikoa irakasgaiaren koordinatzailea</td></tr>
+<tr><td>2006–2010</td><td>Fisikako Lizentziaturaren koordinatzailea</td></tr>
+<tr><td></td><td>Ingurumen Zientzietako Lizentziaturaren koordinatzailea</td></tr>
+<tr><td>hainbat</td><td>Euskaraz irakasteko gaitasuna ziurtatzen duen euskara-batzordeko kidea, eta batzuetan presidentea</td></tr>
+</tbody>
+</table>
+```
+
+## Batzordeak eta epaimahaiak
+
+- Fakultate Batzarreko kide hautatua (irakasle-ikertzaile doktore iraunkorrak) eta bere Batzorde Iraunkorreko kidea.
+- Fakultatearen titulazio-mapa diseinatu zuten batzordeetako kidea eta Fisikako Graduko Ikasketa Batzordeko kidea.
+- Fakultatearen plan estrategikoaren laguntza-taldeko kidea; KOORDINA eta EKOSCAN hobekuntza-taldeetako kidea.
+- Epaimahaiak: doktorego-tesienak, master amaierako lanenak, 2011tik urtero gutxienez hiru gradu amaierako lanenak, unibertsitatera sartzeko probenak eta sailaren kontratazio-poltsenak.
+
+## Elkarteak, edizioa eta berrikuspena
+
+Real Sociedad Española de Física elkartearen tokiko sekzioaren presidenteordea. *Energies* (MDPI) aldizkariaren editore elkartua. Materialen zientzia, termofisika, kristalografia eta instrumentazioko hamar bat nazioarteko aldizkariren berrikuslea, tartean *Journal of Solid State Chemistry*, *Materials Chemistry and Physics*, *Physical Review* aldizkariak, *Journal of Alloys and Compounds* eta *Zeitschrift für Kristallographie*, hainbat dozena berrikuspen osaturekin.
+
+```{=html}
+</article>
+```

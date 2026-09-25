@@ -1,19 +1,44 @@
 <!-- Site header. Root-absolute hrefs are rewritten by Quarto to page-relative
-     links at render time. Design system shared with emissivity.org, thermomat
-     and igartua / gral-tfg. -->
+     links at render time. Three navigations, switched by <html lang> via CSS
+     (lang is set per directory in _metadata.yml). -->
 <div class="topline"></div>
 <header class="site-head">
   <div class="site-head__inner">
-    <a href="/index.html" class="wordmark">igartua
+    <a href="/index.html" class="wordmark" data-lang="en">igartua
       <span class="wordmark-sub">Josu M. Igartua &middot; Physics &middot; University of the Basque Country (UPV/EHU)</span>
     </a>
-    <nav class="site-nav">
+    <a href="/es/index.html" class="wordmark" data-lang="es">igartua
+      <span class="wordmark-sub">Josu M. Igartua &middot; Física &middot; Universidad del País Vasco (UPV/EHU)</span>
+    </a>
+    <a href="/eu/index.html" class="wordmark" data-lang="eu">igartua
+      <span class="wordmark-sub">Josu M. Igartua &middot; Fisika &middot; Euskal Herriko Unibertsitatea (UPV/EHU)</span>
+    </a>
+    <nav class="site-nav" data-lang="en">
       <a href="/research/index.html">Research</a>
       <a href="/teaching/index.html">Teaching</a>
       <a href="/theses/index.html">Theses</a>
       <a href="/publications/index.html">Publications</a>
       <a href="/service/index.html">Service</a>
       <a href="/about/index.html">About</a>
+      <span class="lang"><a href="/index.html" class="current">en</a> <a href="/es/index.html">es</a> <a href="/eu/index.html">eu</a></span>
+    </nav>
+    <nav class="site-nav" data-lang="es">
+      <a href="/es/research/index.html">Investigación</a>
+      <a href="/es/teaching/index.html">Docencia</a>
+      <a href="/es/theses/index.html">Tesis</a>
+      <a href="/es/publications/index.html">Publicaciones</a>
+      <a href="/es/service/index.html">Gestión</a>
+      <a href="/es/about/index.html">Sobre mí</a>
+      <span class="lang"><a href="/index.html">en</a> <a href="/es/index.html" class="current">es</a> <a href="/eu/index.html">eu</a></span>
+    </nav>
+    <nav class="site-nav" data-lang="eu">
+      <a href="/eu/research/index.html">Ikerketa</a>
+      <a href="/eu/teaching/index.html">Irakaskuntza</a>
+      <a href="/eu/theses/index.html">Tesiak</a>
+      <a href="/eu/publications/index.html">Argitalpenak</a>
+      <a href="/eu/service/index.html">Kudeaketa</a>
+      <a href="/eu/about/index.html">Nor naiz</a>
+      <span class="lang"><a href="/index.html">en</a> <a href="/es/index.html">es</a> <a href="/eu/index.html" class="current">eu</a></span>
     </nav>
   </div>
 </header>

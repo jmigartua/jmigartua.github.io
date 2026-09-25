@@ -1,0 +1,89 @@
+---
+title: "Josu M. Igartua"
+pagetitle: "Josu M. Igartua · Física · UPV/EHU"
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+```{=html}
+<section class="mission">
+  <div class="wrap mission-grid">
+    <div>
+      <h1>Soy físico en la Universidad del País Vasco. Trabajo en <strong>la estructura de los sólidos, la radiación térmica de los materiales y cómo se enseña la física</strong>.</h1>
+      <p class="who">Catedrático de Física en la Facultad de Ciencia y Tecnología de Leioa, en su plantilla desde 1988 y doctor desde 1994. Treinta años de difracción, calorimetría y transiciones de fase en perovskitas; una década en el grupo Thermomat, que codirijo, midiendo la emisividad infrarroja de materiales para la energía con el radiómetro HAIRL; y, cada año desde 2011, la asignatura de termodinámica y física estadística, en euskera, con sus cuadernos, sus simulaciones y sus trabajos de fin de grado.</p>
+      <p class="quicklinks"><a href="research/index.html">Líneas de investigación</a><span class="sep">&middot;</span><a href="publications/index.html">Publicaciones</a><span class="sep">&middot;</span><a href="theses/index.html">Tesis</a><span class="sep">&middot;</span><a href="teaching/index.html">Docencia</a><span class="sep">&middot;</span><a href="mailto:josu.igartua@ehu.eus">Contacto</a></p>
+    </div>
+    <figure class="spectrum">
+      <img src="../assets/images/diffraction-ba3-xsrx.png" alt="Difractogramas de polvo de una disolución sólida, intensidad frente a ángulo de dispersión, once composiciones del extremo de bario al de estroncio" style="display:block;width:100%;height:auto">
+      <figcaption>Difracción de polvo a lo largo de una disolución sólida Ba–Sr: once composiciones, cuatro grupos espaciales. Leer la simetría de un cristal en dónde se desdoblan sus picos es el hilo que recorre mi trabajo estructural. Figura de mi propia documentación de investigación.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="featured-band">
+  <div class="wrap featured-grid">
+    <div>
+      <div class="featured-kicker">Ahora &middot; Curso 2026&ndash;2027</div>
+      <h2 class="featured-title">Termodinámica y física estadística, en euskera<span class="featured-sub">Termodinamika eta Fisika Estatistikoa &middot; 12 ECTS &middot; tercer curso del Grado en Física</span></h2>
+      <p class="featured-body">La asignatura que imparto cada año desde 2011&ndash;2012, y la materia que llevé al euskera en esta universidad con su primer conjunto completo de materiales: un diario de clase, pruebas cortas, una rúbrica pública, cuadernos Jupyter en euskera y MinervaLab, el laboratorio de simulación de transiciones de fase de primer orden que nació de un trabajo de fin de grado. Los trabajos que salen de la asignatura, los que están en curso y las propuestas para el próximo año viven en su propio sitio.</p>
+      <p class="featured-links"><a href="teaching/index.html">Cómo funciona la asignatura</a><span class="sep">&middot;</span><a href="https://jmigartua.github.io/tfgs-website/es/proposals/">Propuestas de TFG 2026&ndash;2027</a><span class="sep">&middot;</span><a href="https://jmigartua.github.io/tfgs-website/es/on-going/">Trabajos en curso</a><span class="sep">&middot;</span><a href="https://jmigartua.github.io/tfgs-website/preparing/">Manual de preparación</a></p>
+    </div>
+    <div class="featured-when">
+      <div class="d">Desde 2011</div>
+      <div class="l">Facultad de Ciencia y Tecnología, Leioa</div>
+      <div class="c">46 trabajos de fin de grado dirigidos &middot; 2011&ndash;2026</div>
+    </div>
+  </div>
+</section>
+
+<section class="home-section" id="research">
+  <div class="wrap">
+    <div class="sec-head"><h2>Investigación</h2><a class="more" href="research/index.html">Las tres líneas &rarr;</a></div>
+    <p class="sec-intro">Dos líneas en la física de materiales que comparten un método, leer la simetría y su ruptura a partir del experimento, y una tercera sobre cómo se aprende la física, que usa las mismas herramientas computacionales que uso en el laboratorio.</p>
+    <div class="lines">
+      <div class="line-item"><div class="num">01</div><h3><a href="research/index.html#structure">Estructura y transiciones de fase en perovskitas</a></h3><p>Estructuras cristalinas y transiciones de fase estructurales de perovskitas simples, dobles y triples y de cristales ferroicos, por calorimetría adiabática, espectroscopia Raman e infrarroja, difracción de polvo de rayos X y neutrones y análisis de modos de simetría. Un protocolo de refinamiento parametrizado que hace que los datos de rayos X de laboratorio hagan el trabajo que antes exigía un sincrotrón.</p><div class="caps">cristalografía de modos &middot; AMPLIMODES &middot; ILL, ESRF, SINQ &middot; cinco tesis doctorales</div></div>
+      <div class="line-item"><div class="num">02</div><h3><a href="research/index.html#radiation">Propiedades radiativas térmicas de materiales</a></h3><p>En Thermomat / HAIRL: emisividad espectral de alta precisión y resuelta en ángulo en amplios rangos espectrales y de temperatura, presupuestos de incertidumbre, control de temperatura del emisómetro, reporte FAIR de las medidas y la base de datos abierta EKHI, para energía solar de concentración, materiales de fusión, aceros avanzados y superficies recubiertas.</p><div class="caps">radiómetro HAIRL &middot; EKHI &middot; marco fer &middot; dos tesis doctorales en curso</div></div>
+      <div class="line-item"><div class="num">03</div><h3><a href="research/index.html#teaching">Computación en la enseñanza de la física</a></h3><p>Cuadernos Jupyter como cuaderno de laboratorio de una asignatura teórica, MinervaLab para transiciones de fase, materiales docentes en euskera, y el análisis de cómo rinden realmente los estudiantes: de los datos de la propia asignatura al examen de acceso de física en toda España.</p><div class="caps">CSEDU, GIREP, RSEF &middot; MinervaLab &middot; PAU Física</div></div>
+    </div>
+  </div>
+</section>
+
+<section class="home-section tinted" id="publications">
+  <div class="wrap">
+    <div class="sec-head"><h2>Publicaciones recientes</h2><a class="more" href="publications/index.html">Lista completa &rarr;</a></div>
+```
+
+{{< include ../_gen/pub-stats.es.qmd >}}
+
+{{< include ../_gen/recent-pubs.es.qmd >}}
+
+```{=html}
+  </div>
+</section>
+
+<section class="home-section" id="theses">
+  <div class="wrap">
+    <div class="sec-head"><h2>Tesis</h2><a class="more" href="theses/index.html">Tesis dirigidas &rarr;</a></div>
+    <p class="sec-intro">Cinco tesis doctorales leídas entre 2003 y 2019, dos más en curso sobre propiedades radiativas a alta temperatura y materiales para la energía, y cuarenta y seis trabajos de fin de grado desde 2011, que tienen su propio sitio junto con los trabajos en curso y las propuestas para el próximo curso.</p>
+    <div class="net-stats">
+      <div class="net-stat"><div class="v">5</div><div class="k">tesis doctorales leídas</div></div>
+      <div class="net-stat"><div class="v">2</div><div class="k">tesis doctorales en curso</div></div>
+      <div class="net-stat"><div class="v">46</div><div class="k">trabajos de fin de grado desde 2011</div></div>
+      <div class="net-stat"><div class="v">25</div><div class="k">prácticas en empresa supervisadas</div></div>
+    </div>
+  </div>
+</section>
+
+<section class="home-section tinted" id="sites">
+  <div class="wrap">
+    <div class="sec-head"><h2>Los sitios</h2></div>
+    <p class="sec-intro">Esta página es el eje. El material detallado vive en tres sitios hermanos construidos con el mismo sistema de diseño, de modo que quien lee pasa de uno a otro sin notar la costura.</p>
+    <div class="lines">
+      <div class="line-item"><div class="num">GRAL / TFG</div><h3><a href="https://jmigartua.github.io/tfgs-website/es/">igartua / gral-tfg</a></h3><p>Los trabajos de fin de grado que he dirigido desde 2011, los que están en curso, las propuestas para el próximo curso y el manual de preparación, en inglés, castellano y euskera.</p></div>
+      <div class="line-item"><div class="num">GRUPO</div><h3><a href="https://emissivity.org/network/thermomat-ehu">Thermomat / HAIRL</a></h3><p>El grupo de investigación en propiedades termofísicas de materiales de la UPV/EHU, que codirijo: instrumentos, personas, proyectos y la base de datos EKHI.</p></div>
+      <div class="line-item"><div class="num">CAMPO</div><h3><a href="https://emissivity.org/">emissivity.org</a></h3><p>El punto de referencia de los laboratorios que trabajan en las propiedades radiativas térmicas de los materiales: mapa de investigación, recursos de datos, métodos y calendario.</p></div>
+    </div>
+  </div>
+</section>
+```

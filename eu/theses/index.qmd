@@ -1,0 +1,35 @@
+---
+title: "Zuzendutako tesiak"
+description: "Josu M. Igartuak zuzendutako doktorego-tesiak eta gradu amaierako lanen webgunea."
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs crumbs-wide"><a href="../index.html">igartua</a> / tesiak</div>
+<div class="page-wide">
+<h1>Zuzendutako tesiak</h1>
+<p class="lede">Bost doktorego-tesi 2003 eta 2019 artean defendatuak, guztiak kalifikazio gorenarekin, eta bi martxan. 2011tik hona egindako gradu amaierako lanek, martxan daudenek eta datorren ikasturterako proposamenek beren webgunea dute, curriculum batek ezin baitu jaso zer diren.</p>
+<div class="pub-year">Doktorego-tesiak<span class="n">5 defendatuak · 2 martxan</span></div>
+<div class="pub-block">
+<div class="pub-item"><div class="t">Sr₂MWO₆ (M = Ni, Zn, Co, Ca, Cd, Mg, Cu), SrLaMRuO₆ (M = Mn, Cu, Ni, Co, Fe, Zn, Mg) eta La₂NiRuO₆ perobskita bikoitzen egitura kristalinoaren eta fase-trantsizioen azterketa difrakzio-metodoen bidez</div><div class="ref"><strong>Milen Velev Gateshki</strong> · 2003 · Bikain cum laude · Doktorego-sari berezia · gaztelaniaz</div><div class="m">Fisika Aplikatua II, Zientzia eta Teknologia Fakultatea, UPV/EHU</div></div>
+<div class="pub-item"><div class="t">Perobskita bikoitz egiturako wolframiozko (SrM²⁺W⁶⁺O₆) eta antimoniozko (AM³⁺Sb⁵⁺O₆) material berrien egitura kristalinoen eta fase-trantsizioen azterketa</div><div class="ref"><strong>Abdessamad Faik</strong> · 2009 · Bikain cum laude · hogeita bederatzi konposatu aztertuak, hogeita bi berriak</div><div class="m"><a href="https://addi.ehu.es/handle/10810/13525">ADDI 10810/13525</a></div></div>
+<div class="pub-item"><div class="t">Crystal structure and phase transition studies in perovskite-type oxides using powder-diffraction techniques and symmetry-mode analysis: SrLnMRuO₆ and ALn₂CuTi₂O₉</div><div class="ref"><strong>Edurne Iturbe-Zabalo</strong> · 2012 · Gai cum laude · nazioarteko aipamena</div><div class="m"><a href="https://addi.ehu.es/handle/10810/10151">ADDI 10810/10151</a></div></div>
+<div class="pub-item"><div class="t">Study of crystal structure and phase transitions in perovskite-type oxides using powder-diffraction techniques and symmetry-mode analysis</div><div class="ref"><strong>Brahim Orayech</strong> · 2015 · Gai cum laude · nazioarteko aipamena · ingelesez · sei perobskita-familia, Na₀.₅K₀.₅NbO₃ eta Sr₂MSbO₆ eta Sr₂M₁₋ₓM′ₓTeO₆ serieak barne</div><div class="m"><a href="https://addi.ehu.es/handle/10810/16288">ADDI 10810/16288</a></div></div>
+<div class="pub-item"><div class="t">Investigation of new nanofluids based on molten salts and their corrosion mechanisms for thermal energy storage applications</div><div class="ref"><strong>Udayashankar Nithiyanantham</strong> · 2019 · Gai cum laude · nazioarteko aipamena · ingelesez · Abdessamad Faik doktorearekin ko-zuzendua, CIC Energigune</div><div class="m"><a href="http://hdl.handle.net/10810/41974">ADDI 10810/41974</a></div></div>
+<div class="pub-item"><div class="t">Bi doktorego-tesi martxan</div><div class="ref">Tenperatura altuko propietate erradiatiboei, emisibitate-metrologiari eta energiarako materialei buruz, Thermomat taldean.</div></div>
+</div>
+
+<div class="pub-year">Gradu amaierako lanak<span class="n">46 2011tik · beren webgunean</span></div>
+<div class="pub-block">
+<div class="pub-item"><div class="t"><a href="https://jmigartua.github.io/tfgs-website/eu/past-tfg/">igartua / gral-tfg · artxiboa</a></div><div class="ref">Zuzendu edo ko-zuzendu ditudan Gradu Amaierako Lan guztiak, ikasturteka, bakoitza bere laburpen, datu, aukeratutako irudi eta aipu-blokearekin. Hogeita hemeretzi ziurtatuak 2025era arte eta zazpi martxan 2026an, euskaraz, gaztelaniaz eta ingelesez.</div><div class="m"><a href="https://jmigartua.github.io/tfgs-website/eu/on-going/">Martxan dauden lanak</a> · <a href="https://jmigartua.github.io/tfgs-website/eu/proposals/">2026–2027 proposamenak</a> · <a href="https://jmigartua.github.io/tfgs-website/eu/preparing/">Prestaketa eskuliburua</a></div></div>
+</div>
+
+<div class="pub-year">Gainbegiratutako beste lan batzuk</div>
+<div class="pub-block">
+<div class="pub-item"><div class="t">Master- eta doktorego aurreko lanak</div><div class="ref">Hainbat master amaierako lan eta DEA lan, hiru ikerketa-lan eta tesina bat, Europako instalazio handietan (ILL, ESRF) eta enpresekin lankidetzan egindako proiektuak barne.</div></div>
+<div class="pub-item"><div class="t">Praktikak eta akademikoki zuzendutako lanak</div><div class="ref">Hogeita bost bat enpresa-praktika Fisikako Graduan eta lizentziatura zaharrean, eta bost akademikoki zuzendutako lan.</div></div>
+</div>
+</div>
+```

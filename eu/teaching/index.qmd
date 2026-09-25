@@ -1,0 +1,42 @@
+---
+title: "Irakaskuntza"
+description: "Termodinamika eta fisika estatistikoa euskaraz 2011tik, irakasgaiaren metodoak, testuliburuak eta beste zentro batzuetako irakaskuntza."
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="../index.html">igartua</a> / irakaskuntza</div>
+<article class="page-article">
+<h1>Irakaskuntza</h1>
+<p class="sub">Hamar irakasgai baino gehiago UPV/EHUn hogeita hamalau ikasturtetan zehar, eta 2011tik irakasgai bakarra, niri irakatsi izana gustatuko litzaidakeen moduan emana.</p>
+```
+
+## Termodinamika eta Fisika Estatistikoa
+
+Hamabi kredituko urteko irakasgaia Fisikako Graduko eta Fisikako eta Ingeniaritza Elektronikoko Gradu Bikoitzeko hirugarren mailan, euskaraz emana urtean hirurogei edo hirurogeita hamar ikasleri. Nire katedrari izena ematen dion irakasgaia da eta 2010etik koordinatzen dudana. Termodinamika eta inguruko gaiak euskaraz sartu nituen unibertsitate honetan eta horietarako lehen material-multzo osoa prestatu nuen, beraz irakasgaiak historia hori ere badakar. Bere funtzionamendua hamarkada batez egonkorra izan da eta publikoki dokumentatuta dago:
+
+- **Eguneroko klase-egunkaria**: saio bakoitzean zer egin den, unean bertan argitaratua, inork asmatu behar ez dezan irakasgaiak zer espero duen.
+- **Azterketatxoak** urtean zehar azterketa bakarraren ordez, errubrika publiko batekin eta erantzunak nola zuzentzen diren erakusten duten adibide ebatziekin.
+- **Kontzeptu-mapak eta irakurketa-mapak** bi lauhilekoetarako, gaiaren egitura xehetasunen aurretik ikusgai egon dadin.
+- **Jupyter koadernoak euskaraz** lan-dokumentu gisa: dedukzioak, Zemanskyren ariketak eta ikasleen beren kalkuluak toki berean.
+- **MinervaLab**, lehen ordenako fase-trantsizioen eta van der Waals fluidoaren simulazio-laborategi interaktiboa, ikasgelan erabilia ikasleei gehien kostatzen zaien zatirako.
+
+Irakasgaiaren materiala urteroko GitHub biltegietan bizi da. Hortik ateratzen diren gradu amaierako lanak, martxan daudenak eta datorren urterako proposamenak [igartua / gral-tfg](https://jmigartua.github.io/tfgs-website/eu/) webgunean daude, lan bat hasten duenarentzat idatzi nuen [prestaketa eskuliburuarekin](https://jmigartua.github.io/tfgs-website/eu/preparing/) batera.
+
+## Beste irakasgai batzuk
+
+UPV/EHUn fisika orokorra eta bere laborategia eman ditut industria-ingeniaritzako eskolan, fisika orokorra kimikarako, teknika esperimentalak, termodinamika, termodinamikaren zabalkuntza eta fisika estatistikoa fisikako lizentziatura zaharrean, eta fisika estatistikoari, fase-trantsizioei eta fenomeno kritikoei buruzko masterreko irakasgaia (2009–2013). UNEDen Bizkaiko zentroan, 1992tik, mekanika kuantikoa, termologia eta mekanika estatistikoa, mekanika, fisika I eta II eta ingurumenaren oinarri fisikoak tutorizatu ditut, beren laborategiekin. Udako Euskal Unibertsitatean (UEU) bost ikastaro eman ditut eta zazpi antolatu.
+
+## Testuliburuak eta irakas-materiala
+
+Hiru unibertsitate-mailako testuliburu eta zazpi liburu edo irakas-material zabal graduko ikasleentzat, gehienak euskaraz, fisikako ikasketa-plana osorik hizkuntza horretan irakastea ahalbidetu zutenak: Fishbane, Gasiorowicz eta Thorntonen *Fisika zientzialari eta ingeniarientzat* liburuaren itzulpena (2008, 2014), Elhuyarren fisika hiztegia, *Fisikaz blai*, *Iraunkortasuna*, Edebérentzako bigarren hezkuntzako testuliburuak eta mekanika, estatistika eta fluidoei buruzko unibertsitate-testuak.
+
+## Irakaskuntza-ikerketa eta -berrikuntza
+
+Hemezortzi irakaskuntza-berrikuntzako proiektu UPV/EHUn, Jupyterrekin laborategi-koaderno elektronikoari buruz zuzendu nuena barne (PIE 2018–2019), eta fisikaren didaktikako artikuluak CSEDU 2017, GIREP 2018 eta RSEFen 2019ko bilera bienalean. Zortziehun eta hogei ordu jasotako irakaskuntza-prestakuntzan. Fisika Olinpiadaren koordinatzailea, tutoretza-ekintzako programaren tutorea eta ohiko presentzia ate irekien jardunaldietan, zientziaren astean eta udako zientzia-campusean. 2017tik, Euskadiko unibertsitatera sartzeko fisikako azterketaren diseinuaren eta prestaketaren koordinatzailea, eta hori azterketak Espainia osoan nola jokatzen duen aztertzen duen datu-proiektu bihurtu da.
+
+```{=html}
+</article>
+```
