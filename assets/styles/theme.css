@@ -498,6 +498,45 @@ figure.spectrum figcaption {
 .docs-toc li a.current { color: var(--teal); border-left-color: var(--teal); }
 .docs-toc .formats { margin-top: 26px; }
 
+
+/* ============================================================
+   LAYOUT REVISIONS 2026-09-25
+   ============================================================ */
+/* Language-switched blocks must recover their real display, not "revert". */
+.foot-grid[data-lang] { display: none; }
+body:has(> .article-grid) #title-block-header { display: none; }
+html[lang^="en"] .foot-grid[data-lang="en"], html:not([lang^="es"]):not([lang^="eu"]) .foot-grid[data-lang="en"],
+html[lang^="es"] .foot-grid[data-lang="es"], html[lang^="eu"] .foot-grid[data-lang="eu"] { display: grid; }
+html[lang^="en"] a.wordmark[data-lang="en"], html:not([lang^="es"]):not([lang^="eu"]) a.wordmark[data-lang="en"],
+html[lang^="es"] a.wordmark[data-lang="es"], html[lang^="eu"] a.wordmark[data-lang="eu"] { display: inline-block; }
+
+/* Article pages: wider reading column with an "on this page" list on the right. */
+.article-grid { max-width: var(--maxw); margin: 0 auto; padding: 0 var(--gutter); display: grid; grid-template-columns: minmax(0, 1fr) 210px; gap: 0 48px; align-items: start; }
+.article-grid > .page-article { max-width: none; padding-left: 0; padding-right: 0; margin: 0; }
+.article-grid > .page-article p, .article-grid > .page-article ul, .article-grid > .page-article ol { max-width: 76ch; }
+.article-grid > .docs-toc { padding-top: 44px; }
+@media (max-width: 1080px) { .article-grid { grid-template-columns: 1fr; } .article-grid > .docs-toc { display: none; } }
+.crumbs { max-width: var(--maxw); }
+
+/* Manual: sidebars pushed to the edges, reading column centred and wider. */
+.docs-tabs__inner { max-width: 1680px; }
+.docs { max-width: 1680px; grid-template-columns: 260px minmax(0, 1fr) 240px; gap: 0 56px; }
+.docs.docs-wide { grid-template-columns: 260px minmax(0, 1fr); }
+.docs-main { max-width: 960px; width: 100%; justify-self: center; }
+.docs-main p, .docs-main ul, .docs-main ol { max-width: 78ch; }
+@media (max-width: 1080px) { .docs, .docs.docs-wide { grid-template-columns: 220px minmax(0, 1fr); } }
+@media (max-width: 760px) { .docs, .docs.docs-wide { grid-template-columns: 1fr; } }
+
+/* Collapsible navigation groups (details/summary), chevron rotates when open. */
+.docs-nav details.group { margin: 0 0 14px; }
+.docs-nav details.group > summary.t { list-style: none; cursor: pointer; display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 6px 0; margin: 0; border-bottom: 1px solid var(--line-soft); }
+.docs-nav details.group > summary.t::-webkit-details-marker { display: none; }
+.docs-nav details.group > summary.t::after { content: ""; width: 7px; height: 7px; border-right: 1.5px solid var(--ink-faint); border-bottom: 1.5px solid var(--ink-faint); transform: rotate(-45deg); transition: transform .15s ease; margin-right: 4px; flex: none; }
+.docs-nav details.group[open] > summary.t::after { transform: rotate(45deg); }
+.docs-nav details.group > ul { margin-top: 6px; }
+.docs-nav details.group.has-current > summary.t { color: var(--teal); }
+.docs-nav .nav-toggle { display: none; }
+
 /* Motion */
 @media (prefers-reduced-motion: no-preference) {
   html { scroll-behavior: smooth; }

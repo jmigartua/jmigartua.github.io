@@ -8,6 +8,7 @@ toc: false
 
 ```{=html}
 <div class="crumbs"><a href="../index.html">igartua</a> / gestión</div>
+<div class="article-grid">
 <article class="page-article">
 <h1>Gestión académica</h1>
 <p class="sub">Diez cargos unipersonales y una larga lista de comisiones, la mayoría en la Facultad de Ciencia y Tecnología.</p>
@@ -46,4 +47,28 @@ Vicepresidente de la sección local de la Real Sociedad Española de Física. Ed
 
 ```{=html}
 </article>
+<aside class="docs-toc" aria-label="En esta página"><div class="t">En esta página</div><ol id="docs-toc-list"></ol></aside>
+</div>
+<script>
+(function () {
+  var main = document.querySelector(".article-grid > .page-article");
+  var list = document.getElementById("docs-toc-list");
+  if (!main || !list) return;
+  var heads = main.querySelectorAll("h2, h3");
+  heads.forEach(function (h) {
+    if (!h.id) return;
+    var li = document.createElement("li"); li.className = h.tagName === "H3" ? "l3" : "l2";
+    var a = document.createElement("a"); a.href = "#" + h.id; a.textContent = h.textContent;
+    li.appendChild(a); list.appendChild(li);
+  });
+  if (!list.children.length) { list.parentNode.hidden = true; return; }
+  var links = list.querySelectorAll("a");
+  var mark = function () {
+    var y = window.scrollY + 80, cur = null;
+    heads.forEach(function (h) { if (h.id && h.getBoundingClientRect().top + window.scrollY <= y) cur = h.id; });
+    links.forEach(function (a) { a.classList.toggle("current", cur !== null && a.getAttribute("href") === "#" + cur); });
+  };
+  window.addEventListener("scroll", mark, { passive: true }); mark();
+})();
+</script>
 ```
