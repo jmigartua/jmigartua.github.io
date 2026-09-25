@@ -1,0 +1,42 @@
+---
+title: "Teaching"
+description: "Thermodynamics and statistical physics in Basque since 2011, the methods behind the course, textbooks, and teaching elsewhere."
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="../index.html">igartua</a> / teaching</div>
+<article class="page-article">
+<h1>Teaching</h1>
+<p class="sub">Thirty-four academic years, ten subjects at UPV/EHU, and since 2011 one course taught the way I would have wanted to be taught.</p>
+```
+
+## Termodinamika eta Fisika Estatistikoa
+
+A twelve-credit, full-year course in the third year of the Physics degree and the Double Degree in Physics and Electronic Engineering, taught in Basque to sixty or seventy students a year. It is the course named in my chair and the one I have coordinated since 2010. The way it runs has been stable for a decade and is documented in public:
+
+- **A daily class log** (egunkaria): what was done in every session, published as it happens, so nobody has to guess what the course expects.
+- **Short tests** (azterketatxoak) through the year rather than one examination, with a public rubric and worked examples of how answers are marked.
+- **Concept maps and reading maps** for both semesters, so the structure of the subject is visible before the details.
+- **Jupyter notebooks in Basque** as the working documents: derivations, exercises from Zemansky and the students' own computations in one place. The notes on the second law and the exercise sets on temperature and equations of state are examples.
+- **MinervaLab**, the interactive simulation laboratory for first-order phase transitions and the van der Waals fluid, used in class for the part students find hardest.
+
+The course material lives in yearly GitHub repositories; the theses that come out of it are on [igartua / gral-tfg](https://jmigartua.github.io/tfgs-website/), together with the [preparation manual](https://jmigartua.github.io/tfgs-website/preparing/) I wrote for students starting a thesis.
+
+## Other subjects
+
+At UPV/EHU I have taught general physics and its laboratory at the industrial engineering school, general physics for chemistry, experimental techniques, thermodynamics, advanced thermodynamics and statistical physics in the old physics degree, and the master's course on statistical physics, phase transitions and critical phenomena (2009–2013). At the UNED's Bizkaia centre, since 1992, I have tutored quantum mechanics, thermology and statistical mechanics, mechanics, physics I and II and the physical bases of the environment, with their laboratories. At the Basque Summer University (UEU) I have taught five courses and organised seven.
+
+## Textbooks and teaching material
+
+Twenty contributions to teaching material published with ISBN, mostly in Basque: the translation of Fishbane, Gasiorowicz and Thornton's *Physics for Scientists and Engineers* (2008, 2014), the Elhuyar physics dictionary, *Fisikaz blai*, *Iraunkortasuna*, secondary-school textbooks for Edebé, and university texts on mechanics, statistics and fluids.
+
+## Teaching research and innovation
+
+Eighteen teaching-innovation projects at UPV/EHU, including the one I led on the electronic laboratory notebook with Jupyter (PIE 2018–2019), and physics-education papers at CSEDU 2017, GIREP 2018 and the RSEF biennial meeting of 2019. Eight hundred and twenty hours of teaching-related training received. Coordinator of the Physics Olympiad, tutor in the tutorial action programme, and a regular at open days, the science week and the summer science campus. Since 2017, coordinator of the physics part of the university entrance examination in the Basque Country, which has turned into a data project of its own on how the examination behaves across Spain.
+
+```{=html}
+</article>
+```

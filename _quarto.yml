@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "**/*.qmd"
+    - "!_gen/"
+    - "!README.md"
+
+resources:
+  - assets/images/**
+
+lang: en
+
+pagetitle: "{{< meta title >}} · Josu M. Igartua"
+
+website:
+  title: "Josu M. Igartua"
+  site-url: "https://jmigartua.github.io/"
+  description: "Josu M. Igartua, Full Professor of Physics at the University of the Basque Country (UPV/EHU): structural physics of solids, thermal radiative properties of materials, and physics teaching."
+  favicon: assets/images/favicon.svg
+  open-graph:
+    description: "Josu M. Igartua, Full Professor of Physics at UPV/EHU: research, teaching, theses and publications."
+  navbar: false
+  search: false
+  page-navigation: false
+  page-footer: ""
+
+format:
+  html:
+    theme: none
+    css:
+      - assets/styles/theme.css
+    include-in-header:
+      - assets/includes/fonts.html
+    include-before-body:
+      - assets/includes/site-header.html
+    include-after-body:
+      - assets/includes/site-footer.html
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: false
+    code-copy: false
+    date-format: "YYYY-MM-DD"

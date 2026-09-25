@@ -1,0 +1,48 @@
+---
+title: "Research"
+description: "Three lines: structure and phase transitions in perovskites, thermal radiative properties of materials, and computation in physics education."
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="../index.html">igartua</a> / research</div>
+<article class="page-article">
+<h1>Research</h1>
+<p class="sub">Two lines in the physics of materials and one in the physics classroom. They share a habit: let the data decide the symmetry, and keep the computation reproducible.</p>
+```
+
+## Structure and phase transitions in perovskites {#structure}
+
+Perovskite oxides, simple ABO₃ and double A₂BB′O₆, distort from their ideal cubic structure through octahedral tilts, cation ordering and off-centre displacements, and those distortions decide their magnetic, dielectric and transport properties. For thirty years I have determined the crystal structures of these materials and followed their phase transitions with temperature, using laboratory and synchrotron X-ray powder diffraction, neutron diffraction and Raman spectroscopy. Eighteen experiments at the Institut Laue-Langevin, the ESRF and the SINQ source at PSI, fifty-three days of beam time in total, belong to this line, together with four of the five doctoral theses I have directed.
+
+The method that ties the work together is symmetry-mode analysis, or mode crystallography: describing a distorted structure not by atomic coordinates but by the amplitudes of the symmetry-adapted modes of the parent phase, as implemented in the Bilbao Crystallographic Server's AMPLIMODES. My own contribution, developed on K₀.₅Na₀.₅NbO₃ and the Sr₂MM′O₆ families with M′ = Sb, W, Mo, Ru, Te, is a parametrised refinement protocol: high-resolution data on one member of a family fix the relations among mode amplitudes, and those relations let laboratory X-ray data, which cannot resolve light elements or subtle tilts on their own, be refined to a physically meaningful solution. It reduces the need for expensive high-resolution experiments and makes preliminary data usable.
+
+```{=html}
+<figure class="thesis-figure"><img src="../assets/images/mode-amplitudes-tolerance.png" alt="Scatter plot of symmetry-mode amplitudes against the tolerance factor for double perovskites with Sb, W, Mo, Ru and Te on the B-prime site"><figcaption>Amplitude of the X₅⁺ mode and its components against the experimental tolerance factor for Sr₂MM′O₆ double perovskites, colour-coded by the B′ cation. The regularity across families is what the parametrised refinement exploits.</figcaption></figure>
+```
+
+## Thermal radiative properties of materials {#radiation}
+
+Since 2018 I work in Thermomat, the research group on the thermophysical properties of materials at UPV/EHU, which operates HAIRL, a high-accuracy infrared radiometer built in-house: directional spectral emissivity from 0.83 to 25 μm, from room temperature to 1000 °C, in controlled atmosphere, with a full uncertainty budget. I am one of the group's two principal investigators. My part of the work is on the instrument and its data rather than on the samples: the model-free cascaded temperature control of the emissometer, the updated measurement method and uncertainty budget published in *Metrologia*, the "fer" framework for FAIR-compliant reporting of traceable experimental results, and EKHI, the open database of optical and thermal radiative properties of solids described in *Scientific Data* and indexed as a reference resource by emissivity.org. The materials side of the line ranges from oxidising steels and nuclear alloys to laser-patterned surfaces and emissivity-engineered coatings for concentrated solar power.
+
+```{=html}
+<figure class="thesis-figure"><img src="../assets/images/hairl-schematic.png" alt="Optical schematic of the HAIRL emissometer: FTIR spectrometer, parabolic and rotary mirrors, two blackbodies, sample chamber with heater and vacuum"><figcaption>Optical layout of HAIRL: the spectrometer alternates between the sample chamber and two blackbody references through a rotary mirror; the sample sits on a heater under vacuum or purge, on a rotation axis for directional measurements.</figcaption></figure>
+```
+
+## Computation in physics education {#teaching}
+
+The third line began as a way of teaching thermodynamics and became research. Jupyter notebooks written in Basque are the laboratory notebook of a theory course: the students derive, compute and plot in the same document, and the course keeps a daily log of what was done. MinervaLab, an interactive simulation laboratory for first-order phase transitions and the van der Waals fluid, was built as a bachelor's thesis under my direction, released under the GPL, and is the basis of the physics-education contributions I have presented at CSEDU 2017, GIREP 2018 and the Spanish Physical Society's biennial meeting in 2019, and of the teaching-innovation project on the electronic laboratory notebook that I led at UPV/EHU. The same tools now serve a different question: what the data say about how students perform, from the course's own records to the physics entrance examination across the Spanish regions.
+
+```{=html}
+<figure class="thesis-figure"><img src="../assets/images/minervalab-sketch.png" alt="Hand-drawn planning sketch of MinervaLab, with numbered timeline boxes and application codes"><figcaption>The planning sketch of MinervaLab: a product breakdown of the simulation apps, each with its code, drawn before a line was written. The software is on GitHub under jongablop/MinervaLab.</figcaption></figure>
+```
+
+## Projects and facilities
+
+Ten recognised research groups and twenty-one competitive projects as of 2020, among them the Basque Government's ELKARTEK programme (2018–2019, co-principal investigator for the UPV/EHU node), the Spanish national plan (MAT2012-34740; MINECOG15/P65, 2016–2018), and infrastructure grants for a high-temperature infrared camera. Eighteen experiments at European large-scale facilities, worth about 550 000 € of beam time, several as principal investigator.
+
+```{=html}
+</article>
+```
