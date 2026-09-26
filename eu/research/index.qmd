@@ -1,6 +1,6 @@
 ---
 title: "Ikerketa"
-description: "Hiru lerro: egitura eta fase-trantsizioak perobskitetan, materialen propietate erradiatibo termikoak eta konputazioa fisikaren irakaskuntzan."
+description: "Bost ikerketa-lerro 1988tik, Europako instalazio handietako esperimentuak, proiektu lehiakorrak eta ikerketa-taldeak, eta industriarekiko kontratuak."
 title-block-style: none
 page-layout: full
 toc: false
@@ -11,22 +11,34 @@ toc: false
 <div class="article-grid">
 <article class="page-article">
 <h1>Ikerketa</h1>
-<p class="sub">Bi lerro materialen fisikan eta bat fisikako ikasgelan. Ohitura bera dute: datuek erabaki dezatela simetria, eta konputazioa erreproduzigarri mantendu.</p>
+<p class="sub">Bost lerro hogeita hemezortzi urtetan, kalorimetria adiabatikotik emisibitate infragorrira. Ohitura bera dute: datuek erabaki dezatela simetria, eta konputazioa erreproduzigarri mantendu.</p>
 ```
 
-## Egitura eta fase-trantsizioak perobskitetan {#structure}
+Nire ikerketa 1988an hasi zen Zientzia Fakultateko kalorimetria adiabatikoko laborategian, perobskita motako oxidoen kristalografiarantz hazi zen Bilbao Crystallographic Server-aren eta Europako neutroi- eta sinkrotroi-iturrien bidez, eta 2018tik Thermomat taldean bizi da, nik ko-zuzentzen dudana, HAIRL emisometroaren inguruan. Hona hemen erregistroa: lerroak, instalazio handietako esperimentuak, horiek ordaindu zituzten proiektuak eta taldeak, eta industriarekiko kontratuak. Argitalpenak [beren orrian](../publications/index.html) daude, OpenAlexekin sinkronizatutako erregistro batetik sortuak.
 
-Nire doktorego-lana kristal ferroikoen eta antzekoen solido-solido fase-trantsizio estrukturalei buruzkoa izan zen, kalorimetria adiabatikoz eta bibrazio-espektroskopiaz aztertuak. Hortik lerroa perobskita motako oxidoetara hazi zen, ABO₃ sinpleak, A₂BB′O₆ bikoitzak eta hirukoitzak, beren egitura kubiko idealetik oktaedroen biraketen, katioi-ordenaren eta zentrotik kanpoko desplazamenduen bidez desitxuratzen direnak, eta zeinen propietate magnetiko, dielektriko eta garraiokoak distortsio horien mende dauden. Hogeita hamar urtez material horien egitura kristalinoak zehaztu ditut eta haien fase-trantsizioak tenperaturarekin jarraitu, laborategiko eta sinkrotroiko X izpien hauts-difrakzioz, neutroien difrakzioz, Raman eta infragorri espektroskopiaz eta kalorimetriaz, monokristaletan eta hautsetan. Institut Laue-Langevin, ESRF eta PSIko SINQ iturriko hemezortzi esperimentu lerro honetakoak dira, zuzendu ditudan bost doktorego-tesietatik laurekin batera.
+## Kalorimetria adiabatikoa eta egiturazko fase-trantsizioak (1988–1995) {#calorimetry}
 
-Lana lotzen duen metodoa simetria-moduen analisia da, edo moduen kristalografia: egitura desitxuratu bat ez deskribatzea koordenatu atomikoen bidez, baizik eta fase amaren simetriara egokitutako moduen anplitudeen bidez, Bilbao Crystallographic Server-eko AMPLIMODESek inplementatzen duen moduan. Nire ekarpen propioa, K₀.₅Na₀.₅NbO₃ eta Sr₂MM′O₆ familietan garatua M′ = Sb, W, Mo, Ru, Te izanik, errefinamendu-protokolo parametrizatu bat da: familia bateko kide baten bereizmen handiko datuek modu-anplitudeen arteko erlazioak finkatzen dituzte, eta erlazio horiek laborategiko X izpien datuak, berez elementu arinak edo biraketa sotilak bereizten ez dituztenak, zentzu fisikoko soluzio bateraino errefinatzea ahalbidetzen dute. Bereizmen handiko esperimentu garestien beharra murrizten du eta aurretiazko datuak erabilgarri egiten ditu.
+Nire doktorego-lana, Ángel López-Echarri eta Isabel Ruiz-Larrearekin, kristal ferroiko, ferroelastiko eta inkonmentsurableen solido–solido fase-trantsizioei buruzkoa izan zen, kalorimetria adiabatikoz neurtuak: [N(CH₃)₄]₂ZnBr₄ eta [N(CH₃)₄]₂ZnI₄, tiourea, betaina kaltzio kloruro dihidratatua, N(CH₃)₄CdBr₃, Cs₂ZnI₄ eta Cs₂CdBr₄. Tresna 20 eta 370 K artean lan egiten zuen kalorimetro adiabatiko automatiko bat zen, laborategian eraikia eta programatua. Metodoak sarearen ekarpen harmonikoa eta anharmonikoa bereizten zituen Raman, elastikotasun- eta dilatazio termikoko datuekin, trantsizio bakoitzaren entropia anbiguotasunik gabe esleitzeko eta bere ordena–desordena edo desplazamendu-izaera erabakitzeko. Bordeleko Unibertsitatean Michel Couzirekin egindako egonaldiek Raman aldea gehitu zuten. Emaitzak *physica status solidi (b)*, *Thermochimica Acta*, *Solid State Communications*, *Physical Review B*, *Phase Transitions*, *Ferroelectrics* eta *Journal of Physics: Condensed Matter* aldizkarietan argitaratu ziren, eta tesia 1994an defendatu zen.
+
+## Pseudosimetria eta fase-trantsizioen iragarpena (1996–2001) {#pseudosymmetry}
+
+Mois I. Aroyo eta J. Manuel Pérez-Matorekin egitura pseudosimetrikoak datu-base kristalografikoetan aurkitzeko prozedura sistematiko bat garatu nuen: talde espazial baten supertalde minimoak zehaztu, haien eragiketa gehigarriak egitura ezagunari aplikatu, eta egitura eraldatua jatorrizkotik zenbat urruntzen den neurtu. Distantzia txiki batek simetria handiagoko fase apur bat desitxuratu bat agerian uzten du, eta beraz, tenperatura altuagoan fase-trantsizio bat izateko probabilitatea. Inorganic Crystal Structure Database-ko P2₁2₁2₁ eta Pnma egiturei aplikatuta (*Physical Review B* 1996, *Acta Crystallographica B* 1999, *Ferroelectrics* 1997 eta 2000), metodoak trantsizio ezagunak zituzten konposatuak berreskuratu zituen eta dozenaka hautagai berri proposatu, ferroelektriko desplazatiboak barne. Bilbao Crystallographic Server-eko PSEUDO programa bihurtu zen, eta bere logika da hurrengo lerroaren abiapuntua: Sr₂MWO₆ familia aukeratu zen pseudosimetriak eraldatu behar zuela zioelako.
+
+## Perobskita bikoitzak eta moduen kristalografia (2003–2019) {#structure}
+
+2003tik lerroa perobskita bikoitz eta hirukoitz motako oxidoetan finkatu zen, A₂BB′O₆ eta beren senideak, egitura kubiko idealetik oktaedroen biraketen, katioi-ordenaren eta zentrotik kanpoko desplazamenduen bidez desitxuratzen direnak, eta zeinen propietate magnetiko, dielektriko eta garraiokoak distortsio horien mende dauden: Sr₂MWO₆ eta Ca₂MWO₆ wolframatoak, A₂MSbO₆ antimoniatoak M eskandiotik lantanidoetara, SrLnMRuO₆ eta La₂NiRuO₆ rutenatoak, Sr₂MTeO₆ teluratoak eta beren soluzio solidoak, ALn₂CuTi₂O₉ perobskita hirukoitzak, Na₀.₅K₀.₅NbO₃ eta La₂CoMnO₆. Familia bakoitzarentzat galderak berberak izan ziren: giro-tenperaturako egitura eta katioi-ordenaren maila, tenperaturak eragindako trantsizioen sekuentzia, normalean P2₁/n → I4/m → Fm3̄m edo R3̄ eta I2/m bidez, eta gidatzen dituzten moduak. Datuak laborategiko X izpietatik, ESRFko sinkrotroi-erradiaziotik, ILL, SINQ, FRM II eta Helmholtz-Zentrum Berlineko neutroietatik, Bouchaib Manoun eta Peter Lazorrekin egindako tenperatura eta presio altuko Raman espektroskopiatik eta neurketa magnetikoetatik etorri ziren.
+
+Lana lotzen duen metodoa simetria-moduen analisia da, edo moduen kristalografia: egitura desitxuratu bat ez deskribatzea koordenatu atomikoen bidez, baizik eta fase amaren simetriara egokitutako moduen anplitudeen bidez, Bilbao Crystallographic Server-eko AMPLIMODESek inplementatzen duen moduan. Nire ekarpen propioa, K₀.₅Na₀.₅NbO₃ eta Sr₂MM′O₆ familietan garatua M′ = Sb, W, Mo, Ru, Te izanik, errefinamendu-protokolo parametrizatu bat da: familia bateko kide baten bereizmen handiko datuek modu-anplitudeen arteko erlazioak finkatzen dituzte, eta erlazio horiek laborategiko X izpien datuak, berez elementu arinak edo biraketa sotilak bereizten ez dituztenak, zentzu fisikoko soluzio bateraino errefinatzea ahalbidetzen dute. Bereizmen handiko esperimentu garestien beharra murrizten du eta aurretiazko datuak erabilgarri egiten ditu. Lerro honek nire bost doktorego-tesietatik lau eman zituen (Gateshki 2003, Faik 2009, Iturbe-Zabalo 2012, Orayech 2015), berrogei bat artikulu eta Marokorekiko lankidetza iraunkor bat, Abdeslam El Bouari, Bouchaib Manoun eta Abdessamad Faikekin, gaur egun Sr₂(Co,Fe,Ni)TeO₆ seriearekin jarraitzen duena *Dalton Transactions* aldizkarian (2022, 2023).
 
 ```{=html}
 <figure class="thesis-figure"><img src="../../assets/images/mode-amplitudes-tolerance.png" alt="Simetria-moduen anplitudeen sakabanatze-diagrama tolerantzia-faktorearekiko, B prima gunean Sb, W, Mo, Ru eta Te duten perobskita bikoitzetarako"><figcaption>X₅⁺ moduaren eta bere osagaien anplitudea tolerantzia-faktore esperimentalarekiko Sr₂MM′O₆ perobskita bikoitzetarako, B′ katioiaren araberako koloreekin. Familien arteko erregulartasuna da errefinamendu parametrizatuak ustiatzen duena.</figcaption></figure>
 ```
 
-## Materialen propietate erradiatibo termikoak {#radiation}
+## Materialen propietate erradiatibo termikoak (2018–) {#radiation}
 
 Azken hamarkadan nire jarduera energiarako materialen tenperatura altuko propietate termofisikoetara eta portaera erradiatibo infragorrira mugitu da, Thermomat taldean, UPV/EHUko materialen propietate termofisikoen ikerketa-taldean, nik ko-zuzentzen dudana. Taldeak HAIRL erabiltzen du, etxean eraikitako zehaztasun handiko erradiometro infragorria: emisibitate espektral norabidezkoa 0,83tik 25 μm-ra, giro-tenperaturatik 1000 °C-ra, atmosfera kontrolatuan, ziurgabetasun-aurrekontu osoarekin. Nire lan-zatia tresnan eta bere datuetan dago laginetan bezainbeste: emisometroaren eguneratzea, *IEEE Transactions on Control Systems Technology* aldizkarian argitaratutako eredurik gabeko kaskadako tenperatura-kontrola, *Metrologia* aldizkariko neurketa-metodo eguneratua eta ziurgabetasun-aurrekontua, emaitza esperimental trazagarrien FAIR erregistrorako «fer» esparrua *IEEE Transactions on Instrumentation and Measurement* aldizkarian, eta EKHI, *Scientific Data* aldizkarian deskribatutako eta emissivity.org-ek indexatutako solidoen propietate optiko eta erradiatibo termikoen datu-base irekia. Materialak oxidatzen ari diren altzairuetatik, entropia handiko aleazioetatik eta fusio nuklearrerako materialetatik laser bidez ereduztatutako gainazaletara eta kontzentrazio bidezko eguzki-energiarako estaldura selektiboetara doaz, CIC Energigune, Tecnalia, Petronor, ArcelorMittal eta ESS Bilbaorekin eta atzerriko bazkide akademikoekin lankidetza estuan.
+
+Urte berberek bigarren energia-adar bat ireki zuten CIC Energigune eta Abdessamad Faikekin: nitrato-gatz urtuen nanofluidoak kontzentrazio bidezko eguzki-zentraletan energia termikoa biltegiratzeko, beren bero-ahalmenaren eta eroankortasun termikoaren hobekuntza, dispertsioen egonkortasuna eta haiekin kontaktuan dagoen karbono-altzairuaren korrosioa. Bosgarren doktorego-tesia izan zen (Nithiyanantham 2019) eta bost artikulu *Solar Energy*, *Solar Energy Materials and Solar Cells*, *Journal of Energy Storage* eta *Applied Thermal Engineering* aldizkarietan, seigarren bat gatz bikoitz hidratatuetako biltegiratze termokimikoari buruz.
 
 ```{=html}
 <figure class="thesis-figure"><img src="../../assets/images/hairl-schematic.png" alt="HAIRL emisometroaren eskema optikoa: FTIR espektrometroa, ispilu parabolikoak eta birakaria, bi gorputz beltz, berogailua eta hutsa dituen lagin-ganbera"><figcaption>HAIRLen antolaera optikoa: espektrometroak lagin-ganberaren eta bi gorputz beltz erreferentziaren artean txandakatzen du ispilu birakari baten bidez; lagina berogailu baten gainean dago hutsean edo purgan, biraketa-ardatz batean norabidezko neurketetarako.</figcaption></figure>
@@ -34,31 +46,116 @@ Azken hamarkadan nire jarduera energiarako materialen tenperatura altuko propiet
 
 ## Konputazioa fisikaren irakaskuntzan {#teaching}
 
-Hirugarren lerroa termodinamika irakasteko modu gisa hasi zen eta ikerketa bihurtu zen. Euskaraz idatzitako Jupyter koadernoak irakasgai teoriko baten laborategi-koadernoa dira: ikasleek dokumentu berean deduzitzen, kalkulatzen eta irudikatzen dute, eta irakasgaiak egindakoaren eguneroko egunkaria darama. MinervaLab, lehen ordenako fase-trantsizioen eta van der Waals fluidoaren simulazio-laborategi interaktiboa, gradu amaierako lan gisa eraiki zen nire zuzendaritzapean, GPL lizentziapean argitaratu zen, eta CSEDU 2017, GIREP 2018 eta Real Sociedad Española de Física elkartearen 2019ko bilera bienalean aurkeztu ditudan fisikaren didaktikako ekarpenen oinarria da, baita UPV/EHUn zuzendu nuen laborategi-koaderno elektronikoari buruzko irakaskuntza-berrikuntzako proiektuarena ere. Tresna berberek beste galdera bati erantzuten diote orain: zer dioten datuek ikasleek nola errenditzen duten, irakasgaiaren beraren erregistroetatik fisikako sarbide-azterketara Espainiako erkidegoetan.
+Bosgarren lerroa termodinamika irakasteko modu gisa hasi zen eta ikerketa bihurtu zen. Euskaraz idatzitako Jupyter koadernoak irakasgai teoriko baten laborategi-koadernoa dira: ikasleek dokumentu berean deduzitzen, kalkulatzen eta irudikatzen dute, eta irakasgaiak egindakoaren eguneroko egunkaria darama. MinervaLab, lehen ordenako fase-trantsizioen eta van der Waals fluidoaren simulazio-laborategi interaktiboa, gradu amaierako lan gisa eraiki zen nire zuzendaritzapean, GPL lizentziapean argitaratu zen, eta CINTE 2016, CSEDU 2017, GIREP 2018 eta Real Sociedad Española de Física elkartearen 2019ko bilera bienalean aurkeztu ditudan fisikaren didaktikako ekarpenen oinarria da, baita UPV/EHUn zuzendu nuen laborategi-koaderno elektronikoari buruzko irakaskuntza-berrikuntzako proiektuarena ere. Tresna berberek beste galdera bati erantzuten diote orain: zer dioten datuek ikasleek nola errenditzen duten, irakasgaiaren beraren erregistroetatik fisikako sarbide-azterketara Espainiako erkidegoetan.
 
 ```{=html}
 <figure class="thesis-figure"><img src="../../assets/images/minervalab-sketch.png" alt="MinervaLab-en eskuz marraztutako plangintza-zirriborroa, zenbakitutako kronograma-koadroekin eta aplikazio-kodeekin"><figcaption>MinervaLab-en plangintza-zirriborroa: simulazio-aplikazioen deskonposizioa, bakoitza bere kodearekin, lerro bat idatzi aurretik marraztua. Softwarea GitHuben dago, jongablop/MinervaLab helbidean.</figcaption></figure>
 ```
 
-## Proiektuak eta kontratuak
+## Europako instalazio handietako esperimentuak {#facilities}
 
-Berrogei ikerketa-proiektu lehiakor, ikerketa-talde aitortu eta ekintza finantzatu baino gehiago ibilbidean zehar, gutxienez zortzi ikertzaile nagusi edo ko-nagusi gisa, Europako instalazio handietako esperimentuak barne. Azkenak, guztiak Thermomat taldean:
+Hemeretzi esperimentu 2007 eta 2011 artean Grenobleko Institut Laue-Langevinen (D1B, D2B, D20 eta D15 tresnak), Paul Scherrer Institut-eko SINQ espalazio-iturrian (HRPT), Garchingeko FRM II erreaktorean (SPODI), Helmholtz-Zentrum Berlinen (E9) eta ESRFn (BM25 SpLine), horietatik hamasei ikertzaile nagusi gisa. Instalazio horietako izpi-denbora nazioarteko parekoen ebaluazioz esleitzen da, ILLn bitik bat inguruko arrakasta-tasekin eta atzerriko taldeentzako kupo zorrotzagoekin besteetan; instalazioek berek argitaratutako eguneko funtzionamendu-kostuan baloratuta, 12 000 € inguru, emandako denbora milioi erdi euro da. Proposamen bakoitza perobskita bikoitzen lerroko egituren eta fase-trantsizioen azterketa bat izan zen, eta bere datuak goiko tesi eta artikuluetara joan ziren.
 
 ```{=html}
-<table>
-<thead><tr><th>Urteak</th><th>Proiektua</th><th>Finantzatzailea</th></tr></thead>
+<div class="table-wrap"><table>
+<thead><tr><th>Datak</th><th>Instalazioa</th><th>Esperimentua</th><th>Egunak</th><th>Eginkizuna</th></tr></thead>
 <tbody>
-<tr><td>2025–2026</td><td>SIMULATE: eskala anitzeko eta fisika anitzeko simulazio-hurbilketak laser bidezko mikrofabrikazioan (KK-2025/00075)</td><td>Eusko Jaurlaritza, 135 284 €</td></tr>
-<tr><td>2024–2026</td><td>Altzairuen ekoizpeneko akatsen azterketa sistematikoa trazagarritasunerako eta eraginkortasunerako (US24/04), Sidenor I+D-rekin</td><td>UPV/EHU, 14 585 €</td></tr>
-<tr><td>2021–2025</td><td>Materialen propietate termofisikoen ikerketa-taldea (IT1714-22)</td><td>Eusko Jaurlaritza, 104 400 €</td></tr>
-<tr><td>2021–2023</td><td>Azken belaunaldiko aleazio aeronautikoen karakterizazioa tenperatura altuetarako (PIBA_2021_1_0022)</td><td>Eusko Jaurlaritza, 50 000 €</td></tr>
-<tr><td>2019–2022</td><td>Materialen propietate termofisikoen ikerketa-taldea (GIU19/019, IT1364-19)</td><td>UPV/EHU eta Eusko Jaurlaritza, 26 271 €</td></tr>
-<tr><td>2019–2021</td><td>Termografiako zuzenketa-algoritmoen garapenerako modelizazioa (US19/13), Petronorrekin</td><td>UPV/EHU, 63 450 €</td></tr>
-<tr><td>2018–2019</td><td>Sistema hibridoetarako energia elektrokimikoaren eta termikoaren biltegiratzeari buruzko oinarrizko ikerketa estrategikoa (ELKARTEK KK-2018/00098), CIC Energigunek koordinatua</td><td>Eusko Jaurlaritza, 74 018 € taldearentzat, 3,1 M€ guztira</td></tr>
-</tbody>
-</table>
-<p style="margin-top:22px">Enpresekiko kontratuak: materialen propietate termo-optikoak ITP Aerorentzat (2025); hodi-azalaren tenperatura neurtzeko teknika termo-optikoak Petronorren labeetan (2019–2021); 316L altzairuaren emisibitate infragorria gainazal-akabera desberdinekin ESS Bilbaorentzat (2017).</p>
+<tr><td>2007 abe</td><td>ILL, Grenoble</td><td>Kinetics of the transformations A₂Mn²⁺WO₆ → A₂Mn³⁺WO₆ (A = Ca, Sr) and the temperature-induced phase transitions</td><td>3</td><td>ikertzaile kidea</td></tr>
+<tr><td>2008 ira</td><td>ILL, Grenoble</td><td>Temperature evolution of the phase-transition sequences in Sr₂MSbO₆ (M = Co, Fe, Cr, Sc, Ga, Sm, La)</td><td>3</td><td>ikertzaile kidea</td></tr>
+<tr><td>2008 urr</td><td>HZB (E9), Berlin</td><td>Temperature evolution of the symmetry modes of the phase-transition sequences in Sr₂MSbO₆ (M = Sc, La)</td><td>8</td><td>IN</td></tr>
+<tr><td>2010 eka</td><td>SINQ (PSI), Villigen</td><td>Structures and phase transitions of the triple perovskites A′A″₂CuTi₂O₉ (A′ = Ca, Ba; A″ = Pr, Nd)</td><td>4</td><td>IN</td></tr>
+<tr><td>2010 uzt</td><td>ILL, Grenoble</td><td>Phase transitions in Fe-Al-Cr alloys and their relation to the mobility of dislocations and grain boundaries</td><td>3</td><td>ikertzaile kidea</td></tr>
+<tr><td>2010 uzt</td><td>FRM II (SPODI), Garching</td><td>Structures and phase transitions at low and high temperature of SrNdMRuO₆ (M = Ni, Co, Fe, Mg, Zn)</td><td>4</td><td>IN</td></tr>
+<tr><td>2010 uzt</td><td>ILL, Grenoble</td><td>Thermal evolution of SrLaCoRuO₆: magnetic and nuclear structures</td><td>4</td><td>IN</td></tr>
+<tr><td>2010 abe</td><td>ILL, Grenoble</td><td>Structural and magnetic characterisation of the possible multiferroic Pb₃Ni₁.₅Mn₅.₅O₁₅ (two experiments)</td><td>4</td><td>IN</td></tr>
+<tr><td>2010 abe</td><td>ILL, Grenoble (D2B)</td><td>Structures and phase transitions at low and high temperature of the new double perovskites SrNdMRuO₆</td><td>3</td><td>IN</td></tr>
+<tr><td>2010 abe</td><td>ILL, Grenoble</td><td>Symmetry of the ferroelectric phase in multiferroic BiFeO₃: neutron diffraction aided by group-theoretical tools</td><td>2</td><td>IN</td></tr>
+<tr><td>2011 api</td><td>SINQ (PSI), Villigen</td><td>Characterisation of the possible multiferroic Pb₃Ni₁.₅Mn₅.₅O₁₅</td><td>5</td><td>IN</td></tr>
+<tr><td>2011</td><td>ESRF (BM25), Grenoble</td><td>Characterisation of the possible multiferroic Pb₃Ni₁.₅Mn₅.₅O₁₅ by synchrotron powder diffraction</td><td>—</td><td>IN</td></tr>
+<tr><td>2011 uzt</td><td>ILL, Grenoble</td><td>Structural and magnetic characterisation of SrPrMRuO₆ (M = Mg, Co, Ni, Zn)</td><td>1</td><td>IN</td></tr>
+<tr><td>2011 abu</td><td>SINQ (PSI), Villigen</td><td>Structural and magnetic characterisation of SrPrMRuO₆ (M = Mg, Co, Ni, Zn, Fe)</td><td>3</td><td>IN</td></tr>
+<tr><td>2011 ira</td><td>ILL, Grenoble</td><td>Structural and magnetic characterisation at low and high temperature of SrPrMRuO₆</td><td>3</td><td>IN</td></tr>
+<tr><td>2011 urr</td><td>ILL, Grenoble</td><td>SrNdCoRuO₆, SrNdNiRuO₆ and SrLaCoRuO₆: nuclear and magnetic structures</td><td>1</td><td>IN</td></tr>
+<tr><td>2011 aza</td><td>ILL, Grenoble</td><td>Structural phase-transition sequence in the multiferroic magnetoelectric NaLaCoWO₆</td><td>1</td><td>IN</td></tr>
+<tr><td>2011 aza–abe</td><td>ILL, Grenoble</td><td>Rare-earth cation influence on the crystal and magnetic structures of SrLnFeRuO₆ (Ln = La, Nd, Pr)</td><td>32</td><td>IN</td></tr>
+</tbody></table></div>
+<p class="table-note">Eginkizuna: IN, proposamenaren ikertzaile nagusia; ikertzaile kidea Vicente Recartek (Nafarroako Unibertsitate Publikoa) zuzendutako hiru proposamenetan.</p>
 ```
+
+## Proiektu lehiakorrak eta ikerketa-taldeak {#projects}
+
+Berrogei proiektu lehiakor eta ikerketa-talde aitortu baino gehiago ibilbidean zehar, eta hirurogei sarrera baino gehiago ekintza finantzatuak eta kontratuak zenbatuz gero: lehenik J. Manuel Pérez-Matok eta Gotzon Madariagak zuzendutako egitura-fisikako taldeko kide gisa, 2018tik Thermomaten, eta ikertzaile nagusi gisa ELKARTEK biltegiratze-proiektuaren UPV/EHU nodoan, goiko instalazio handietako proposamenetan eta laborategi-koaderno elektronikoari buruzko irakaskuntza-berrikuntzako proiektuan. Lehenik talde aitortuak zerrendatzen dira, gero proiektuak, kronologia alderantzizko ordenan. Zenbatekoak UPV/EHUri emandakoak dira, Ikerketako Errektoreordetzaren ziurtagirietan agertzen diren bezala.
+
+### Ikerketa-talde aitortuak {#groups}
+
+```{=html}
+<div class="table-wrap"><table>
+<thead><tr><th>Urteak</th><th>Proiektua</th><th>Finantzatzailea</th><th>IN</th><th>Emandakoa</th></tr></thead>
+<tbody>
+<tr><td>2022–2025</td><td>Materialen propietate termofisikoen ikerketa-taldea (IT1714-22)</td><td>Eusko Jaurlaritza</td><td>R. Fuente</td><td>104 400 €</td></tr>
+<tr><td>2019–2022</td><td>Materialen propietate erradiatiboen ikerketa-taldea (GIU19/019, IT1364-19)</td><td>UPV/EHU eta Eusko Jaurlaritza</td><td>R. Fuente, G. A. López</td><td>26 271 €</td></tr>
+<tr><td>2013–2018</td><td>Solidoen egitura- eta dinamika-propietateak (GIC12/146, IT779-13)</td><td>Eusko Jaurlaritza</td><td>G. Madariaga</td><td>262 798 €</td></tr>
+<tr><td>2007–2012</td><td>Solidoen egitura- eta dinamika-propietateak (GIC07/117, IT-282-07)</td><td>Eusko Jaurlaritza</td><td>J. M. Pérez-Mato</td><td>563 474 €</td></tr>
+<tr><td>2001–2006</td><td>X izpien eta sinkrotroi-erradiazioaren difrakziorako instrumentazioaren garapena (GIC01/43)</td><td>Eusko Jaurlaritza</td><td>J. M. Pérez-Mato</td><td>420 519 €</td></tr>
+<tr><td>2001–2006</td><td>Solidoen egitura- eta dinamika-propietateak, errendimendu handiko talde finkatua (UPV0063.310-13564/2001, hiru luzapenekin)</td><td>UPV/EHU</td><td>J. M. Pérez-Mato</td><td>380 426 €</td></tr>
+<tr><td>1998–2000</td><td>Solidoen egitura- eta dinamika-propietateak</td><td>UPV/EHU</td><td>J. M. Pérez-Mato</td><td>228 360 €</td></tr>
+</tbody></table></div>
+```
+
+### Proiektuak eta ekintza finantzatuak {#funded}
+
+```{=html}
+<div class="table-wrap"><table>
+<thead><tr><th>Urteak</th><th>Proiektua</th><th>Finantzatzailea</th><th>IN</th><th>Emandakoa</th></tr></thead>
+<tbody>
+<tr><td>2025–2026</td><td>SIMULATE: eskala anitzeko eta fisika anitzeko simulazio-hurbilketak laser bidezko mikrofabrikazioan (KK-2025/00075)</td><td>Eusko Jaurlaritza</td><td>—</td><td>135 284 €</td></tr>
+<tr><td>2024–2026</td><td>Altzairuen ekoizpeneko akatsen azterketa sistematikoa trazagarritasunerako eta eraginkortasunerako (US24/04), Sidenor I+D-rekin</td><td>UPV/EHU</td><td>—</td><td>14 585 €</td></tr>
+<tr><td>2021–2023</td><td>Azken belaunaldiko aleazio aeronautikoen karakterizazio aurreratua tenperatura altuetarako (PIBA_2021_1_0022)</td><td>Eusko Jaurlaritza</td><td>G. A. López</td><td>50 000 €</td></tr>
+<tr><td>2019–2021</td><td>Termografiako zuzenketa-algoritmoen garapenerako modelizazioa (US19/13), Petronorrekin</td><td>UPV/EHU</td><td>R. Fuente, G. A. López</td><td>63 450 €</td></tr>
+<tr><td>2019</td><td>Tenperatura altuko kamera infragorria, azpiegitura (INF19/18)</td><td>UPV/EHU</td><td>R. Fuente</td><td>10 792 €</td></tr>
+<tr><td>2019</td><td>Ikerketarako laguntzak, II. modalitatea taldeak (PPGA19/25)</td><td>UPV/EHU</td><td>R. Fuente</td><td>5 566 €</td></tr>
+<tr><td>2018–2019</td><td>Sistema hibridoetarako energia elektrokimikoaren eta termikoaren biltegiratzeari buruzko oinarrizko ikerketa estrategikoa (ELKARTEK KK-2018/00098), CIC Energigunek koordinatua</td><td>Eusko Jaurlaritza</td><td>G. A. López, J. M. Igartua (UPV/EHU nodoa)</td><td>74 018 € taldearentzat, 3,1 M€ guztira</td></tr>
+<tr><td>2018–2019</td><td>Laborategi-koaderno elektronikoa: Jupyter Notebook, irakaskuntza-berrikuntzako proiektua (PIE 61)</td><td>UPV/EHU</td><td>J. M. Igartua</td><td>1 000 €</td></tr>
+<tr><td>2016–2018</td><td>Material magnetiko, ferroiko eta multiferroiko berriak: egitura, propietateak eta haien analisirako tresnak (MAT2015-66441-P)</td><td>Espainiako Ekonomia eta Lehiakortasun Ministerioa</td><td>G. Madariaga</td><td>177 870 €</td></tr>
+<tr><td>2013–2015</td><td>Material ferroiko eta multiferroiko berrien sintesia, egitura eta propietateak (MAT2012-34740)</td><td>Espainiako Ekonomia eta Lehiakortasun Ministerioa</td><td>G. Madariaga</td><td>204 750 €</td></tr>
+<tr><td>2011</td><td>Geometria eulerdarreko difraktometro polibalentea, X izpien iturri bikoitza eta denbora errealeko detekzio bidimentsionala, azpiegitura (GVINF11/48)</td><td>Eusko Jaurlaritza</td><td>J. M. Pérez-Mato</td><td>300 000 €</td></tr>
+<tr><td>2011–2012</td><td>ITON 2011 satellite workshop: International Tables for Crystallography-ren lineako edizioa (CGV11/51)</td><td>Eusko Jaurlaritza</td><td>G. Madariaga</td><td>5 866 €</td></tr>
+<tr><td>2009–2012</td><td>Egitura eta propietateak material ferroiko eta multiferroikoetan: modelizazioa eta esperimentuak (MAT2008-05839)</td><td>Espainiako Zientzia eta Berrikuntza Ministerioa</td><td>J. M. Pérez-Mato</td><td>121 000 €</td></tr>
+<tr><td>2009–2010</td><td>ITON 2009 satellite workshop: Bilbao Crystallographic Server-ari buruzko nazioarteko eskola</td><td>Eusko Jaurlaritza</td><td>G. Madariaga</td><td>5 000 €</td></tr>
+<tr><td>2009</td><td>Bi X izpien difrakzio-ekipoen interfaze elektronikoen eguneratzea, azpiegitura (INF09/16)</td><td>UPV/EHU</td><td>G. Madariaga</td><td>23 497 €</td></tr>
+<tr><td>2009–2012</td><td>ILL, ESRF eta CERNera bisitak master-ikasleentzat, bi edizio (PISAM 2009/10, 2011/12)</td><td>UPV/EHU</td><td>J. M. Igartua</td><td>8 200 €</td></tr>
+<tr><td>2007</td><td>Fisika ekinean, kongresuak eta jardunaldiak (CSJ07/14)</td><td>UPV/EHU</td><td>G. Madariaga</td><td>6 000 €</td></tr>
+<tr><td>2005–2008</td><td>Material funtzional berrien egitura kristalinoak eta propietateak giro-baldintzez kanpo (FIS2005-07090)</td><td>Espainiako Hezkuntza eta Zientzia Ministerioa</td><td>A. Grzechnik</td><td>64 260 €</td></tr>
+<tr><td>2002–2005</td><td>Superespazio-deskribapena eta fase-trantsizioak perobskitatik eratorritako egiturak dituzten geruza-konposatuetan (BFM2002-00057)</td><td>Espainiako Zientzia eta Teknologia Ministerioa</td><td>F. J. Zúñiga</td><td>80 918 €</td></tr>
+<tr><td>1999–2002</td><td>Fase-trantsizioak solidoetan: mekanismoak eta egitura (PB98-0244)</td><td>DGESIC, Espainiako Hezkuntza Ministerioa</td><td>J. M. Pérez-Mato</td><td>48 000 €</td></tr>
+<tr><td>1998–1999</td><td>Oinarrizko mekanismoak egiturazko fase-trantsizioetan</td><td>Espainiako Hezkuntza eta Zientzia Ministerioa</td><td>J. M. Pérez-Mato</td><td>7 200 €</td></tr>
+<tr><td>1995–1998</td><td>Material isolatzaileen eta kuasikristalen egitura eta egonkortasuna</td><td>Espainiako Hezkuntza eta Zientzia Ministerioa</td><td>J. M. Pérez-Mato</td><td>42 000 €</td></tr>
+<tr><td>1995</td><td>Fase-diagramen azterketak ABX₃ familian</td><td>UPV/EHU</td><td>A. López-Echarri</td><td>10 800 €</td></tr>
+<tr><td>1993</td><td>Fase-trantsizioak kristal ferroelektrikoetan</td><td>UPV/EHU</td><td>A. López-Echarri</td><td>—</td></tr>
+<tr><td>1992</td><td>Fase inkonmentsurableak dituzten A₂BX₄ kristalen azterketa espektroskopikoa</td><td>UPV/EHU</td><td>A. López-Echarri</td><td>—</td></tr>
+<tr><td>1989–1991</td><td>Kristal ferroelektriko eta inkonmentsurableen azterketa kalorimetrikoa</td><td>UPV/EHU</td><td>A. López-Echarri</td><td>2 362 €</td></tr>
+</tbody></table></div>
+```
+
+## Industriarekiko kontratuak {#contracts}
+
+Thermomat taldearen ikerketa- eta aholkularitza-kontratuak, nik parte hartzen dudanak, guztiak emisibitate infragorriari eta neurketa termo-optikoari buruz.
+
+```{=html}
+<div class="table-wrap"><table>
+<thead><tr><th>Urteak</th><th>Kontratua</th><th>Enpresa</th><th>Emandakoa</th></tr></thead>
+<tbody>
+<tr><td>2025</td><td>Materialen propietate termo-optikoak</td><td>ITP Aero</td><td>—</td></tr>
+<tr><td>2019–2021</td><td>Hodi-azalaren tenperatura neurtzeko teknika termo-optikoak Petronorren labeetan</td><td>Petronor Innovación</td><td>89 241 €</td></tr>
+<tr><td>2017</td><td>316L altzairuaren emisibitate infragorria gainazal-akabera desberdinekin</td><td>ESS Bilbao</td><td>31 764 €</td></tr>
+<tr><td>2017</td><td>Alumina eta boro nitruro laginen emisibitate infragorria gailu industrial baten kontrasterako</td><td>ArcelorMittal Sestao</td><td>3 594 €</td></tr>
+<tr><td>2017–2018</td><td>Pintura-lagin baten emisibitate infragorri normala eta norabidezkoa</td><td>SENER Ingeniería y Sistemas</td><td>3 010 €</td></tr>
+</tbody></table></div>
+```
+
+## Komunitatea {#community}
+
+Ehun bat kongresu-ekarpen 1990etik, gonbidatutako hitzaldiekin solidoetako ordena eta desordenari buruzko Gordon Conferencen (New London, 1994), difrakzioko simetria-analisiari buruzko Krakoviako tailerrean (1996), egitura kristalinoen iragargarritasunari buruzko Hünfeldeko sinposioan (1997) eta, emisibitatearen urteetan, THERMEC, EUROMAT, MRS Spring Meeting, MMC eta EOSAM bileretan. Materialen zientzia, termofisika, kristalografia eta instrumentazioko hogei bat aldizkari indexaturen berrikuslea, ehun berrikuspen baino gehiago osatuta; *Energies* aldizkariaren editore elkartua. Bilbao Crystallographic Server-aren bi nazioarteko eskolen antolakuntza-batzordeko kidea (2009, 2011) eta ILLko FullProf eskolako, Hercules ikastaroko eta European School on Multiferroics-eko ikaslea. Real Sociedad Española de Física elkartearen tokiko sekzioaren presidenteordea.
 
 ```{=html}
 </article>

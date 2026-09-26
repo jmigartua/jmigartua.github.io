@@ -537,6 +537,13 @@ html[lang^="es"] a.wordmark[data-lang="es"], html[lang^="eu"] a.wordmark[data-la
 .docs-nav details.group.has-current > summary.t { color: var(--teal); }
 .docs-nav .nav-toggle { display: none; }
 
+
+/* Wide tables scroll inside their own container; small print notes under tables. */
+.table-wrap { overflow-x: auto; margin: 12px 0 20px; }
+.table-wrap table { margin: 0; min-width: 640px; }
+.page-article .table-wrap td, .page-article .table-wrap th { font-size: 14px; vertical-align: top; }
+.table-note { font-size: 13.5px; color: var(--ink-faint); margin: -8px 0 24px; }
+
 /* Motion */
 @media (prefers-reduced-motion: no-preference) {
   html { scroll-behavior: smooth; }
