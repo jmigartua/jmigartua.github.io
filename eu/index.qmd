@@ -1,6 +1,6 @@
 ---
 title: "Josu M. Igartua"
-pagetitle: "Josu M. Igartua · Fisika · UPV/EHU"
+pagetitle: "Josu M. Igartua · Fisika · EHU"
 title-block-style: none
 page-layout: full
 toc: false
@@ -81,7 +81,7 @@ toc: false
     <p class="sec-intro">Orri hau ardatza da. Material xehatua diseinu-sistema berarekin eraikitako hiru webgune ahaidetan bizi da, irakurleak batetik bestera josturarik nabaritu gabe igaro dadin.</p>
     <div class="lines">
       <div class="line-item"><div class="num">GRAL / TFG</div><h3><a href="https://jmigartua.github.io/tfgs-website/eu/">igartua / gral-tfg</a></h3><p>2011tik zuzendu ditudan gradu amaierako lanak, martxan daudenak, datorren ikasturterako proposamenak eta prestaketa eskuliburua, ingelesez, gaztelaniaz eta euskaraz.</p></div>
-      <div class="line-item"><div class="num">TALDEA</div><h3><a href="https://emissivity.org/network/thermomat-ehu">Thermomat / HAIRL</a></h3><p>UPV/EHUko materialen propietate termofisikoen ikerketa-taldea, nik ko-zuzendua: tresnak, pertsonak, proiektuak eta EKHI datu-basea.</p></div>
+      <div class="line-item"><div class="num">TALDEA</div><h3><a href="https://emissivity.org/network/thermomat-ehu">Thermomat / HAIRL</a></h3><p>EHUko materialen propietate termofisikoen ikerketa-taldea, nik ko-zuzendua: tresnak, pertsonak, proiektuak eta EKHI datu-basea.</p></div>
       <div class="line-item"><div class="num">ARLOA</div><h3><a href="https://emissivity.org/">emissivity.org</a></h3><p>Materialen propietate erradiatibo termikoetan lan egiten duten laborategien erreferentzia-puntua: ikerketa-mapa, datu-baliabideak, metodoak eta egutegia.</p></div>
     </div>
   </div>

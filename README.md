@@ -1,6 +1,6 @@
 # igartua — personal academic site
 
-Source of the personal website of Josu M. Igartua (Physics, UPV/EHU). Fourth
+Source of the personal website of Josu M. Igartua (Physics, EHU). Fourth
 member of the site family that shares one design system: emissivity.org,
 thermomat, igartua / gral-tfg. `theme: none`, one stylesheet
 (`assets/styles/theme.css`, graphite ink, amber links, slate kickers), header
@@ -10,7 +10,8 @@ and footer partials under `assets/includes/`.
 
 ```sh
 python3 tools/generate_publications.py   # publications/index.qmd + _gen/ from _data/publications.yml
-python3 tools/generate_teaching.py       # teaching/index.qmd ×3 (timeline, tables) from _data/teaching.yml
+python3 tools/generate_teaching.py       # teaching/index.qmd ×3 (timeline, tables, textbook and innovation lists) from _data/teaching.yml
+python3 tools/generate_research.py       # research/index.qmd ×3 (lines, facilities, projects, contracts, conference list from _data/conferences.yml)
 quarto render                            # → _site/
 ```
 

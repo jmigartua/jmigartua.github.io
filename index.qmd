@@ -1,6 +1,6 @@
 ---
 title: "Josu M. Igartua"
-pagetitle: "Josu M. Igartua · Physics · UPV/EHU"
+pagetitle: "Josu M. Igartua · Physics · EHU"
 title-block-style: none
 page-layout: full
 toc: false
@@ -81,7 +81,7 @@ toc: false
     <p class="sec-intro">This page is the hub. The detailed material lives on three sister sites built on the same design system, so a reader can move between them without noticing the join.</p>
     <div class="lines">
       <div class="line-item"><div class="num">GRAL / TFG</div><h3><a href="https://jmigartua.github.io/tfgs-website/">igartua / gral-tfg</a></h3><p>The bachelor's theses I have directed since 2011, the ones in progress, the proposals for the coming course and the preparation manual, in English, Spanish and Basque.</p></div>
-      <div class="line-item"><div class="num">GROUP</div><h3><a href="https://emissivity.org/network/thermomat-ehu">Thermomat / HAIRL</a></h3><p>The research group on the thermophysical properties of materials at UPV/EHU, which I co-lead: instruments, people, projects and the EKHI database.</p></div>
+      <div class="line-item"><div class="num">GROUP</div><h3><a href="https://emissivity.org/network/thermomat-ehu">Thermomat / HAIRL</a></h3><p>The research group on the thermophysical properties of materials at EHU, which I co-lead: instruments, people, projects and the EKHI database.</p></div>
       <div class="line-item"><div class="num">FIELD</div><h3><a href="https://emissivity.org/">emissivity.org</a></h3><p>The reference point for laboratories working on the thermal radiative properties of materials: research map, data resources, methods and calendar.</p></div>
     </div>
   </div>

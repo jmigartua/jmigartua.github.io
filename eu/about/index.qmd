@@ -10,14 +10,14 @@ toc: false
 <div class="crumbs"><a href="../index.html">igartua</a> / nor naiz</div>
 <div class="article-grid">
 <article class="page-article">
-<div style="display:grid;grid-template-columns:200px 1fr;gap:32px;align-items:start;margin:0 0 32px;padding:24px;background:var(--tint);border:1px solid var(--line)">
+<div style="display:grid;grid-template-columns:176px 1fr;gap:28px;align-items:start;margin:0 0 32px;padding:24px;background:var(--tint);border:1px solid var(--line)">
   <figure style="margin:0"><img src="../../assets/images/josu-igartua.png" alt="Josu M. Igartua" style="width:100%;height:auto;display:block;border:1px solid var(--line);aspect-ratio:1/1;object-fit:cover"></figure>
   <div class="thesis-facts" style="margin:0;padding:0;background:none;border:0">
     <div class="row"><div class="k">Izena</div><div class="v">Josu Mirena Igartua Aldamiz</div></div>
-    <div class="row"><div class="k">Postua</div><div class="v">Unibertsitateko katedraduna, Fisika, 2020ko azaroaren 2tik</div></div>
-    <div class="row"><div class="k">Saila</div><div class="v">Fisika Saila, Zientzia eta Teknologia Fakultatea, UPV/EHU, Leioa</div></div>
+    <div class="row"><div class="k">Postua</div><div class="v">Unibertsitateko katedraduna, Fisika, 2020ko azarotik</div></div>
+    <div class="row"><div class="k">Saila</div><div class="v">Fisika Saila, Zientzia eta Teknologia Fakultatea, Leioa</div></div>
     <div class="row"><div class="k">Arloa</div><div class="v">Fisika Aplikatua &middot; Termodinamika eta fisika estatistikoa</div></div>
-    <div class="row"><div class="k">Taldea</div><div class="v">Thermomat / HAIRL, materialen propietate termofisikoak (ko-zuzendaria)</div></div>
+    <div class="row"><div class="k">Taldea</div><div class="v">Thermomat / HAIRL ikerketa-taldea, ko-zuzendaria</div></div>
     <div class="row"><div class="k">Hizkuntzak</div><div class="v">Euskara, gaztelania, ingelesa; irakaskuntza euskaraz 1993tik</div></div>
     <div class="row"><div class="k">Harremana</div><div class="v"><a href="mailto:josu.igartua@ehu.eus">josu.igartua@ehu.eus</a> &middot; <a href="https://orcid.org/0000-0001-7983-5331">ORCID 0000-0001-7983-5331</a></div></div>
   </div>
@@ -38,10 +38,10 @@ Irakaskuntzan, termodinamika eta inguruko gaiak euskaraz sartu nituen unibertsit
 <table>
 <thead><tr><th>Urteak</th><th>Postua</th><th>Non</th></tr></thead>
 <tbody>
-<tr><td>1988</td><td>Zientzietan lizentziatua, Fisika, solidoen egoeraren fisikaren espezialitatea</td><td>UPV/EHU</td></tr>
-<tr><td>1988–1992</td><td>Ikerketa-laguntzailea eta doktorego aurreko bekaduna (Eusko Jaurlaritza)</td><td>UPV/EHU</td></tr>
+<tr><td>1988</td><td>Zientzietan lizentziatua, Fisika, solidoen egoeraren fisikaren espezialitatea</td><td>EHU</td></tr>
+<tr><td>1988–1992</td><td>Ikerketa-laguntzailea eta doktorego aurreko bekaduna (Eusko Jaurlaritza)</td><td>EHU</td></tr>
 <tr><td>1992–1997</td><td>Irakasle elkartua, elebiduna</td><td>Industria Ingeniaritzako Eskola, Bilbo; Zientzia eta Teknologia Fakultatea, Leioa</td></tr>
-<tr><td>1994</td><td>Fisikan doktorea, solido-solido fase-trantsizio estrukturalak</td><td>UPV/EHU</td></tr>
+<tr><td>1994</td><td>Fisikan doktorea, solido-solido fase-trantsizio estrukturalak</td><td>EHU</td></tr>
 <tr><td>1997–2020</td><td>Unibertsitateko irakasle titularra</td><td>Fisika Aplikatua II, Zientzia eta Teknologia Fakultatea</td></tr>
 <tr><td>2012–2015</td><td>Ikasleen eta Truke Akademikoaren dekanordea</td><td>Zientzia eta Teknologia Fakultatea</td></tr>
 <tr><td>2020–</td><td>Unibertsitateko katedraduna, Fisika</td><td>Fisika Saila, Zientzia eta Teknologia Fakultatea</td></tr>
@@ -51,7 +51,7 @@ Irakaskuntzan, termodinamika eta inguruko gaiak euskaraz sartu nituen unibertsit
 
 ## Aitorpenak
 
-- CNEAIk aitortutako sei ikerketa-seiurteko, nire ibilbidean ahal den gehienekoa, eta UPV/EHUk aitortutako sei irakaskuntza-bosturteko, era berean gehienekoa.
+- CNEAIk aitortutako sei ikerketa-seiurteko, nire ibilbidean ahal den gehienekoa, eta EHUk aitortutako sei irakaskuntza-bosturteko, era berean gehienekoa.
 - Unibasqek 2015ean emandako A1 ikerketa- eta irakaskuntza-osagarria, ikerketa- eta irakaskuntza-kalitatearen konbinazioa formalki aitortzen duena.
 - Irakaskuntza DOCENTIAZ programan goiko mailan ebaluatua («Oso ongi»), 82,4 eta 95,7 punturekin 2008–2013 eta 2013–2018 aldietan.
 - Bost doktorego-tesi defendatuak, guztiak kalifikazio gorenarekin, hiru nazioarteko aipamenarekin, bat doktorego-sari bereziarekin; bi martxan.
@@ -67,7 +67,7 @@ Bibliometria, balio duenerako: Scopusen indexatutako 73 dokumentu, 1 481 aipurek
 - [ORCID 0000-0001-7983-5331](https://orcid.org/0000-0001-7983-5331)
 - [Google Scholar](https://scholar.google.es/citations?user=nYJ--CkAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Josu-Igartua)
-- [UPV/EHUko ikerketa-ataria](https://ekoizpen-zientifikoa.ehu.eus/investigadores/128210/detalle)
+- [EHUko ikerketa-ataria](https://ekoizpen-zientifikoa.ehu.eus/investigadores/128210/detalle)
 - [GitHub](https://github.com/jmigartua)
 
 ```{=html}

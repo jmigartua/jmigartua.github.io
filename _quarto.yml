@@ -16,10 +16,10 @@ pagetitle: "{{< meta title >}} · Josu M. Igartua"
 website:
   title: "Josu M. Igartua"
   site-url: "https://jmigartua.github.io/"
-  description: "Josu M. Igartua, Full Professor of Physics at the University of the Basque Country (UPV/EHU): structural physics of solids, thermal radiative properties of materials, and physics teaching."
+  description: "Josu M. Igartua, Full Professor of Physics at the University of the Basque Country (EHU): structural physics of solids, thermal radiative properties of materials, and physics teaching."
   favicon: assets/images/favicon.svg
   open-graph:
-    description: "Josu M. Igartua, Full Professor of Physics at UPV/EHU: research, teaching, theses and publications."
+    description: "Josu M. Igartua, Full Professor of Physics at EHU: research, teaching, theses and publications."
   navbar: false
   search: false
   page-navigation: false

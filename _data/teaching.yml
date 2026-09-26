@@ -1,330 +1,995 @@
 # Teaching record, transcribed from the 2020 full CV (dossier for the chair,
-# sections 3.1, 3.3, 4.1, 4.2, 4.3, 10.3) and the 2022 abbreviated CV.
+# sections 3.1, 3.3, 4.1, 4.2, 4.3, 5, 6, 10.3) and the 2022 abbreviated CV.
 # Years are the START of the academic year (2003 = 2003/04). Spans are inclusive.
-# `extend` marks a continuation attested by a later CV but not itemised by year;
-# it is drawn outlined. Credits are per academic year (map when they vary).
-# Language: eu = Basque, es = Spanish, en = English, mixed = several groups.
-# Kind: theory, lab, master, tfg, course, organised, post.
-
-axis: {start: 1991, end: 2025}
-
+# `extend` marks a continuation attested by a later CV but not itemised by year (drawn outlined).
+# Credits are per academic year (map when they vary). lang: eu/es/en/mixed. kind: theory, lab, master, tfg, course, organised, post.
+# `textbooks` (dossier §5, 20 ISBN entries) and `innovation` (dossier §6, 18 projects) feed the collapsible lists.
+axis:
+  start: 1991
+  end: 2025
 institutions:
-  - id: ehu
-    short: UPV/EHU
-    name: {en: "University of the Basque Country (UPV/EHU)", es: "Universidad del País Vasco (UPV/EHU)", eu: "Euskal Herriko Unibertsitatea (UPV/EHU)"}
-    centres:
-      - id: minera
-        name: {en: "School of Mining Engineering, Bilbao · Applied Physics I", es: "Escuela de Ingeniería Técnica Minera, Bilbao · Física Aplicada I", eu: "Meatze Ingeniaritza Teknikoko Eskola, Bilbo · Fisika Aplikatua I"}
-        subjects:
-          - id: fg-minera
-            name: {en: "General Physics", es: "Física General", eu: "Fisika Orokorra"}
-            degree: {en: "Technical mining engineering", es: "Ingeniería técnica minera", eu: "Meatze ingeniaritza teknikoa"}
-            lang: es
-            kind: theory
-            spans: [[1991, 1992]]
-            credits: 2.0
-          - id: fg-minera-lab
-            name: {en: "General Physics, laboratory", es: "Física General, prácticas de laboratorio", eu: "Fisika Orokorra, laborategiko praktikak"}
-            degree: {en: "Technical mining engineering", es: "Ingeniería técnica minera", eu: "Meatze ingeniaritza teknikoa"}
-            lang: es
-            kind: lab
-            spans: [[1991, 1992]]
-            credits: 6.0
-      - id: fct
-        name: {en: "Faculty of Science and Technology, Leioa · Applied Physics II", es: "Facultad de Ciencia y Tecnología, Leioa · Física Aplicada II", eu: "Zientzia eta Teknologia Fakultatea, Leioa · Fisika Aplikatua II"}
-        subjects:
-          - id: tme
-            name: {en: "Thermodynamics and Statistical Mechanics", es: "Termodinámica y Mecánica Estadística", eu: "Termodinamika eta Mekanika Estatistikoa"}
-            degree: {en: "Licentiate in Sciences, Physics section", es: "Licenciatura en Ciencias, sección Física", eu: "Zientzietako lizentziatura, Fisika atala"}
-            lang: es
-            kind: theory
-            spans: [[1992, 1992]]
-            credits: 7.5
-            note: {en: "The itemised record of the dossier resumes in 2003; between 1993 and 2003 I taught thermodynamics in Basque in the licentiate as associate professor (1992) and senior lecturer (1997), but those years are not itemised in the certificate.", es: "El registro itemizado del dosier se reanuda en 2003; entre 1993 y 2003 impartí termodinámica en euskera en la licenciatura como profesor asociado (1992) y titular (1997), pero esos cursos no están itemizados en el certificado.", eu: "Dosierraren erregistro xehatua 2003an berrabiatzen da; 1993 eta 2003 artean termodinamika euskaraz eman nuen lizentziaturan irakasle elkartu (1992) eta titular (1997) gisa, baina ikasturte horiek ez daude ziurtagirian xehatuta."}
-          - id: tec-exp
-            name: {en: "Experimental Techniques in Physics I", es: "Técnicas Experimentales en Física I", eu: "Fisikako Teknika Esperimentalak I"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: eu
-            kind: lab
-            spans: [[2003, 2008]]
-            credits: {2003: 4.2, 2004: 4.5, 2005: 4.5, 2006: 4.5, 2007: 4.5, 2008: 4.55}
-          - id: termo
-            name: {en: "Thermodynamics", es: "Termodinámica", eu: "Termodinamika"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: eu
-            kind: theory
-            spans: [[2003, 2009]]
-            credits: 9.0
-          - id: ampl-termo
-            name: {en: "Advanced Thermodynamics", es: "Ampliación de Termodinámica", eu: "Termodinamikaren Zabalkuntza"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: eu
-            kind: theory
-            spans: [[2003, 2009]]
-            credits: {2003: 6.02, 2004: 6.0, 2005: 6.0, 2006: 6.0, 2007: 6.0, 2008: 6.0, 2009: 8.0}
-            note: {en: "Spanish group in 2006/07; in 2009/10 a 2-credit Spanish group alongside the 6-credit Basque one.", es: "Grupo en castellano en 2006/07; en 2009/10, un grupo de 2 créditos en castellano junto al de 6 en euskera.", eu: "Gaztelaniazko taldea 2006/07an; 2009/10ean 2 kredituko gaztelaniazko taldea euskarazko 6 kreditukoarekin batera."}
-          - id: termo-quim
-            name: {en: "Chemical Thermodynamics", es: "Termodinámica química", eu: "Termodinamika kimikoa"}
-            degree: {en: "Licentiate in Sciences, Chemistry section", es: "Licenciatura en Ciencias, sección Química", eu: "Zientzietako lizentziatura, Kimika atala"}
-            lang: es
-            kind: theory
-            spans: [[2003, 2003]]
-            credits: 3.0
-          - id: fis-est
-            name: {en: "Statistical Physics", es: "Física Estadística", eu: "Fisika Estatistikoa"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: eu
-            kind: theory
-            spans: [[2009, 2009]]
-            credits: 7.5
-          - id: fis1-quim
-            name: {en: "Physics I", es: "Física I", eu: "Fisika I"}
-            degree: {en: "Licentiate in Chemistry", es: "Licenciatura en Química", eu: "Kimikako lizentziatura"}
-            lang: eu
-            kind: theory
-            spans: [[2009, 2009]]
-            credits: 0.9
-          - id: master
-            name: {en: "Statistical Physics, Phase Transitions and Critical Phenomena", es: "Física estadística, transiciones de fase y fenómenos críticos", eu: "Fisika estatistikoa, fase-trantsizioak eta fenomeno kritikoak"}
-            degree: {en: "Master's in Physics · Doctorate in Materials Science and Technology", es: "Máster Universitario en Física · Doctorado en Ciencia y Tecnología de Materiales", eu: "Fisikako Unibertsitate Masterra · Materialen Zientzia eta Teknologiako Doktoregoa"}
-            lang: es
-            kind: master
-            spans: [[2009, 2012]]
-            credits: 2.05
-          - id: tfe
-            name: {en: "Termodinamika eta Fisika Estatistikoa (Thermodynamics and Statistical Physics)", es: "Termodinamika eta Fisika Estatistikoa (Termodinámica y Física Estadística)", eu: "Termodinamika eta Fisika Estatistikoa"}
-            degree: {en: "Degree in Physics · Double Degree in Physics and Electronic Engineering, third year", es: "Grado en Física · Doble Grado en Física e Ingeniería Electrónica, tercer curso", eu: "Fisikako Gradua · Fisikako eta Ingeniaritza Elektronikoko Gradu Bikoitza, hirugarren maila"}
-            lang: eu
-            kind: theory
-            spans: [[2010, 2025]]
-            credits: 12.0
-            note: {en: "Coordinator of the subject since 2010/11. The subject named in the chair.", es: "Coordinador de la asignatura desde 2010/11. La asignatura que da nombre a la cátedra.", eu: "Irakasgaiaren koordinatzailea 2010/11tik. Katedrari izena ematen dion irakasgaia."}
-          - id: tfg
-            name: {en: "Bachelor's thesis supervision (Trabajo Fin de Grado)", es: "Trabajo Fin de Grado, dirección", eu: "Gradu Amaierako Lana, zuzendaritza"}
-            degree: {en: "Degree in Physics", es: "Grado en Física", eu: "Fisikako Gradua"}
-            lang: mixed
-            kind: tfg
-            spans: [[2012, 2025]]
-            credits: {2012: 0.5, 2013: 1.5, 2014: 1.5, 2015: 0.0, 2016: 0.5, 2017: 1.5, 2018: 2.0, 2019: 1.0, 2020: 1.0, 2021: 1.0, 2022: 1.0, 2023: 1.0, 2024: 1.0, 2025: 1.0}
-            note: {en: "Forty-six theses since 2011 in Basque, Spanish and English; credits certified per year to 2018/19, one credit a year assumed after. The archive is on igartua / gral-tfg.", es: "Cuarenta y seis trabajos desde 2011 en euskera, castellano e inglés; créditos certificados por curso hasta 2018/19, un crédito al año supuesto después. El archivo está en igartua / gral-tfg.", eu: "Berrogeita sei lan 2011tik euskaraz, gaztelaniaz eta ingelesez; kredituak ikasturteka ziurtatuta 2018/19ra arte, gero urteko kreditu bat suposatuta. Artxiboa igartua / gral-tfg webgunean dago."}
-
-  - id: uned
-    short: UNED
-    name: {en: "UNED, Associated Centre of Bizkaia (tutor-professor)", es: "UNED, Centro Asociado de Bizkaia (profesor tutor)", eu: "UNED, Bizkaiko Zentro Elkartua (irakasle tutorea)"}
-    centres:
-      - id: uned-fis
-        name: {en: "Faculty of Sciences · Physics", es: "Facultad de Ciencias · Física", eu: "Zientzien Fakultatea · Fisika"}
-        subjects:
-          - id: mq-adapt
-            name: {en: "Quantum Mechanics (adaptation)", es: "Mecánica Cuántica (adaptación)", eu: "Mekanika Kuantikoa (egokitzapena)"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: es
-            kind: theory
-            spans: [[1997, 2004]]
-            credits: 1.5
-          - id: mq
-            name: {en: "Quantum Mechanics (Quantum Physics)", es: "Mecánica Cuántica (Física Cuántica)", eu: "Mekanika Kuantikoa (Fisika Kuantikoa)"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: es
-            kind: theory
-            spans: [[1997, 2004]]
-            credits: 1.5
-          - id: termolog-adapt
-            name: {en: "Thermology and Statistical Mechanics (adaptation)", es: "Termología y Mecánica Estadística (adaptación)", eu: "Termologia eta Mekanika Estatistikoa (egokitzapena)"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: es
-            kind: theory
-            spans: [[1997, 2004]]
-            credits: 1.5
-          - id: termolog
-            name: {en: "Thermology and Statistical Mechanics", es: "Termología y Mecánica Estadística", eu: "Termologia eta Mekanika Estatistikoa"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: es
-            kind: theory
-            spans: [[1997, 2004]]
-            credits: 1.5
-          - id: mec-est
-            name: {en: "Statistical Mechanics", es: "Mecánica Estadística", eu: "Mekanika Estatistikoa"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: es
-            kind: theory
-            spans: [[1997, 2004]]
-            credits: 1.5
-          - id: mec-ondas-lab
-            name: {en: "Mechanics and Waves, laboratory", es: "Mecánica y Ondas, prácticas de laboratorio", eu: "Mekanika eta Uhinak, laborategiko praktikak"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: es
-            kind: lab
-            spans: [[2006, 2009]]
-            credits: 1.0
-          - id: fg-uned-lab
-            name: {en: "General Physics, laboratory", es: "Física General, prácticas de laboratorio", eu: "Fisika Orokorra, laborategiko praktikak"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: es
-            kind: lab
-            spans: [[2010, 2010]]
-            credits: 1.0
-          - id: elec-mag-lab
-            name: {en: "Electricity and Magnetism, laboratory", es: "Electricidad y Magnetismo, prácticas de laboratorio", eu: "Elektrizitatea eta Magnetismoa, laborategiko praktikak"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: es
-            kind: lab
-            spans: [[2011, 2011]]
-            credits: 1.0
-          - id: te1-lab
-            name: {en: "Experimental Techniques I, laboratory", es: "Técnicas Experimentales I, prácticas de laboratorio", eu: "Teknika Esperimentalak I, laborategiko praktikak"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: es
-            kind: lab
-            spans: [[2010, 2012], [2014, 2019]]
-            credits: {2010: 2.0, 2011: 2.0, 2012: 2.0, 2014: 2.0, 2015: 3.0, 2016: 3.0, 2017: 3.0, 2018: 3.0, 2019: 3.0}
-            extend: 2021
-          - id: te1
-            name: {en: "Experimental Techniques I", es: "Técnicas Experimentales I", eu: "Teknika Esperimentalak I"}
-            degree: {en: "Licentiate in Physics", es: "Licenciatura en Física", eu: "Fisikako lizentziatura"}
-            lang: es
-            kind: theory
-            spans: [[2015, 2019]]
-            credits: 1.0
-            extend: 2021
-      - id: uned-quim
-        name: {en: "Faculty of Sciences · Chemistry", es: "Facultad de Ciencias · Química", eu: "Zientzien Fakultatea · Kimika"}
-        subjects:
-          - id: mec-quim-lab
-            name: {en: "Mechanics, laboratory", es: "Mecánica, prácticas de laboratorio", eu: "Mekanika, laborategiko praktikak"}
-            degree: {en: "Licentiate in Chemistry", es: "Licenciatura en Química", eu: "Kimikako lizentziatura"}
-            lang: es
-            kind: lab
-            spans: [[2006, 2009]]
-            credits: 1.0
-      - id: uned-amb
-        name: {en: "Faculty of Sciences · Environmental Sciences", es: "Facultad de Ciencias · Ciencias Ambientales", eu: "Zientzien Fakultatea · Ingurumen Zientziak"}
-        subjects:
-          - id: bfma
-            name: {en: "Physical Bases of the Environment", es: "Bases Físicas del Medio Ambiente", eu: "Ingurumenaren Oinarri Fisikoak"}
-            degree: {en: "Licentiate in Environmental Sciences", es: "Licenciatura en Ciencias Ambientales", eu: "Ingurumen Zientzietako lizentziatura"}
-            lang: es
-            kind: theory
-            spans: [[2016, 2019]]
-            credits: 1.0
-            extend: 2021
-          - id: bfma-lab
-            name: {en: "Physical Bases of the Environment, laboratory", es: "Bases Físicas del Medio Ambiente, prácticas de laboratorio", eu: "Ingurumenaren Oinarri Fisikoak, laborategiko praktikak"}
-            degree: {en: "Licentiate in Environmental Sciences", es: "Licenciatura en Ciencias Ambientales", eu: "Ingurumen Zientzietako lizentziatura"}
-            lang: es
-            kind: lab
-            spans: [[2010, 2010], [2015, 2019]]
-            credits: 1.0
-            extend: 2021
-          - id: ampl-fis-lab
-            name: {en: "Advanced Physics, laboratory", es: "Ampliación de Física, prácticas de laboratorio", eu: "Fisikaren Zabalkuntza, laborategiko praktikak"}
-            degree: {en: "Licentiate in Environmental Sciences", es: "Licenciatura en Ciencias Ambientales", eu: "Ingurumen Zientzietako lizentziatura"}
-            lang: es
-            kind: lab
-            spans: [[2010, 2010]]
-            credits: 1.0
-      - id: uned-ing
-        name: {en: "School of Industrial Engineering", es: "ETS de Ingenieros Industriales", eu: "Industria Ingeniarien Goi Eskola Teknikoa"}
-        subjects:
-          - id: mec1
-            name: {en: "Mechanics I", es: "Mecánica I", eu: "Mekanika I"}
-            degree: {en: "Engineering", es: "Ingeniería", eu: "Ingeniaritza"}
-            lang: es
-            kind: theory
-            spans: [[2015, 2015]]
-            credits: 2.0
-          - id: mec
-            name: {en: "Mechanics", es: "Mecánica", eu: "Mekanika"}
-            degree: {en: "Electrical, electronic and industrial technical engineering", es: "I. Eléctrica, I. Electrónica, I. Técnica Industrial", eu: "Ingeniaritza elektrikoa, elektronikoa eta industria-ingeniaritza teknikoa"}
-            lang: es
-            kind: theory
-            spans: [[2015, 2019]]
-            credits: {2015: 2.0, 2016: 1.0, 2017: 1.0, 2018: 1.0, 2019: 1.0}
-            extend: 2021
-          - id: mec-ing-lab
-            name: {en: "Mechanics, laboratory", es: "Mecánica, prácticas de laboratorio", eu: "Mekanika, laborategiko praktikak"}
-            degree: {en: "Industrial technical engineering (mechanical), later electrical, electronic and industrial technical engineering", es: "Ingeniería Técnica Industrial Mecánica; después I. Eléctrica, I. Electrónica, I. Técnica Industrial", eu: "Industria-ingeniaritza teknikoa (mekanikoa); gero elektrikoa, elektronikoa eta industria-ingeniaritza teknikoa"}
-            lang: es
-            kind: lab
-            spans: [[2006, 2009], [2011, 2019]]
-            credits: 1.0
-            extend: 2021
-          - id: fis1-ing
-            name: {en: "Physics I", es: "Física I", eu: "Fisika I"}
-            degree: {en: "Electrical, electronic and industrial technical engineering", es: "I. Eléctrica, I. Electrónica, I. Técnica Industrial", eu: "Ingeniaritza elektrikoa, elektronikoa eta industria-ingeniaritza teknikoa"}
-            lang: es
-            kind: theory
-            spans: [[2016, 2019]]
-            credits: 1.0
-            extend: 2021
-          - id: fis2-ing
-            name: {en: "Physics II", es: "Física II", eu: "Fisika II"}
-            degree: {en: "Electrical, electronic and industrial technical engineering", es: "I. Eléctrica, I. Electrónica, I. Técnica Industrial", eu: "Ingeniaritza elektrikoa, elektronikoa eta industria-ingeniaritza teknikoa"}
-            lang: es
-            kind: theory
-            spans: [[2016, 2019]]
-            credits: 1.0
-            extend: 2021
-          - id: fis12-ing-lab
-            name: {en: "Physics I and II, laboratory", es: "Física I y Física II, prácticas de laboratorio", eu: "Fisika I eta II, laborategiko praktikak"}
-            degree: {en: "Electrical, electronic and industrial technical engineering", es: "I. Eléctrica, I. Electrónica, I. Técnica Industrial", eu: "Ingeniaritza elektrikoa, elektronikoa eta industria-ingeniaritza teknikoa"}
-            lang: es
-            kind: lab
-            spans: [[2010, 2010], [2015, 2019]]
-            credits: 2.0
-            extend: 2021
-
-  - id: ueu
-    short: UEU
-    name: {en: "Basque Summer University (UEU), Iruñea summer courses", es: "Universidad Vasca de Verano (UEU), cursos de verano de Iruñea", eu: "Udako Euskal Unibertsitatea (UEU), Iruñeko udako ikastaroak"}
-    centres:
-      - id: ueu-fis
-        name: {en: "Physics Department", es: "Departamento de Física", eu: "Fisika Saila"}
-        subjects:
-          - id: ueu-head
-            name: {en: "Head of the Physics Department", es: "Director del Departamento de Física", eu: "Fisika Saileko zuzendaria"}
-            degree: {en: "Calendar years 1995 to 1998", es: "Años naturales 1995 a 1998", eu: "1995etik 1998ra arteko urte naturalak"}
-            lang: eu
-            kind: post
-            spans: [[1994, 1997]]
-            credits: 0
-          - id: ueu-org
-            name: {en: "Summer courses organised (5, 27 to 60 hours each)", es: "Cursos de verano organizados (5, de 27 a 60 horas)", eu: "Antolatutako udako ikastaroak (5, 27tik 60 ordura)"}
-            degree: {en: "Fluid mechanics 1995 · Physics 1996 · Theoretical, practical and fiction physics 1997 · Astronomy and astrophysics 1998 · The second law, optics, electricity, auroras, astronomy 2002", es: "Mecánica de fluidos 1995 · Física 1996 · Física teórica, práctica y de ficción 1997 · Astronomía y astrofísica 1998 · La segunda ley, óptica, electricidad, auroras, astronomía 2002", eu: "Fluidoen mekanika 1995 · Fisika 1996 · Fisika teorikoa, praktikoa eta fikzio-fisika 1997 · Astronomia eta astrofisika 1998 · 2. legea, optika, elektrizitatea, aurorak, astronomia 2002"}
-            lang: eu
-            kind: organised
-            spans: [[1994, 1997], [2001, 2001]]
-            credits: 0
-          - id: ueu-taught
-            name: {en: "Summer courses taught (7 lectures)", es: "Cursos de verano impartidos (7 lecciones)", eu: "Emandako udako ikastaroak (7 eskola)"}
-            degree: {en: "The physics of the bicycle 1997 · Astronomy and astrophysics 1998 · Meteorology, fluids and lasers 1998 · Physics of bioclimatic design 2000 · Bathroom physics 2001 · Chimney and refrigerator 2001 · The second law, optics, electricity, auroras, astronomy 2002", es: "La física de la bicicleta 1997 · Astronomía y astrofísica 1998 · Meteorología, fluidos y láseres 1998 · Física de la bioclimática 2000 · Física del cuarto de baño 2001 · Chimenea y frigorífico 2001 · La segunda ley, óptica, electricidad, auroras, astronomía 2002", eu: "Bizikletaren fisika 1997 · Astronomia eta astrofisika 1998 · Meteorologia, fluidoak eta laserrak 1998 · Bioklimatikako kontzeptu fisikoak 2000 · Komuneko fisika 2001 · Tximinia/hozkailua 2001 · 2. legea, optika, elektrizitatea, aurorak, astronomia 2002"}
-            lang: eu
-            kind: course
-            spans: [[1996, 1997], [1999, 2001]]
-            credits: 0
-
-  - id: umi
-    short: Moulay Ismaïl
-    name: {en: "Université Moulay Ismaïl, Errachidia, Morocco", es: "Université Moulay Ismaïl, Errachidia, Marruecos", eu: "Université Moulay Ismaïl, Errachidia, Maroko"}
-    centres:
-      - id: umi-fac
-        name: {en: "Invited courses, April 2010", es: "Cursos invitados, abril de 2010", eu: "Gonbidatutako ikastaroak, 2010eko apirila"}
-        subjects:
-          - id: umi-courses
-            name: {en: "Powder Diffraction · Structure Determination from Powder Diffraction · Double Perovskites", es: "Powder Diffraction · Structure Determination from Powder Diffraction · Double Perovskites", eu: "Powder Diffraction · Structure Determination from Powder Diffraction · Double Perovskites"}
-            degree: {en: "Three invited courses of three days each", es: "Tres cursos invitados de tres días cada uno", eu: "Gonbidatutako hiru ikastaro, hiru egunekoak"}
-            lang: en
-            kind: course
-            spans: [[2009, 2009]]
-            credits: 0
-
-# Other teaching facts used for the headline numbers.
+- id: ehu
+  short: EHU
+  name:
+    en: University of the Basque Country (EHU)
+    es: Universidad del País Vasco (EHU)
+    eu: Euskal Herriko Unibertsitatea (EHU)
+  centres:
+  - id: minera
+    name:
+      en: School of Mining Engineering, Bilbao · Applied Physics I
+      es: Escuela de Ingeniería Técnica Minera, Bilbao · Física Aplicada I
+      eu: Meatze Ingeniaritza Teknikoko Eskola, Bilbo · Fisika Aplikatua I
+    subjects:
+    - id: fg-minera
+      name:
+        en: General Physics
+        es: Física General
+        eu: Fisika Orokorra
+      degree:
+        en: Technical mining engineering
+        es: Ingeniería técnica minera
+        eu: Meatze ingeniaritza teknikoa
+      lang: es
+      kind: theory
+      spans:
+      - - 1991
+        - 1992
+      credits: 2.0
+    - id: fg-minera-lab
+      name:
+        en: General Physics, laboratory
+        es: Física General, prácticas de laboratorio
+        eu: Fisika Orokorra, laborategiko praktikak
+      degree:
+        en: Technical mining engineering
+        es: Ingeniería técnica minera
+        eu: Meatze ingeniaritza teknikoa
+      lang: es
+      kind: lab
+      spans:
+      - - 1991
+        - 1992
+      credits: 6.0
+  - id: fct
+    name:
+      en: Faculty of Science and Technology, Leioa · Applied Physics II
+      es: Facultad de Ciencia y Tecnología, Leioa · Física Aplicada II
+      eu: Zientzia eta Teknologia Fakultatea, Leioa · Fisika Aplikatua II
+    subjects:
+    - id: tme
+      name:
+        en: Thermodynamics and Statistical Mechanics
+        es: Termodinámica y Mecánica Estadística
+        eu: Termodinamika eta Mekanika Estatistikoa
+      degree:
+        en: Licentiate in Sciences, Physics section
+        es: Licenciatura en Ciencias, sección Física
+        eu: Zientzietako lizentziatura, Fisika atala
+      lang: es
+      kind: theory
+      spans:
+      - - 1992
+        - 1992
+      credits: 7.5
+      note:
+        en: The itemised record of the dossier resumes in 2003; between 1993 and 2003 I taught thermodynamics in Basque in the licentiate as associate professor (1992) and senior lecturer (1997), but those
+          years are not itemised in the certificate.
+        es: El registro itemizado del dosier se reanuda en 2003; entre 1993 y 2003 impartí termodinámica en euskera en la licenciatura como profesor asociado (1992) y titular (1997), pero esos cursos no
+          están itemizados en el certificado.
+        eu: Dosierraren erregistro xehatua 2003an berrabiatzen da; 1993 eta 2003 artean termodinamika euskaraz eman nuen lizentziaturan irakasle elkartu (1992) eta titular (1997) gisa, baina ikasturte horiek
+          ez daude ziurtagirian xehatuta.
+    - id: tec-exp
+      name:
+        en: Experimental Techniques in Physics I
+        es: Técnicas Experimentales en Física I
+        eu: Fisikako Teknika Esperimentalak I
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: eu
+      kind: lab
+      spans:
+      - - 2003
+        - 2008
+      credits:
+        2003: 4.2
+        2004: 4.5
+        2005: 4.5
+        2006: 4.5
+        2007: 4.5
+        2008: 4.55
+    - id: termo
+      name:
+        en: Thermodynamics
+        es: Termodinámica
+        eu: Termodinamika
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: eu
+      kind: theory
+      spans:
+      - - 2003
+        - 2009
+      credits: 9.0
+    - id: ampl-termo
+      name:
+        en: Advanced Thermodynamics
+        es: Ampliación de Termodinámica
+        eu: Termodinamikaren Zabalkuntza
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: eu
+      kind: theory
+      spans:
+      - - 2003
+        - 2009
+      credits:
+        2003: 6.02
+        2004: 6.0
+        2005: 6.0
+        2006: 6.0
+        2007: 6.0
+        2008: 6.0
+        2009: 8.0
+      note:
+        en: Spanish group in 2006/07; in 2009/10 a 2-credit Spanish group alongside the 6-credit Basque one.
+        es: Grupo en castellano en 2006/07; en 2009/10, un grupo de 2 créditos en castellano junto al de 6 en euskera.
+        eu: Gaztelaniazko taldea 2006/07an; 2009/10ean 2 kredituko gaztelaniazko taldea euskarazko 6 kreditukoarekin batera.
+    - id: termo-quim
+      name:
+        en: Chemical Thermodynamics
+        es: Termodinámica química
+        eu: Termodinamika kimikoa
+      degree:
+        en: Licentiate in Sciences, Chemistry section
+        es: Licenciatura en Ciencias, sección Química
+        eu: Zientzietako lizentziatura, Kimika atala
+      lang: es
+      kind: theory
+      spans:
+      - - 2003
+        - 2003
+      credits: 3.0
+    - id: fis-est
+      name:
+        en: Statistical Physics
+        es: Física Estadística
+        eu: Fisika Estatistikoa
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: eu
+      kind: theory
+      spans:
+      - - 2009
+        - 2009
+      credits: 7.5
+    - id: fis1-quim
+      name:
+        en: Physics I
+        es: Física I
+        eu: Fisika I
+      degree:
+        en: Licentiate in Chemistry
+        es: Licenciatura en Química
+        eu: Kimikako lizentziatura
+      lang: eu
+      kind: theory
+      spans:
+      - - 2009
+        - 2009
+      credits: 0.9
+    - id: master
+      name:
+        en: Statistical Physics, Phase Transitions and Critical Phenomena
+        es: Física estadística, transiciones de fase y fenómenos críticos
+        eu: Fisika estatistikoa, fase-trantsizioak eta fenomeno kritikoak
+      degree:
+        en: Master's in Physics · Doctorate in Materials Science and Technology
+        es: Máster Universitario en Física · Doctorado en Ciencia y Tecnología de Materiales
+        eu: Fisikako Unibertsitate Masterra · Materialen Zientzia eta Teknologiako Doktoregoa
+      lang: es
+      kind: master
+      spans:
+      - - 2009
+        - 2012
+      credits: 2.05
+    - id: tfe
+      name:
+        en: Termodinamika eta Fisika Estatistikoa (Thermodynamics and Statistical Physics)
+        es: Termodinamika eta Fisika Estatistikoa (Termodinámica y Física Estadística)
+        eu: Termodinamika eta Fisika Estatistikoa
+      degree:
+        en: Degree in Physics · Double Degree in Physics and Electronic Engineering, third year
+        es: Grado en Física · Doble Grado en Física e Ingeniería Electrónica, tercer curso
+        eu: Fisikako Gradua · Fisikako eta Ingeniaritza Elektronikoko Gradu Bikoitza, hirugarren maila
+      lang: eu
+      kind: theory
+      spans:
+      - - 2010
+        - 2025
+      credits: 12.0
+      note:
+        en: Coordinator of the subject since 2010/11. The subject named in the chair.
+        es: Coordinador de la asignatura desde 2010/11. La asignatura que da nombre a la cátedra.
+        eu: Irakasgaiaren koordinatzailea 2010/11tik. Katedrari izena ematen dion irakasgaia.
+    - id: tfg
+      name:
+        en: Bachelor's thesis supervision (Trabajo Fin de Grado)
+        es: Trabajo Fin de Grado, dirección
+        eu: Gradu Amaierako Lana, zuzendaritza
+      degree:
+        en: Degree in Physics
+        es: Grado en Física
+        eu: Fisikako Gradua
+      lang: mixed
+      kind: tfg
+      spans:
+      - - 2012
+        - 2025
+      credits:
+        2012: 0.5
+        2013: 1.5
+        2014: 1.5
+        2015: 0.0
+        2016: 0.5
+        2017: 1.5
+        2018: 2.0
+        2019: 1.0
+        2020: 1.0
+        2021: 1.0
+        2022: 1.0
+        2023: 1.0
+        2024: 1.0
+        2025: 1.0
+      note:
+        en: Forty-six theses since 2011 in Basque, Spanish and English; credits certified per year to 2018/19, one credit a year assumed after. The archive is on igartua / gral-tfg.
+        es: Cuarenta y seis trabajos desde 2011 en euskera, castellano e inglés; créditos certificados por curso hasta 2018/19, un crédito al año supuesto después. El archivo está en igartua / gral-tfg.
+        eu: Berrogeita sei lan 2011tik euskaraz, gaztelaniaz eta ingelesez; kredituak ikasturteka ziurtatuta 2018/19ra arte, gero urteko kreditu bat suposatuta. Artxiboa igartua / gral-tfg webgunean dago.
+- id: uned
+  short: UNED
+  name:
+    en: UNED, Associated Centre of Bizkaia (tutor-professor)
+    es: UNED, Centro Asociado de Bizkaia (profesor tutor)
+    eu: UNED, Bizkaiko Zentro Elkartua (irakasle tutorea)
+  centres:
+  - id: uned-fis
+    name:
+      en: Faculty of Sciences · Physics
+      es: Facultad de Ciencias · Física
+      eu: Zientzien Fakultatea · Fisika
+    subjects:
+    - id: mq-adapt
+      name:
+        en: Quantum Mechanics (adaptation)
+        es: Mecánica Cuántica (adaptación)
+        eu: Mekanika Kuantikoa (egokitzapena)
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: es
+      kind: theory
+      spans:
+      - - 1997
+        - 2004
+      credits: 1.5
+    - id: mq
+      name:
+        en: Quantum Mechanics (Quantum Physics)
+        es: Mecánica Cuántica (Física Cuántica)
+        eu: Mekanika Kuantikoa (Fisika Kuantikoa)
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: es
+      kind: theory
+      spans:
+      - - 1997
+        - 2004
+      credits: 1.5
+    - id: termolog-adapt
+      name:
+        en: Thermology and Statistical Mechanics (adaptation)
+        es: Termología y Mecánica Estadística (adaptación)
+        eu: Termologia eta Mekanika Estatistikoa (egokitzapena)
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: es
+      kind: theory
+      spans:
+      - - 1997
+        - 2004
+      credits: 1.5
+    - id: termolog
+      name:
+        en: Thermology and Statistical Mechanics
+        es: Termología y Mecánica Estadística
+        eu: Termologia eta Mekanika Estatistikoa
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: es
+      kind: theory
+      spans:
+      - - 1997
+        - 2004
+      credits: 1.5
+    - id: mec-est
+      name:
+        en: Statistical Mechanics
+        es: Mecánica Estadística
+        eu: Mekanika Estatistikoa
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: es
+      kind: theory
+      spans:
+      - - 1997
+        - 2004
+      credits: 1.5
+    - id: mec-ondas-lab
+      name:
+        en: Mechanics and Waves, laboratory
+        es: Mecánica y Ondas, prácticas de laboratorio
+        eu: Mekanika eta Uhinak, laborategiko praktikak
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: es
+      kind: lab
+      spans:
+      - - 2006
+        - 2009
+      credits: 1.0
+    - id: fg-uned-lab
+      name:
+        en: General Physics, laboratory
+        es: Física General, prácticas de laboratorio
+        eu: Fisika Orokorra, laborategiko praktikak
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: es
+      kind: lab
+      spans:
+      - - 2010
+        - 2010
+      credits: 1.0
+    - id: elec-mag-lab
+      name:
+        en: Electricity and Magnetism, laboratory
+        es: Electricidad y Magnetismo, prácticas de laboratorio
+        eu: Elektrizitatea eta Magnetismoa, laborategiko praktikak
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: es
+      kind: lab
+      spans:
+      - - 2011
+        - 2011
+      credits: 1.0
+    - id: te1-lab
+      name:
+        en: Experimental Techniques I, laboratory
+        es: Técnicas Experimentales I, prácticas de laboratorio
+        eu: Teknika Esperimentalak I, laborategiko praktikak
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: es
+      kind: lab
+      spans:
+      - - 2010
+        - 2012
+      - - 2014
+        - 2019
+      credits:
+        2010: 2.0
+        2011: 2.0
+        2012: 2.0
+        2014: 2.0
+        2015: 3.0
+        2016: 3.0
+        2017: 3.0
+        2018: 3.0
+        2019: 3.0
+      extend: 2021
+    - id: te1
+      name:
+        en: Experimental Techniques I
+        es: Técnicas Experimentales I
+        eu: Teknika Esperimentalak I
+      degree:
+        en: Licentiate in Physics
+        es: Licenciatura en Física
+        eu: Fisikako lizentziatura
+      lang: es
+      kind: theory
+      spans:
+      - - 2015
+        - 2019
+      credits: 1.0
+      extend: 2021
+  - id: uned-quim
+    name:
+      en: Faculty of Sciences · Chemistry
+      es: Facultad de Ciencias · Química
+      eu: Zientzien Fakultatea · Kimika
+    subjects:
+    - id: mec-quim-lab
+      name:
+        en: Mechanics, laboratory
+        es: Mecánica, prácticas de laboratorio
+        eu: Mekanika, laborategiko praktikak
+      degree:
+        en: Licentiate in Chemistry
+        es: Licenciatura en Química
+        eu: Kimikako lizentziatura
+      lang: es
+      kind: lab
+      spans:
+      - - 2006
+        - 2009
+      credits: 1.0
+  - id: uned-amb
+    name:
+      en: Faculty of Sciences · Environmental Sciences
+      es: Facultad de Ciencias · Ciencias Ambientales
+      eu: Zientzien Fakultatea · Ingurumen Zientziak
+    subjects:
+    - id: bfma
+      name:
+        en: Physical Bases of the Environment
+        es: Bases Físicas del Medio Ambiente
+        eu: Ingurumenaren Oinarri Fisikoak
+      degree:
+        en: Licentiate in Environmental Sciences
+        es: Licenciatura en Ciencias Ambientales
+        eu: Ingurumen Zientzietako lizentziatura
+      lang: es
+      kind: theory
+      spans:
+      - - 2016
+        - 2019
+      credits: 1.0
+      extend: 2021
+    - id: bfma-lab
+      name:
+        en: Physical Bases of the Environment, laboratory
+        es: Bases Físicas del Medio Ambiente, prácticas de laboratorio
+        eu: Ingurumenaren Oinarri Fisikoak, laborategiko praktikak
+      degree:
+        en: Licentiate in Environmental Sciences
+        es: Licenciatura en Ciencias Ambientales
+        eu: Ingurumen Zientzietako lizentziatura
+      lang: es
+      kind: lab
+      spans:
+      - - 2010
+        - 2010
+      - - 2015
+        - 2019
+      credits: 1.0
+      extend: 2021
+    - id: ampl-fis-lab
+      name:
+        en: Advanced Physics, laboratory
+        es: Ampliación de Física, prácticas de laboratorio
+        eu: Fisikaren Zabalkuntza, laborategiko praktikak
+      degree:
+        en: Licentiate in Environmental Sciences
+        es: Licenciatura en Ciencias Ambientales
+        eu: Ingurumen Zientzietako lizentziatura
+      lang: es
+      kind: lab
+      spans:
+      - - 2010
+        - 2010
+      credits: 1.0
+  - id: uned-ing
+    name:
+      en: School of Industrial Engineering
+      es: ETS de Ingenieros Industriales
+      eu: Industria Ingeniarien Goi Eskola Teknikoa
+    subjects:
+    - id: mec1
+      name:
+        en: Mechanics I
+        es: Mecánica I
+        eu: Mekanika I
+      degree:
+        en: Engineering
+        es: Ingeniería
+        eu: Ingeniaritza
+      lang: es
+      kind: theory
+      spans:
+      - - 2015
+        - 2015
+      credits: 2.0
+    - id: mec
+      name:
+        en: Mechanics
+        es: Mecánica
+        eu: Mekanika
+      degree:
+        en: Electrical, electronic and industrial technical engineering
+        es: I. Eléctrica, I. Electrónica, I. Técnica Industrial
+        eu: Ingeniaritza elektrikoa, elektronikoa eta industria-ingeniaritza teknikoa
+      lang: es
+      kind: theory
+      spans:
+      - - 2015
+        - 2019
+      credits:
+        2015: 2.0
+        2016: 1.0
+        2017: 1.0
+        2018: 1.0
+        2019: 1.0
+      extend: 2021
+    - id: mec-ing-lab
+      name:
+        en: Mechanics, laboratory
+        es: Mecánica, prácticas de laboratorio
+        eu: Mekanika, laborategiko praktikak
+      degree:
+        en: Industrial technical engineering (mechanical), later electrical, electronic and industrial technical engineering
+        es: Ingeniería Técnica Industrial Mecánica; después I. Eléctrica, I. Electrónica, I. Técnica Industrial
+        eu: Industria-ingeniaritza teknikoa (mekanikoa); gero elektrikoa, elektronikoa eta industria-ingeniaritza teknikoa
+      lang: es
+      kind: lab
+      spans:
+      - - 2006
+        - 2009
+      - - 2011
+        - 2019
+      credits: 1.0
+      extend: 2021
+    - id: fis1-ing
+      name:
+        en: Physics I
+        es: Física I
+        eu: Fisika I
+      degree:
+        en: Electrical, electronic and industrial technical engineering
+        es: I. Eléctrica, I. Electrónica, I. Técnica Industrial
+        eu: Ingeniaritza elektrikoa, elektronikoa eta industria-ingeniaritza teknikoa
+      lang: es
+      kind: theory
+      spans:
+      - - 2016
+        - 2019
+      credits: 1.0
+      extend: 2021
+    - id: fis2-ing
+      name:
+        en: Physics II
+        es: Física II
+        eu: Fisika II
+      degree:
+        en: Electrical, electronic and industrial technical engineering
+        es: I. Eléctrica, I. Electrónica, I. Técnica Industrial
+        eu: Ingeniaritza elektrikoa, elektronikoa eta industria-ingeniaritza teknikoa
+      lang: es
+      kind: theory
+      spans:
+      - - 2016
+        - 2019
+      credits: 1.0
+      extend: 2021
+    - id: fis12-ing-lab
+      name:
+        en: Physics I and II, laboratory
+        es: Física I y Física II, prácticas de laboratorio
+        eu: Fisika I eta II, laborategiko praktikak
+      degree:
+        en: Electrical, electronic and industrial technical engineering
+        es: I. Eléctrica, I. Electrónica, I. Técnica Industrial
+        eu: Ingeniaritza elektrikoa, elektronikoa eta industria-ingeniaritza teknikoa
+      lang: es
+      kind: lab
+      spans:
+      - - 2010
+        - 2010
+      - - 2015
+        - 2019
+      credits: 2.0
+      extend: 2021
+- id: ueu
+  short: UEU
+  name:
+    en: Basque Summer University (UEU), Iruñea summer courses
+    es: Universidad Vasca de Verano (UEU), cursos de verano de Iruñea
+    eu: Udako Euskal Unibertsitatea (UEU), Iruñeko udako ikastaroak
+  centres:
+  - id: ueu-fis
+    name:
+      en: Physics Department
+      es: Departamento de Física
+      eu: Fisika Saila
+    subjects:
+    - id: ueu-head
+      name:
+        en: Head of the Physics Department
+        es: Director del Departamento de Física
+        eu: Fisika Saileko zuzendaria
+      degree:
+        en: Calendar years 1995 to 1998
+        es: Años naturales 1995 a 1998
+        eu: 1995etik 1998ra arteko urte naturalak
+      lang: eu
+      kind: post
+      spans:
+      - - 1994
+        - 1997
+      credits: 0
+    - id: ueu-org
+      name:
+        en: Summer courses organised (5, 27 to 60 hours each)
+        es: Cursos de verano organizados (5, de 27 a 60 horas)
+        eu: Antolatutako udako ikastaroak (5, 27tik 60 ordura)
+      degree:
+        en: Fluid mechanics 1995 · Physics 1996 · Theoretical, practical and fiction physics 1997 · Astronomy and astrophysics 1998 · The second law, optics, electricity, auroras, astronomy 2002
+        es: Mecánica de fluidos 1995 · Física 1996 · Física teórica, práctica y de ficción 1997 · Astronomía y astrofísica 1998 · La segunda ley, óptica, electricidad, auroras, astronomía 2002
+        eu: Fluidoen mekanika 1995 · Fisika 1996 · Fisika teorikoa, praktikoa eta fikzio-fisika 1997 · Astronomia eta astrofisika 1998 · 2. legea, optika, elektrizitatea, aurorak, astronomia 2002
+      lang: eu
+      kind: organised
+      spans:
+      - - 1994
+        - 1997
+      - - 2001
+        - 2001
+      credits: 0
+    - id: ueu-taught
+      name:
+        en: Summer courses taught (7 lectures)
+        es: Cursos de verano impartidos (7 lecciones)
+        eu: Emandako udako ikastaroak (7 eskola)
+      degree:
+        en: The physics of the bicycle 1997 · Astronomy and astrophysics 1998 · Meteorology, fluids and lasers 1998 · Physics of bioclimatic design 2000 · Bathroom physics 2001 · Chimney and refrigerator
+          2001 · The second law, optics, electricity, auroras, astronomy 2002
+        es: La física de la bicicleta 1997 · Astronomía y astrofísica 1998 · Meteorología, fluidos y láseres 1998 · Física de la bioclimática 2000 · Física del cuarto de baño 2001 · Chimenea y frigorífico
+          2001 · La segunda ley, óptica, electricidad, auroras, astronomía 2002
+        eu: Bizikletaren fisika 1997 · Astronomia eta astrofisika 1998 · Meteorologia, fluidoak eta laserrak 1998 · Bioklimatikako kontzeptu fisikoak 2000 · Komuneko fisika 2001 · Tximinia/hozkailua 2001
+          · 2. legea, optika, elektrizitatea, aurorak, astronomia 2002
+      lang: eu
+      kind: course
+      spans:
+      - - 1996
+        - 1997
+      - - 1999
+        - 2001
+      credits: 0
+- id: umi
+  short: Moulay Ismaïl
+  name:
+    en: Université Moulay Ismaïl, Errachidia, Morocco
+    es: Université Moulay Ismaïl, Errachidia, Marruecos
+    eu: Université Moulay Ismaïl, Errachidia, Maroko
+  centres:
+  - id: umi-fac
+    name:
+      en: Invited courses, April 2010
+      es: Cursos invitados, abril de 2010
+      eu: Gonbidatutako ikastaroak, 2010eko apirila
+    subjects:
+    - id: umi-courses
+      name:
+        en: Powder Diffraction · Structure Determination from Powder Diffraction · Double Perovskites
+        es: Powder Diffraction · Structure Determination from Powder Diffraction · Double Perovskites
+        eu: Powder Diffraction · Structure Determination from Powder Diffraction · Double Perovskites
+      degree:
+        en: Three invited courses of three days each
+        es: Tres cursos invitados de tres días cada uno
+        eu: Gonbidatutako hiru ikastaro, hiru egunekoak
+      lang: en
+      kind: course
+      spans:
+      - - 2009
+        - 2009
+      credits: 0
 facts:
-  textbooks_entries: 20        # dossier §5: 20 ISBN entries (7 books as author/translator, 13 materials)
-  innovation_projects: 18      # dossier §6
-  training_hours: 820          # about page, 2026 CV
-  training_courses: 38         # dossier §9.1
-  docentiaz: [82.37, 95.74]    # dossier §7
+  textbooks_entries: 20
+  innovation_projects: 18
+  training_hours: 820
+  training_courses: 38
+  docentiaz:
+  - 82.37
+  - 95.74
   tfg: 46
   phd: 5
   placements: 25
+textbooks:
+- year: 1995
+  title: 'Fisika Praktikak (I): Mekanika eta Elektrika'
+  publisher: Udako Euskal Unibertsitatea (UEU)
+  isbn: 84-86967-68-6
+  role: author
+  detail: Jose Ramon Etxebarria, Txema Ezpeleta, Josu Mirena Igartua, Fernando Plazaola
+  lang: Euskera
+  quality: 300 ejemplares impresos
+- year: 1996
+  title: Mekanika Estatistikoa. Sarrera.
+  publisher: Udako Euskal Unibertsitatea (UEU)
+  isbn: 84-86967-78-3
+  role: translator
+  detail: Josu Mirena Igartua, Txema Ezpeleta
+  lang: Euskera
+  quality: 300 ejemplares impresos
+- year: 1999
+  title: 'Lur Hiztegi Entziklopekikoa: Fisika eta Kimika'
+  publisher: Editorial Lur
+  isbn: 84-7099-413-1
+  role: author
+  detail: Josu Mirena Igartua, Txema Ezpeleta, Iñigo Etxebarria, Jose Miguel Campillo
+  lang: Euskera
+  quality: 500 ejemplares impresos
+- year: 2000
+  title: 'Forma eta Fluxua: Fluido dinamika'
+  publisher: Udako Euskal Unibertsitatea (UEU)
+  isbn: 84-8438-012-2
+  role: translator
+  detail: Josu Mirena Igartua, Jose Ramon Etxebarria, Igor Urresti
+  lang: Euskera
+  quality: 200 ejemplares impresos
+- year: 2002
+  title: 'Euskal Unibertitatea: Egiten ari garen euskarazko unibertsitatea'
+  publisher: Udako Euskal Unibertsitatea (UEU)
+  isbn: 84-8438-028-9
+  role: editor
+  detail: collective work, editorial board
+  lang: Euskera
+  quality: Procceedings del Congreso
+- year: 2008
+  title: Fisika eta Kimika ESO 3, Libro del Profesor
+  publisher: Giltza, Edebé
+  isbn: '9788481189681'
+  role: contributor
+  detail: traducción y/o corrección lingüística
+  lang: Euskera
+  quality: 300 ejemplares, programa EIMA (GV)
+- year: 2008
+  title: FISIKA. Zientzilari eta Ingeniarientzat
+  publisher: Servicio Editorial de la EHU, Vicerrectorado de Euskara
+  isbn: 978-84-9860-120-6
+  role: translator
+  detail: P. M. Fishbane, S. Gasiorowicz, S. T. Thornton; translation and scientific revision
+  lang: Euskera
+  quality: Libro de Texto Recomendado Básico para la Física General de 1er curso en las Licenciaturas y Grados de la EHU, Auspiciado por el Vicerrectorado de Euskara d
+- year: 2009
+  title: Elhuyar Zientzia eta Teknologiaren Hiztegi Entziklopedikoa (Diccionario enciclopédico Elhu- yar de la ciencia y la tecnología)
+  publisher: Elhuyar Edizioak
+  isbn: 978-84-92457-007
+  role: contributor
+  detail: Elaboración de dos artículos, traducción y/o corrección lingüística y científica
+  lang: Euskera
+  quality: https://www.elhuyar.eus/es/shop/288. 23.000 conceptos y definiciones y los términos en in- glés, castellano y francés; relación de términos inglés, euskera, cas
+- year: 2009
+  title: Física en Acción/Fisikaz Blai (Versión bilingüe, euskara y castellano)
+  publisher: Gomylex, CuatroAs (Bilbao), Facultad de Ciencia y tecnología EHU
+  isbn: 978-84-9369-762-7
+  role: contributor
+  detail: diseño portada y logo, preparación y traducción de una práctica, de 5 en total
+  lang: Euskera y Castellano (Libro completo en ambos idiomas)
+  quality: Editado en colaboración con el Ministerio de Ciencia e Innovación, Fundación Española para la Ciencia y la Tecnología, Eusko Jaurlaritza/Gobierno Vasco
+- year: 2010
+  title: Fisika eta Kimika Batxillergoa 1, Libro del Alumno
+  publisher: Giltza, Edebé
+  isbn: 978-84-8118-937-7
+  role: contributor
+  detail: traducción y/o corrección lingüística
+  lang: Euskera
+  quality: 3130 ejemplares, , programa EIMA (GV)
+- year: 2010
+  title: Física + Ingeniería Electrónica en Acción/Fisikaz + Ingeniaritza Elektronikoaz Blai (Versión bilingüe, euskara y castellano), nueva versión, incluyendo prácticas para ingeniería electró- nica,
+    se edita también en 2012,
+  publisher: Gomylex, CuatroAs, Facultad de Ciencia y Tecnología
+  isbn: 978-84-9369-767-9
+  role: contributor
+  detail: diseño portada y logo, preparación y traducción de una práctica, de 5 en total
+  lang: Euskera y Castellano (Libro completo en ambos idiomas)
+  quality: Editado en colaboración con el Ministerio de Ciencia e Innovación, Fundación Española para la Ciencia y la Tecnología, Eusko Jaurlaritza/Gobierno Vasco
+- year: 2011
+  title: Física + Ingeniería Electrónica en Acción/Fisikaz + Ingeniaritza Elektronikoaz Blai (Versión bilingüe, euskara y castellano), nueva versión, incluyendo prácticas para ingeniería electró- nica,
+    se edita también en 2012,
+  publisher: Gomylex, CuatroAs, Facultad de Ciencia y Tecnología
+  isbn: 978-84-1517-702-2
+  role: contributor
+  detail: diseño portada y logo, preparación y traducción de una práctica, de 5 en total
+  lang: Euskera y Castellano (Libro completo en ambos idiomas)
+  quality: Editado en colaboración con el Ministerio de Ciencia e Innovación, Fundación Española para la Ciencia y la Tecnología, Eusko Jaurlaritza/Gobierno Vasco
+- year: 2013
+  title: 'Iraunkortasuna Unibertsitatetik abiatuta: disziplina arteko hausnarketa/La sostenibilidad desde la Universidad: una reflexión interdisciplinar'
+  publisher: Servicio Editorial de la EHU
+  isbn: 978-84-9860-766-6
+  role: contributor
+  detail: Varios, Contribución como co-autor de un capítulo
+  lang: Euskera y Castellano (Libro completo en ambos idiomas)
+  quality: Promovido/Auspiciado por Gizarte Erantzukizun eta Unibertsitate Hedakuntzako Errektoreor- detza/ Vicerrectorado de Responsabilidad Social y Proyección Universit
+- year: 2013
+  title: 'La sostenibilidad desde la Universidad: una reflexión iterdisciplinar. Capítulo de Libro'
+  publisher: Servicio Editorial de la Universidad del País Vasco (EHU)
+  isbn: 978-84-9860-766-6
+  role: author
+  detail: Jon Saénz, Josu Mirena Igartua, Gabriel Ibarra-Berastegi, Agustín Ezcurra
+  lang: Castellano y Euskera 65 66
+  quality: 'Idioma: Castellano y Euskera 65'
+- year: 2014
+  title: FISIKA. Zientzilari eta Ingeniarientzat 1. Bolumena (1.etik-21.era Gaiak) Nueva Edición, re- visada
+  publisher: Servicio Editorial de la EHU, Vicerrectorado de Euskara
+  isbn: 978-84-9082-030-8
+  role: translator
+  detail: P. M. Fishbane, S. Gasiorowicz, S. T. Thornton; translation and scientific revision
+  lang: Euskera 63
+  quality: Libro de Texto Recomendado Básico para la Física General de 1er curso en las Licenciaturas y Grados de la EHU, Auspiciado por el Vicerrectorado de Euskara d
+- year: 2014
+  title: FISIKA. Zientzilari eta Ingeniarientzat 2. Bolumena (22.etik-46.era Gaiak) Nueva Edición, revisada
+  publisher: Servicio Editorial de la EHU, Vicerrectorado de Euskara
+  isbn: 978-84-9082-031-5
+  role: translator
+  detail: P. M. Fishbane, S. Gasiorowicz, S. T. Thornton; translation and scientific revision
+  lang: Euskera
+  quality: Libro de Texto Recomendado Básico para la Física General de 1er curso en las Licenciaturas y Grados de la EHU, Auspiciado por el Vicerrectorado de Euskara d
+- year: 2015
+  title: Fisika eta Kimika Batxillergoa 1, Libro del Alumno
+  publisher: Giltza, Edebé
+  isbn: 978-84-8378-325-2
+  role: contributor
+  detail: traducción y/o corrección lingüística
+  lang: Euskera
+  quality: 155 ejemplares, programa EIMA (GV)
+- year: 2015
+  title: Fisika eta Kimika Batxillergoa 1, Libro del Profesor
+  publisher: Giltza, Edebé
+  isbn: 978-84-8378-392-4
+  role: contributor
+  detail: traducción y/o corrección lingüística
+  lang: Euskera
+  quality: 100 ejemplares, programa EIMA (GV)
+- year: 2015
+  title: Fisika eta Kimika ESO 3, Libro del Profesor
+  publisher: Giltza, Edebé
+  isbn: 978-84-8378-328-3
+  role: contributor
+  detail: traducción y/o corrección lingüística
+  lang: Euskera
+  quality: 250 ejemplares, programa EIMA (GV)
+- year: 2015
+  title: Fisika eta Kimika Batxillergoa 1, Libro del Alumno
+  publisher: Giltza, Edebé
+  isbn: 978-84-8378-205-9
+  role: contributor
+  detail: redacción
+  lang: Euskera
+  quality: 3149 ejemplares, programa EIMA (GV)
+innovation:
+- years: 2006–2007
+  action: 'Plan de Implementación y Seguimiento de Acciones de Mejora (PISAM, convocatoria 2006/07): Diseño y puesta en marcha de una página web'
+  role: Responsable de la Acción de Mejora
+  entity: Servicio de Evaluación Institucional (SEI/EIZ)
+  pi: Gotzon Madariaga
+  funding: '2811'
+- years: 2009–2010
+  action: Plan de Implementación y Seguimiento de Acciones de Mejora (PISAM, convocatoria 2009/10)
+  role: 'Responsable, organizador de las charlas previas a la visita y organizador de la visita. Visita a: Institute Laue-Langevin (ILL, Grenoble, Francia), European Synchrotron Radiation Facility (ESRF,
+    Grenoble, Francia), The European Organization for Nuclear Research (CERN, Ginebra, Suiza)'
+  entity: Servicio de Evaluación Institucional (SEI/EIZ), Facultad de Ciencia y Tecnología, ILL (sufragó las comidas)
+  pi: Josu Mirena Igartua
+  funding: '4100'
+- years: 2011–2012
+  action: Plan de Implementación y Seguimiento de Acciones de Mejora (PISAM, convocatoria 2009/10)
+  role: 'Responsable, organizador de las charlas previas a la visita y organizador de la visita. Visita a: Institute Laue-Langevin (ILL, Grenoble, Francia), European Synchrotron Radiation Facility (ESRF,
+    Grenoble, Francia)'
+  entity: Servicio de Evaluación Institucional (SEI/EIZ), Facultad de Ciencia y Tecnología, ILL (sufragó las comidas)
+  pi: Josu Mirena Igartua
+  funding: '4100'
+- years: '2009'
+  action: IX Semana de la Ciencia, la Tecnología y la Innovación
+  role: Profesor Colaborador
+  entity: Universidad del País Vasco/Euskal Herriko Unibertsitatea EHU - Innobasque
+  pi: Raúl Pérez Sáez, para el EEstad de Física
+  funding: ''
+- years: '2010'
+  action: X Semana de la Ciencia, la Tecnología y la Innovación
+  role: Profesor Colaborador
+  entity: Universidad del País Vasco/Euskal Herriko Unibertsitatea EHU - Innobasque
+  pi: Raúl Pérez Sáez, para el Estad de Física
+  funding: ''
+- years: '2011'
+  action: XISemana de la Ciencia, la Tecnología y la Innovación
+  role: Profesor Colaborador
+  entity: Universidad del País Vasco/Euskal Herriko Unibertsitatea EHU - Innobasque
+  pi: Raúl Pérez Sáez, para el Estad de Física
+  funding: ''
+- years: '2012'
+  action: XII Semana de la Ciencia, la Tecnología y la Innovación
+  role: Profesor Colaborador
+  entity: Universidad del País Vasco/Euskal Herriko Unibertsitatea EHU - Innobasque
+  pi: Raúl Pérez Sáez, para el Estad de Física
+  funding: ''
+- years: '2013'
+  action: XIII Semana de la Ciencia, la Tecnología y la Innovación
+  role: Profesor Colaborador
+  entity: Universidad del País Vasco/Euskal Herriko Unibertsitatea EHU - Innobasque
+  pi: Raúl Pérez Sáez, para el Estad de Física
+  funding: ''
+- years: '2011'
+  action: 'Campus Científicos de Verano, Campus de Física: Física de alto voltaje. Chispas, rayos y pelos de punta'
+  role: Profesor Colaborador, diseño de la práctica y participación durante una semana, en el laboratorio dirigiendo al grupo de alumnos
+  entity: FECYT. Fundación Española para la Ciencia y la Tecnología. Ministerio de Economía y Competitivi- dad, Universidad del Pa
+  pi: Raúl Pérez Sáez (Para el Campus de Física)
+  funding: '16.120'
+- years: '2012'
+  action: 'Campus Científicos de Verano, Campus de Física: Física de alto voltaje. Chispas, rayos y pelos de punta'
+  role: Profesor Colaborador, diseño de la práctica y participación durante una semana, en el laboratorio dirigiendo al grupo de alumnos
+  entity: FECYT. Fundación Española para la Ciencia y la Tecnología. Ministerio de Economía y Competitivi- dad, Universidad del Pa
+  pi: Raúl Pérez Sáez (Para el Campus de Física)
+  funding: '22.000'
+- years: '2013'
+  action: 'Campus Científicos de Verano, Campus de Física: Física de alto voltaje. Chispas, rayos y pelos de punta'
+  role: Profesor Colaborador, diseño de la práctica y participación durante una semana, en el laboratorio dirigiendo al grupo de alumnos
+  entity: FECYT. Fundación Española para la Ciencia y la Tecnología. Ministerio de Economía y Competitivi- dad, Universidad del Pa
+  pi: Raúl Pérez Sáez (Para el Campus de Física)
+  funding: '42.284'
+- years: '2007'
+  action: Ekin Fisikari/Física en Acción
+  role: Profesor Colaborador, diseño y preparación de las prácticas, preparación y traducción de los guiones y participación en el laboratorio dirigiendo al grupo de alumnos
+  entity: Facultad de Ciencia y Tecnología (EHU)
+  pi: Gotzon Madariaga, Aitor Bergara
+  funding: '6.000'
+- years: '2008'
+  action: Ekin Fisikari/Física en Acción
+  role: Profesor Colaborador, diseño y preparación de las prácticas, preparación y traducción de los guiones y participación en el laboratorio dirigiendo al grupo de alumnos
+  entity: Facultad de Ciencia y Tecnología (EHU)
+  pi: Gotzon Madariaga, Aitor Bergara
+  funding: ''
+- years: '2009'
+  action: 'Actividades Prácticas dirigidas al Alumnado de Bachillerato: Ekin Fisikari/Física en Acción'
+  role: Profesor Colaborador, diseño y preparación de las prácticas, preparación y traducción de los guiones y participación en el laboratorio dirigiendo al grupo de alumnos
+  entity: Vicerrectorado de Alumnado, Universidad del País Vasco/Euskal Herriko Unibertsitatea (EHU)
+  pi: Gotzon Madariaga, Aitor Bergara
+  funding: ''
+- years: 2009–2010
+  action: 'Actividades Prácticas dirigidas al Alumnado de Bachillerato y Ciclos Formativos de Grado Superior y de Enseñanzas Artísiticas y Deportivas: Física en Acción/Fisikaz Blai'
+  role: Profesor Colaborador, diseño y preparación de las prácticas, preparación y traducción de los guiones y participación en el laboratorio dirigiendo al grupo de alumnos
+  entity: Vicerrectorado de Estudiantes, Empleo y Responsabilidad Civil; Departamento de Educación, Política Ling¸ística y Cultura
+  pi: Gotzon Madariaga, Idoia García de Gurtubay
+  funding: '1985.20'
+- years: 2010–2011
+  action: 'Actividades Prácticas dirigidas al Alumnado de Bachillerato y Ciclos Formativos de Grado Superior y de Enseñanzas Artísiticas y Deportivas: Física en Acción/Fisikaz Blai'
+  role: Profesor Colaborador, diseño y preparación de las prácticas, preparación y traducción de los guiones y participación en el laboratorio dirigiendo al grupo de alumnos
+  entity: Vicerrectorado de Estudiantes, Empleo y Responsabilidad Civil; Departamento de Educación, Política Ling¸ística y Cultura
+  pi: Gotzon Madariaga, Idoia García de Gurtubay
+  funding: '3994.81'
+- years: 2011–2012
+  action: 'Actividades Prácticas dirigidas al Alumnado de Bachillerato y Ciclos Formativos de Grado Superior y de Enseñanzas Artísiticas y Deportivas: Física en Acción/Fisikaz Blai'
+  role: Profesor Colaborador, diseño y preparación de las prácticas, preparación y traducción de los guiones y participación en el laboratorio dirigiendo al grupo de alumnos
+  entity: Vicerrectorado de Estudiantes, Empleo y Responsabilidad Civil; Departamento de Educación, Política Ling¸ística y Cultura
+  pi: Gotzon Madariaga, Idoia García de Gurtubay
+  funding: '1968.74'
+- years: 2012–2013
+  action: 'Actividades Prácticas dirigidas al Alumnado de Bachillerato y Ciclos Formativos de Grado Superior y de Enseñanzas Artísiticas y Deportivas: Física en Acción/Fisikaz Blai'
+  role: Profesor Colaborador, diseño y preparación de las prácticas, preparación y traducción de los guiones y participación en el laboratorio dirigiendo al grupo de alumnos
+  entity: Vicerrectorado de Estudiantes, Empleo y Responsabilidad Civil; Departamento de Educación, Política Ling¸ística y Cultura
+  pi: Gotzon Madariaga, Idoia García de Gurtubay
+  funding: '2541.23'

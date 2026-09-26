@@ -29,7 +29,8 @@ S = {
   langs=dict(eu="Basque", es="Spanish", en="English", mixed="Basque, Spanish, English"),
   tip=dict(years="Years", credits="Credits per year", lang="Language", kind="Type", cont="continuing to"),
   years_word="academic years", cap="Figure: subjects taught by academic year, grouped by institution and centre. The data are in the tables below.",
-  toc="On this page"),
+  toc="On this page", h_booklist="The twenty entries", th_books=("Year", "Title", "Publisher", "Role", "ISBN"), roles=dict(author="author", translator="translator", editor="editor", contributor="contributor"),
+  h_innovlist="The eighteen projects", th_innov=("Years", "Action", "Role", "Entity", "Funding")),
 "es": dict(title="Docencia", crumb="docencia",
   desc="Treinta y cinco cursos de docencia en cuatro instituciones: las asignaturas, la cronología, la asignatura que da nombre a la cátedra, libros de texto e innovación docente.",
   sub="Treinta y cinco cursos académicos en cuatro instituciones, una cuarentena de asignaturas y cursos en tres lenguas y, desde 2010, una asignatura impartida como me habría gustado que me la impartieran.",
@@ -43,7 +44,8 @@ S = {
   langs=dict(eu="euskera", es="castellano", en="inglés", mixed="euskera, castellano, inglés"),
   tip=dict(years="Cursos", credits="Créditos por curso", lang="Lengua", kind="Tipo", cont="continúa hasta"),
   years_word="cursos", cap="Figura: asignaturas impartidas por curso académico, agrupadas por institución y centro. Los datos están en las tablas siguientes.",
-  toc="En esta página"),
+  toc="En esta página", h_booklist="Las veinte entradas", th_books=("Año", "Título", "Editorial", "Papel", "ISBN"), roles=dict(author="autor", translator="traductor", editor="editor", contributor="colaborador"),
+  h_innovlist="Los dieciocho proyectos", th_innov=("Años", "Acción", "Papel", "Entidad", "Financiación")),
 "eu": dict(title="Irakaskuntza", crumb="irakaskuntza",
   desc="Hogeita hamabost ikasturte irakasten lau erakundetan: irakasgaiak, kronologia, katedrari izena ematen dion irakasgaia, testuliburuak eta irakaskuntza-berrikuntza.",
   sub="Hogeita hamabost ikasturte lau erakundetan, berrogei bat irakasgai eta ikastaro hiru hizkuntzatan, eta 2010etik irakasgai bakarra, niri irakatsi izana gustatuko litzaidakeen moduan emana.",
@@ -57,7 +59,8 @@ S = {
   langs=dict(eu="euskara", es="gaztelania", en="ingelesa", mixed="euskara, gaztelania, ingelesa"),
   tip=dict(years="Ikasturteak", credits="Kredituak ikasturteko", lang="Hizkuntza", kind="Mota", cont="jarraitzen du honaino"),
   years_word="ikasturte", cap="Irudia: emandako irakasgaiak ikasturteka, erakundeka eta zentroka taldekatuta. Datuak beheko tauletan daude.",
-  toc="Orri honetan"),
+  toc="Orri honetan", h_booklist="Hogei sarrerak", th_books=("Urtea", "Izenburua", "Argitaletxea", "Eginkizuna", "ISBN"), roles=dict(author="egilea", translator="itzultzailea", editor="editorea", contributor="laguntzailea"),
+  h_innovlist="Hemezortzi proiektuak", th_innov=("Urteak", "Ekintza", "Eginkizuna", "Erakundea", "Finantzaketa")),
 }
 
 # Prose carried over from the previous version of the pages (unchanged).
@@ -73,7 +76,7 @@ PROSE = {
 
 The course material lives in yearly GitHub repositories. The bachelor's theses that come out of it, the ones in progress and the proposals for the coming year are on [igartua / gral-tfg](https://jmigartua.github.io/tfgs-website/), together with the [preparation manual](https://jmigartua.github.io/tfgs-website/preparing/) I wrote for students starting a thesis.""",
  books="""Twenty entries with ISBN in the dossier: three university-level textbooks and seven books or extended teaching materials for undergraduates as author or translator, and thirteen more as translator, reviser or contributor, mostly in Basque, which made it possible to teach the physics curriculum entirely in that language. Among them the translation and scientific revision of Fishbane, Gasiorowicz and Thornton's *Physics for Scientists and Engineers* (2008; two volumes, 2014), the Elhuyar encyclopaedic dictionary of science and technology (2009), *Mekanika Estatistikoa* and *Forma eta Fluxua* for the Basque Summer University, the *Fisika Praktikak* laboratory manual, the *Fisikaz Blai* booklets, *Iraunkortasuna*, the Lur physics and chemistry dictionary, and the physics and chemistry textbooks for Edebé (2008–2015).""",
- innov="""Eighteen teaching-innovation projects at UPV/EHU, including the one I led on the electronic laboratory notebook with Jupyter (PIE 2018–2019), and physics-education papers at CINTE 2016, CSEDU 2017, GIREP 2018 and the RSEF biennial meeting of 2019. Thirty-eight training courses, eight hundred and twenty hours in all, and the three Terminologia Sareak Ehunduz terminology programmes. Teaching evaluated in the top band of DOCENTIAZ, 82.4 and 95.7 points in 2008–2013 and 2013–2018. Coordinator of the Physics Olympiad, tutor in the tutorial action programme, and a regular at open days, the science week and the summer science campus. Since 2017, coordinator of the design and preparation of the physics examination for university entrance in the Basque Country, which has turned into a data project of its own on how the examination behaves across Spain."""),
+ innov="""Eighteen teaching-innovation projects at EHU, including the one I led on the electronic laboratory notebook with Jupyter (PIE 2018–2019), and physics-education papers at CINTE 2016, CSEDU 2017, GIREP 2018 and the RSEF biennial meeting of 2019. Thirty-eight training courses, eight hundred and twenty hours in all, and the three Terminologia Sareak Ehunduz terminology programmes. Teaching evaluated in the top band of DOCENTIAZ, 82.4 and 95.7 points in 2008–2013 and 2013–2018. Coordinator of the Physics Olympiad, tutor in the tutorial action programme, and a regular at open days, the science week and the summer science campus. Since 2017, coordinator of the design and preparation of the physics examination for university entrance in the Basque Country, which has turned into a data project of its own on how the examination behaves across Spain."""),
 "es": dict(
  tfe="""Una asignatura anual de doce créditos en tercer curso del Grado en Física y del Doble Grado en Física e Ingeniería Electrónica, impartida en euskera a sesenta o setenta estudiantes al año. Es la asignatura que da nombre a mi cátedra y la que coordino desde 2010. Introduje la termodinámica y las materias afines en euskera en esta universidad y preparé el primer conjunto completo de materiales para ellas, de modo que la asignatura arrastra también esa historia. Su funcionamiento lleva una década estable y está documentado en público:
 
@@ -85,7 +88,7 @@ The course material lives in yearly GitHub repositories. The bachelor's theses t
 
 El material de la asignatura vive en repositorios anuales de GitHub. Los trabajos de fin de grado que salen de ella, los que están en curso y las propuestas para el próximo año están en [igartua / gral-tfg](https://jmigartua.github.io/tfgs-website/es/), junto con el [manual de preparación](https://jmigartua.github.io/tfgs-website/preparing/) que escribí para quien empieza un trabajo.""",
  books="""Veinte entradas con ISBN en el dosier: tres libros de texto universitarios y siete libros o materiales docentes extensos para estudiantes de grado como autor o traductor, y trece más como traductor, revisor o colaborador, en su mayoría en euskera, que hicieron posible impartir el plan de estudios de física íntegramente en esa lengua. Entre ellos, la traducción y revisión científica del *Física para ciencias e ingeniería* de Fishbane, Gasiorowicz y Thornton (2008; dos volúmenes, 2014), el diccionario enciclopédico de ciencia y tecnología de Elhuyar (2009), *Mekanika Estatistikoa* y *Forma eta Fluxua* para la Universidad Vasca de Verano, el manual de laboratorio *Fisika Praktikak*, los cuadernos *Fisikaz Blai*, *Iraunkortasuna*, el diccionario de física y química de Lur y los libros de texto de física y química para Edebé (2008–2015).""",
- innov="""Dieciocho proyectos de innovación docente en la UPV/EHU, incluido el que dirigí sobre el cuaderno de laboratorio electrónico con Jupyter (PIE 2018–2019), y artículos de didáctica de la física en CINTE 2016, CSEDU 2017, GIREP 2018 y la reunión bienal de la RSEF de 2019. Treinta y ocho cursos de formación, ochocientas veinte horas en total, y los tres programas de terminología Terminologia Sareak Ehunduz. Docencia evaluada en la banda superior de DOCENTIAZ, 82,4 y 95,7 puntos en 2008–2013 y 2013–2018. Coordinador de la Olimpiada de Física, tutor del programa de acción tutorial y presencia habitual en jornadas de puertas abiertas, la semana de la ciencia y el campus científico de verano. Desde 2017, coordinador del diseño y preparación del examen de física de acceso a la universidad en el País Vasco, que se ha convertido en un proyecto de datos propio sobre cómo se comporta el examen en toda España."""),
+ innov="""Dieciocho proyectos de innovación docente en la EHU, incluido el que dirigí sobre el cuaderno de laboratorio electrónico con Jupyter (PIE 2018–2019), y artículos de didáctica de la física en CINTE 2016, CSEDU 2017, GIREP 2018 y la reunión bienal de la RSEF de 2019. Treinta y ocho cursos de formación, ochocientas veinte horas en total, y los tres programas de terminología Terminologia Sareak Ehunduz. Docencia evaluada en la banda superior de DOCENTIAZ, 82,4 y 95,7 puntos en 2008–2013 y 2013–2018. Coordinador de la Olimpiada de Física, tutor del programa de acción tutorial y presencia habitual en jornadas de puertas abiertas, la semana de la ciencia y el campus científico de verano. Desde 2017, coordinador del diseño y preparación del examen de física de acceso a la universidad en el País Vasco, que se ha convertido en un proyecto de datos propio sobre cómo se comporta el examen en toda España."""),
 "eu": dict(
  tfe="""Hamabi kredituko urteko irakasgaia Fisikako Graduko eta Fisikako eta Ingeniaritza Elektronikoko Gradu Bikoitzeko hirugarren mailan, euskaraz emana urtean hirurogei edo hirurogeita hamar ikasleri. Nire katedrari izena ematen dion irakasgaia da eta 2010etik koordinatzen dudana. Termodinamika eta inguruko gaiak euskaraz sartu nituen unibertsitate honetan eta horietarako lehen material-multzo osoa prestatu nuen, beraz irakasgaiak historia hori ere badakar. Bere funtzionamendua hamarkada batez egonkorra izan da eta publikoki dokumentatuta dago:
 
@@ -97,7 +100,7 @@ El material de la asignatura vive en repositorios anuales de GitHub. Los trabajo
 
 Irakasgaiaren materiala urteroko GitHub biltegietan bizi da. Hortik ateratzen diren gradu amaierako lanak, martxan daudenak eta datorren urterako proposamenak [igartua / gral-tfg](https://jmigartua.github.io/tfgs-website/eu/) webgunean daude, lan bat hasten duenarentzat idatzi nuen [prestaketa eskuliburuarekin](https://jmigartua.github.io/tfgs-website/eu/preparing/) batera.""",
  books="""Hogei sarrera ISBNarekin dosierrean: hiru unibertsitate-mailako testuliburu eta zazpi liburu edo irakas-material zabal graduko ikasleentzat egile edo itzultzaile gisa, eta beste hamahiru itzultzaile, berrikusle edo laguntzaile gisa, gehienak euskaraz, fisikako ikasketa-plana osorik hizkuntza horretan irakastea ahalbidetu zutenak. Horien artean, Fishbane, Gasiorowicz eta Thorntonen *Fisika zientzialari eta ingeniarientzat* liburuaren itzulpena eta berrikuspen zientifikoa (2008; bi liburuki, 2014), Elhuyarren zientzia eta teknologiaren hiztegi entziklopedikoa (2009), *Mekanika Estatistikoa* eta *Forma eta Fluxua* Udako Euskal Unibertsitaterako, *Fisika Praktikak* laborategi-eskuliburua, *Fisikaz Blai* koadernoak, *Iraunkortasuna*, Lur argitaletxearen fisika eta kimika hiztegia eta Edebérentzako fisika eta kimikako testuliburuak (2008–2015).""",
- innov="""Hemezortzi irakaskuntza-berrikuntzako proiektu UPV/EHUn, Jupyterrekin laborategi-koaderno elektronikoari buruz zuzendu nuena barne (PIE 2018–2019), eta fisikaren didaktikako artikuluak CINTE 2016, CSEDU 2017, GIREP 2018 eta RSEFen 2019ko bilera bienalean. Hogeita hemezortzi prestakuntza-ikastaro, zortziehun eta hogei ordu guztira, eta Terminologia Sareak Ehunduz hiru programak. Irakaskuntza DOCENTIAZen goiko mailan ebaluatua, 82,4 eta 95,7 puntu 2008–2013 eta 2013–2018 aldietan. Fisika Olinpiadaren koordinatzailea, tutoretza-ekintzako programaren tutorea eta ohiko presentzia ate irekien jardunaldietan, zientziaren astean eta udako zientzia-campusean. 2017tik, Euskadiko unibertsitatera sartzeko fisikako azterketaren diseinuaren eta prestaketaren koordinatzailea, eta hori azterketak Espainia osoan nola jokatzen duen aztertzen duen datu-proiektu bihurtu da."""),
+ innov="""Hemezortzi irakaskuntza-berrikuntzako proiektu EHUn, Jupyterrekin laborategi-koaderno elektronikoari buruz zuzendu nuena barne (PIE 2018–2019), eta fisikaren didaktikako artikuluak CINTE 2016, CSEDU 2017, GIREP 2018 eta RSEFen 2019ko bilera bienalean. Hogeita hemezortzi prestakuntza-ikastaro, zortziehun eta hogei ordu guztira, eta Terminologia Sareak Ehunduz hiru programak. Irakaskuntza DOCENTIAZen goiko mailan ebaluatua, 82,4 eta 95,7 puntu 2008–2013 eta 2013–2018 aldietan. Fisika Olinpiadaren koordinatzailea, tutoretza-ekintzako programaren tutorea eta ohiko presentzia ate irekien jardunaldietan, zientziaren astean eta udako zientzia-campusean. 2017tik, Euskadiko unibertsitatera sartzeko fisikako azterketaren diseinuaren eta prestaketaren koordinatzailea, eta hori azterketak Espainia osoan nola jokatzen duen aztertzen duen datu-proiektu bihurtu da."""),
 }
 
 TOC_JS = '''<script>
@@ -281,6 +284,23 @@ def build_tables(lang):
         out.append("</tbody></table></div>")
     return "\n".join(out)
 
+def details_table(summary, headers, rows):
+    out = [f'<details class="list-details"><summary>{summary}</summary><div class="table-wrap"><table><thead><tr>' + "".join(f"<th>{h}</th>" for h in headers) + "</tr></thead><tbody>"]
+    for r in rows:
+        out.append("<tr>" + "".join(f"<td>{c}</td>" for c in r) + "</tr>")
+    out.append("</tbody></table></div></details>")
+    return "".join(out)
+
+def books_details(lang):
+    t = S[lang]
+    rows = [(b["year"], f'{html.escape(b["title"])}<br><span class="m">{html.escape(b["detail"])}</span>', html.escape(b["publisher"]), t["roles"][b["role"]], b["isbn"]) for b in DATA["textbooks"]]
+    return details_table(t["h_booklist"], t["th_books"], rows)
+
+def innov_details(lang):
+    t = S[lang]
+    rows = [(p["years"], html.escape(p["action"]), html.escape(p["role"]), html.escape(p["entity"]), (p["funding"] + " €") if p["funding"] else "—") for p in DATA["innovation"]]
+    return details_table(t["h_innovlist"], t["th_innov"], rows)
+
 # ---------------------------------------------------------------- page
 def build(lang):
     t, P, n = S[lang], PROSE[lang], numbers()
@@ -328,9 +348,17 @@ toc: false
 
 {P['books']}
 
+```{{=html}}
+{books_details(lang)}
+```
+
 ## {t['h_innov']} {{#innovation}}
 
 {P['innov']}
+
+```{{=html}}
+{innov_details(lang)}
+```
 
 ```{{=html}}
 </article>

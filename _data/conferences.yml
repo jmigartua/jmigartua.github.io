@@ -1,0 +1,456 @@
+items:
+- year: 1990
+  month: 12
+  title: Specific heat of [N(CH₃)₄]₂ZnBr₄ around the ferro-paraelastic phase transition
+  conference: XII Convegno nazionale di calorimetria ed analisi termica
+  place: Bari, Italia
+  kind: oral
+  authors: Josu M. Igartua I Ruiz Larrea A López Echarri M Couzi
+- year: 1991
+  month: 7
+  title: Experimental study of the phase transition in [N(CH₃)₄]₂ZnBr₄
+  conference: 7th European meeting on ferroelectricity
+  place: Dijon, Francia
+  kind: poster
+  authors: Josu M. Igartua T Breckzewski A Gomez Cuevas EH Bocanegra A López Echarri I Ruiz Larrea
+- year: 1991
+  month: 9
+  title: Capacidad calorífica de la thiourea
+  conference: XXIII Reunión bienal de la Real Sociedad Española de Física
+  place: Valladolid, España
+  kind: poster
+  authors: Josu M. Igartua A López Echarri I Ruiz Larrea MJ Tello
+- year: 1992
+  month: 7
+  title: Phase transitions in thiourea
+  conference: order/disorder in solids, a Gordon Conference
+  place: New London, Estados Unidos
+  kind: poster
+  authors: Josu M. Igartua A López Echarri I Ruiz Larrea MJ Tello
+- year: 1993
+  month: 5
+  title: The entropy and the phase transition sequence in BCCD crystals
+  conference: European conference on condensed matter
+  place: Madrid, España
+  kind: poster
+  authors: Josu M. Igartua I Ruiz Larrea T Breczewski A López Echarri MJ Tello
+- year: 1993
+  month: 7
+  title: Phase transitions in [N(CH₃)₄]₂ZnI₄
+  conference: 8th international meeting on ferroelectricity
+  place: Gaithersburg, USA
+  kind: poster
+  authors: Josu M. Igartua I Ruiz Larrea T Breckzewski A López
+- year: 1993
+  month: 7
+  title: Ferroelectric phase transitions in [(CH₃)₄]CdBr₃
+  conference: 8th international meeting on ferroelectricity
+  place: Gaithersburg, USA
+  kind: poster
+  authors: Josu M. Igartua I Ruiz Larrea T Breckzewski A López
+- year: 1993
+  month: 9
+  title: Secuencia de transiciones de fase en el cloruro cálcico de betaína dihidratada
+  conference: XXIV Reunión de la Real Sociedad Española de Física
+  place: Jaca, España
+  kind: poster
+  authors: Josu M. Igartua I Ruiz Larrea T Breckzewski A López Echarri MJ Tello
+- year: 1993
+  month: 9
+  title: The specific heat of the ferroelectric phase transitions in [(CH₃)₄]CdBr₃
+  conference: Journeés Méditerranées de calorimétrie et d’analyse thermique
+  place: Corte, Italia
+  kind: poster
+  authors: Josu M. Igartua G Aguirre Zamalloa I Ruiz Larrea M Couzi A López Echarri MJ Tello
+- year: 1993
+  month: 9
+  title: Analysis of the specific heat of SC(NH₂)₂
+  conference: Calorimetry and experimental thermodynamics
+  place: Praga, Chequia
+  kind: poster
+  authors: Josu M. Igartua A López Echarri I Ruiz LArrea T Breczewski
+- year: 1994
+  month: 8
+  title: Correlation between the entropy and the modulation wave vector in the incommensurate BCCD crystal
+  conference: Order/disorder in solids
+  place: New London, Estados Unidos
+  kind: invited
+  authors: Josu M. Igartua I Ruiz Larrea T Breczewski A López Echarri MJ Tello
+- year: 1996
+  month: 6
+  title: Prediction of phase transitions based on the systematic search of pseudo-symmetry
+  conference: Structural phase transitions in non-metallic solids, a Gordon Conference
+  place: Henniker, USA
+  kind: oral
+  authors: Josu M. Igartua, M. I. Aroyo, J. M. Pérez-Mato
+- year: 1996
+  month: 6
+  title: Supergroups of space groups and their application to prediction of structural phase transitions
+  conference: Workshop on Application of Symmetry Analysis to Diffraction Investigation
+  place: Krakow, Polonia
+  kind: invited
+  authors: Josu M. Igartua, M.I.Aroyo, J.M. Peréz-Mato
+- year: 1997
+  month: 7
+  title: Supergroups of space groups and their application in the prediction of structural phase transitions
+  conference: Symposium on Predictability of Crystal Structures of Inorganic Solids
+  place: Hünfeld, Alemania
+  kind: invited
+  authors: Josu M. Igartua, M.I.Aroyo, S. Ivantchev, J.M. Perez-Mato
+- year: 1997
+  month: 7
+  title: Pnma crystal structures with high temperature structural phase transitions
+  conference: 17th European Crystallographic Meeting
+  place: Lisboa, Portugal
+  kind: poster
+  authors: Josu M. Igartua, M. I. Aroyo, J. M. Pérez-Mato
+- year: 1997
+  month: 7
+  title: Computer determination of supergroups of space groups
+  conference: 17th European Crystallographic Meeting
+  place: Lisboa, Portugal
+  kind: poster
+  authors: M. I. Aroyo, Josu M. Igartua, J. M. Pérez-Mato
+- year: 1999
+  month: 9
+  title: Systematic search of ferroelectric materials
+  conference: 9th European Meeting on Ferroelectricity
+  place: Hünfeld, Alemania
+  kind: poster
+  authors: M. I. Aroyo, Josu M. Igartua, J. M. Pérez-Mato
+- year: 1999
+  month: 9
+  title: Systematic search of ferroelectric materials
+  conference: Ninth European Meeting on Ferroelectricity
+  place: Praga, Chequia
+  kind: poster
+  authors: E. Kroumova, M.I. Aroyo, J.M. Pérez-Mato, Josu M. Igartua and S. Ivantchev
+- year: 2000
+  month: null
+  title: 'PSEUDO: a program for pseudosymmetry search'
+  conference: 19th European Crystallographic Meeting
+  place: Nancy, Francia
+  kind: poster
+  authors: E. Kroumova, M.I. Aroyo, J.M. Pérez-Mato, Josu M. Igartua and S. Ivantchev
+- year: 2001
+  month: 3
+  title: 'PSEUDO: a new program on the Bilbao crystallographic server'
+  conference: 9 Jahrestagung der DGK
+  place: Bayreuth, Alemania
+  kind: poster
+  authors: E Kroumova M Aroyo JM Perez Mato SIvantchev Josu M. Igartua H Wondratschek
+- year: 2001
+  month: 8
+  title: Sr₂CaWO₆double perovskite revisited
+  conference: 20th European Crystallographic Meeting
+  place: Cracovia, Polonia
+  kind: poster
+  authors: M Gateshki E Kroumova Josu M. Igartua
+- year: 2001
+  month: 8
+  title: Room temperature crystal structure and phase transitions in Sr2 ZnWO6
+  conference: 20th European Crystallographic Meeting
+  place: Cracovia, Polonia
+  kind: poster
+  authors: M Gateshki EH Bocanegra Josu M. Igartua
+- year: 2001
+  month: 8
+  title: Pseudosymmetry search results and phase transitions in Sr2 MWO6 (Co,Zn,Ni,Cu)
+  conference: 20th European Crystallographic Meeting
+  place: Cracovia, Polonia
+  kind: poster
+  authors: M Gateshki E Kroumova EH bocanegra T Breczewski Josu M. Igartua
+- year: 2001
+  month: 8
+  title: Tetragonal to tetragonal phase transition in Sr₂CuWO₆
+  conference: 20th European Crystallographic Meeting
+  place: Cracovia, Polonia
+  kind: poster
+  authors: M Gateshki T Breczewski Josu M. Igartua
+- year: 2005
+  month: 8
+  title: High-pressure X-ray and Raman studies of the Sr₂CuWO₆ double perovskite oxide
+  conference: SMEC
+  place: Miami, USA
+  kind: poster
+  authors: Bouchaib Manoun, F.X. Zhang, S. K. Saxena, Josu M. Igartua and Milen V. Gateshki
+- year: 2007
+  month: 6
+  title: Crystal structures and phases transitions of the double perovskites oxides Sr2 Mn2+ W6+ O6 and its transformation to Sr2 Mn3+ W5+ O6
+  conference: 4th European Conference on Neutron Scattering (ECNS 2007)
+  place: Lund, Suecia
+  kind: poster
+  authors: A. Faik, Josu M. Igartua , M. Gateshki and L. Lezama
+- year: 2007
+  month: 8
+  title: 'A2 FeSbO6 (A=Sr,Ca) double perovskites oxides: Crystal structures, phase-transitions and57Fe Mössbauer spectroscopy study'
+  conference: 24th European Crystallographic Meeting (ECM 24)
+  place: Marrakech, Marruecos
+  kind: poster
+  authors: A. Faik, Josu M. Igartua , J. L. Pizarro and J. J. S. Garitaonandia
+- year: 2008
+  month: 3
+  title: Crystal structure and phase transitions of antimony double perovskites
+  conference: HERCULES, 18th session, Higher European Research Course for Users of large Experimental Systems
+  place: Grenoble, Francia
+  kind: poster
+  authors: A. Faik, Josu M. Igartua , J. L. Pizarro and M. Gateshki
+- year: 2008
+  month: 8
+  title: Structures and high-temperature phase transitions of Sr2 MSbO6 (M= Sc, Cr, Fe) double pe- rovskite oxides
+  conference: XXI Congress and General Assembly of the International Union of Crystallography
+  place: Osaka, Japón
+  kind: poster
+  authors: A. Faik, I. Urcelay-Olabarria, E. Iturbe-Zabalo and Josu M. Igartua
+- year: 2008
+  month: 9
+  title: Crystal structures and phases transitions of antimony double perovskite oxides
+  conference: IV Reunión de la Sociedad Española de Técnicas Neutrónicas
+  place: Girona, España
+  kind: poster
+  authors: A. Faik, E. Iturbe-Zabalo, I. Urcelay-Olabarria and Josu M. Igartua
+- year: 2008
+  month: 9
+  title: Crystal structure and phase transitions of new double perovskite oxides Sr2−𝑥 Ca𝑥 LnSbO6 (Ln=La, Sm and 0 ≤ 𝑥 ≤ 2)
+  conference: 11th European Powder Diffraction Conference,
+  place: Varsovia, Polonia
+  kind: poster
+  authors: A. Faik, E. Iturbe-Zabalo, I. Urcelay-Olabarria and Josu M. Igartua
+- year: 2009
+  month: 4
+  title: On the crystal structure of BaSrMWO6 (M = Ni,Mg,Co,Ca) double perovskite oxide
+  conference: XIth Moroccan Meeting on Solid State Chemistry,
+  place: Kenitra, Marruecos
+  kind: poster
+  authors: A. Ezzahi, B. Manoun, A. Ider, A. Faik, Josu M. Igartua , S. Benmokhtar and S.Yousfi
+- year: 2009
+  month: 4
+  title: On the crystal structure and High temperature Raman spectroscopy of BaSrCuWO6 double perovskite oxide
+  conference: XIth Moroccan Meeting on Solid State Chemistry
+  place: Kenitra, Marruecos
+  kind: poster
+  authors: B. Manoun, A. Ezzahi, L. Bih, A. Ider, A. Faik, Josu M. Igartua and P. Lazor
+- year: 2009
+  month: 8
+  title: Solving crystal structures using symmetry-mode collective coordinates
+  conference: 25th European Crystallographic Meeting (ECM 25)
+  place: Estambul, Turquía
+  kind: poster
+  authors: Danel Orobengoa, Juan Rodriguez-Carvajal, Juan Manuel Perez-Mato, Mois I. Aroyo, A. Faik, Josu M. Igartua
+- year: 2009
+  month: 10
+  title: Caracterisations structurale et vibrationnelle de la solution solide Na1−𝑥 K𝑥 Pb4 (PO4 )3 (0 ≤ 𝑥 ≤ 1)
+  conference: Rencontre sur les Matériaux Ferroélectrique et Applications (RMFA2009)
+  place: Settat, Marruecos
+  kind: poster
+  authors: B. Orayech, A. El Bouari, S. Benmokhtar, L. Bih, B. Manoun, A. Faik, Josu M. Igartua
+- year: 2010
+  month: 3
+  title: 'Structures and phase transitions at low- and high-temperature of new possibly functional ma- terials: SrNdMRuO6 (M=Ni,Co,Fe,Mg,Zn) double perovskites.'
+  conference: Hercules XX Symposium – 20th anniversary
+  place: Grenoble, Francia
+  kind: poster
+  authors: E. Iturbe-Zabalo, Josu M. Igartua , G. J. Cuello
+- year: 2010
+  month: 4
+  title: On the composition and high temperature induced phase transition in Ba2−𝑥 Sr𝑥 NiWO6 double perovskite oxides (0 < 𝑥 < 2)
+  conference: IX Symposium international environnement, catalyse et génie des procédés
+  place: Settat, Marruecos
+  kind: poster
+  authors: B. Manoun; A. Ezzahi; A. Ider; Azrour; L. Bih; M. Azdouz; S. Benmokhtar; M. Josu M. Igartua and P. Lazor.
+- year: 2010
+  month: 6
+  title: Synthesis, structure and thermal evolution of new A’A”2 CuTi2 O9 (A’=Ca,Ba) and (A”=Pr,Nd Triple Perovskites).
+  conference: V Reunión de la Sociedad Española de Técnicas Neutrónicas
+  place: Gijón, España
+  kind: poster
+  authors: E. Iturbe-Zabalo, Josu M. Igartua , G. J. Cuello, A. Aatiq
+- year: 2010
+  month: 6
+  title: 'Condensation Of Several Structural Instabilities Via Secondary Distortions: The Case Of Sr2 MWO6 (M=Zn,Mg And Ni) Double Perovskites'
+  conference: Summer School on Computational Materials Sciences
+  place: Donostia, España
+  kind: poster
+  authors: I. Etxebarria, U. Petralanda, Josu M. Igartua
+- year: 2010
+  month: 7
+  title: Ab initio study of structural instabilities in double perovskite compounds Sr2 MWO6 (M=Zn,Mg and Ni)
+  conference: 17th WIEN2K workshop- ICAMM 2010, Nantes (France), July 5-10
+  place: Nantes, Francia
+  kind: poster
+  authors: I. Etxebarria, U. Petralanda, Josu M. Igartua
+- year: 2010
+  month: 7
+  title: Sr2 MWO6 (M= Zn, Mg And Ni) Double Perovskites
+  conference: Summer School on Computational Materials Sciences
+  place: Donostia, España
+  kind: poster
+  authors: I. Etxebarria; U. Petralanda; Josu M. Igartua.
+- year: 2010
+  month: 8
+  title: Synthesis, structure and thermal evolution of new SrNdMRuO6 (M=Ni,Co,Fe,Mg,Zn) double perovskites.
+  conference: 9th Summer School on Condensed Matter Research, Magnetic Phenomena
+  place: Zuoz, Suiza
+  kind: poster
+  authors: E. Iturbe-Zabalo, Josu M. Igartua , G. J. Cuello
+- year: 2010
+  month: 9
+  title: 'Thermal Study of the Structures and Phase Transitions of New Possibly Functional Materials: A’A”2 CuTi2 O9 (A’=Ca,Ba) and (A”=Pr,Nd) Triple Perovskites.'
+  conference: 9th Conference on Solid State Chemistry,
+  place: Praga, Chequia
+  kind: poster
+  authors: E. Iturbe-Zabalo, Josu M. Igartua , G. J. Cuello, A. Aatiq
+- year: 2011
+  month: 8
+  title: Structures and temperature induced phase-transition studies of perovskite type materials. Symmetry-mode analysis
+  conference: III Reunión de Jóvenes Cristalógrafos
+  place: La Laguna, España
+  kind: poster
+  authors: E. Iturbe-Zabalo, Josu M. Igartua
+- year: 2011
+  month: 8
+  title: Structural study of SrPrMRuO6 double perovskites by symmetry-mode analysis
+  conference: XXII Congress and General Assembly of the International Union of Crystallography (IUCr)
+  place: Madrid, España
+  kind: poster
+  authors: E. Iturbe-Zabalo, G. Cuello, Josu M. Igartua
+- year: 2011
+  month: 8
+  title: Crystal structure and structural phase-transitions of double perovskite ruthenates by symmetry mode analysis
+  conference: 5th European Conference on Neutron Scattering (ECNS)
+  place: Praga, Chequia
+  kind: poster
+  authors: E. Iturbe-Zabalo, Josu M. Igartua , A. Faik, G.J. Cuello, M. Hoelzel
+- year: 2012
+  month: 6
+  title: Structural relationship and phase diagram for SrLnMRuO6 perovskites
+  conference: VI Reunión de la Sociedad Española de Técnicas Neutrónicas (SETN)
+  place: Segovia, España
+  kind: poster
+  authors: E. Iturbe-Zabalo, Josu M. Igartua
+- year: 2012
+  month: 8
+  title: Crystallographic studies on SrLnFeRuO6 (Ln=La,Pr,Nd) disordered perovskites
+  conference: 13th European Powder Diffraction Conference (EPDIC)
+  place: Grenoble, Francia
+  kind: poster
+  authors: E. Iturbe-Zabalo, O. Fabelo, M. Gateshki, Josu M. Igartua
+- year: 2013
+  month: null
+  title: Experimental study of the possible multiferroic magnetoelectric NaLaMM’O6
+  conference: International Conference on Neutron Scattering ICNS
+  place: Edimburgo, Reino Unido
+  kind: poster
+  authors: B. Orayech; G.A. López; O. Fabelo; L. Elcoro; A. Faik; Josu M. Igartua
+- year: 2013
+  month: null
+  title: 'Compositional uniformity as driving force of patterned ordering: stripes and nano-chessboards'
+  conference: 14th European Conference on Solid State Chemistry
+  place: Bordeaux, Francia
+  kind: oral
+  authors: M. Pérez-Mato; S. González; L. Elcoro; A. García; Josu M. Igartua
+- year: 2015
+  month: null
+  title: Synthesis and Crystal Structure Analysis Of The Lacunar Apatite NaPb2 Ca2 (PO4 )
+  conference: The International Conference on Applied Mineralogy and Advanced Materials (AMAM 2015)
+  place: Taranto, Italia
+  kind: poster
+  authors: A. Chari; A. Zaraq; A. El Bouari; B. Orayech; A. Faik and Josu M. Igartua
+- year: 2015
+  month: null
+  title: Mode-crystallography and parametrized refinements for a better approach to the crystal struc- ture and its evolution with temperature
+  conference: European Conference on Neutron Scattering (ECNS 2015)
+  place: Zaragoza, España
+  kind: oral
+  authors: Josu M. Igartua, B. Orayech, U. Petralanda; I. Etxebarria
+- year: 2015
+  month: null
+  title: Crystal Structures and high temperature phase transitions of the new ordered double Perovskite SrCaCoTeO6 and SrCaNiTeO6
+  conference: The International Conference on Applied Mineralogy and Advanced Materials (AMAM 2015)
+  place: Taranto, Italia
+  kind: poster
+  authors: 'Título: Crystal Structures and high temperature phase transitions of the new ordered double Perovskite SrCaCoTeO6 and SrCaNiTeO6'
+- year: 2016
+  month: null
+  title: Effect of partial substitution of Ni by Mg on the structural, magnetic and spectroscopic pro- perties of the double perovskite Sr2NiTeO6
+  conference: 15th European Powder Diffraction Conference (EPDIC15)
+  place: Bari, Italia
+  kind: poster
+  authors: B. Orayech; A. El Bouari; A. Faik and Josu M. Igartua
+- year: 2017
+  month: null
+  title: Electronic Notes Via Jupyter Notebooks
+  conference: 9th International Conference on Computer Supported Education (CSEDU)
+  place: Oporto, Portugal
+  kind: oral
+  authors: Urcelay-Olabarria, Irene; Igartua, Josu M. Igartua
+- year: 2017
+  month: null
+  title: Jupyter Notebook as the Physics Experimental Laboratory’s Logbook First Approach
+  conference: 9th International Conference on Computer Supported Education (CSEDU)
+  place: Oporto, Portugal
+  kind: oral
+  authors: Urcelay-Olabarria, Irene; Lazkoz, Ruth; Urrestilla, Jon; Leonardo, Aritz; Igartua, Josu M. Igartua
+- year: 2018
+  month: null
+  title: Interactive tool for the Introductory Physics Laboratory
+  conference: GIREP-MPTL-2018 - Groupe International de Recherche sur l’Enseignement de la Physique (GIREP) Multimedia in Physics Teaching and Learning (MPTL)
+  place: Donostia, España
+  kind: oral
+  authors: Josu M. Igartua; Irene Urcelay-Olabarria; J. Urrestilla; R. Lazkoz
+- year: 2018
+  month: null
+  title: Infrared emissivity, a useful property to optimize materials and processes
+  conference: THERMEC2018 - International Conference on PROCESSING AND MANUFACTURING OF ADVANCED MATERIALS Processing, Fabrication, Properties, Applications
+  place: París, Francia
+  kind: invited
+  authors: I. González de Arrieta; T. Echániz; R. Fuente; I. Urcelay-Olabarria; Josu M. Igartua; M.J. Tello; G.A. López
+- year: 2018
+  month: null
+  title: High accuracy infrared emissivity between 20 and 1000° for solar materials
+  conference: ICOME 2018 - International Conference on Materials and Energy
+  place: Donostia, España
+  kind: oral
+  authors: R. Fuente; T. Echániz; I. González de Arrieta; I. Urcelay-Olabarria; Josu M. Igartua; M.J. Tello; G.A. López
+- year: 2018
+  month: null
+  title: Emissivity measurements near room temperature for photovoltaic applications
+  conference: 20th Symposium on Thermophysical Properties
+  place: Boulder, USA
+  kind: poster
+  authors: I. González de Arrieta; T. Echániz; R. Fuente; I. Urcelay-Olabarria; Josu M. Igartua; M.J. Tello; G.A. López
+- year: 2018
+  month: null
+  title: Emisibitate infragorriaren bidezko metaletako eta aleazioetako oxidazio zinetiken azterketa
+  conference: MZT-Materialen Zientzia eta Teknologia IV. Kongresua
+  place: Donostia, España
+  kind: oral
+  authors: I. González de Arrieta; T. Echániz; R. Fuente; I. Urcelay-Olabarria; Josu M. Igartua; M.J. Tello; G.A. López
+- year: 2018
+  month: null
+  title: Doitasun handiko infragorriko emisibitatea, 20 − 1000° C-ko tartean, eguzki- energiakomaterialak ezaugarritzeko
+  conference: MZT-Materialen Zientzia eta Teknologia IV. Kongresua
+  place: Donostia, España
+  kind: oral
+  authors: R. Fuente; T. Echániz; I. González de Arrieta; I. Urcelay-Olabarria; Josu M. Igartua; M.J. Tello; G.A. López
+- year: 2021
+  month: 4
+  title: Spectral emissivity measurements and conversion efficiency estimation in black spinel and nanoneedle-based coatings for solar power plants
+  conference: MRS Spring Meeting & Exhibit
+  place: Seattle, USA
+  kind: oral
+  authors: T. Echániz, I. González de Arrieta, R. Fuente, J. M. Igartua, G. A. López, M. J. Tello, E. Rubin, R. Chen
+- year: 2021
+  month: 9
+  title: Thermo-optical characterization of TiAl intermetallics
+  conference: EUROMAT 2021
+  place: Graz, Austria
+  kind: oral
+  authors: L. Usategui, I. López-Ferreño, T. Echániz, J. M. Igartua, S. Mayer, H. Clemens, G. A. López
+- year: 2022
+  month: 9
+  title: High-accuracy spectral directional emissivity of advanced materials up to 1273 K
+  conference: Materials Science and Engineering Congress (DGM)
+  place: Darmstadt, Alemania
+  kind: oral
+  authors: J. Gabirondo-López, M. Sainz-Menchón, I. González de Arrieta, R. Fuente, T. Echániz, I. López-Ferreño, I. Arredondo, J. M. Igartua, G. A. López

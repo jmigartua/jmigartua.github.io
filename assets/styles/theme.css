@@ -406,7 +406,7 @@ figure.spectrum figcaption {
   margin: 0 0 32px; padding: 20px 24px; background: var(--tint); border: 1px solid var(--line);
 }
 .thesis-facts .row {
-  display: grid; grid-template-columns: 120px 1fr; gap: 14px;
+  display: grid; grid-template-columns: 104px 1fr; gap: 12px;
   padding: 9px 0; border-top: 1px solid var(--line);
   font-size: 14.5px; line-height: 1.5;
 }
@@ -575,6 +575,13 @@ html[lang^="es"] a.wordmark[data-lang="es"], html[lang^="eu"] a.wordmark[data-la
 .tl-legend i.ext { border: 1.5px dashed var(--ink-soft); }
 .tl-legend .note { color: var(--ink-faint); }
 .tl-figure figcaption { font-size: 13px; color: var(--ink-faint); margin-top: 8px; }
+
+.list-details { margin: 6px 0 22px; border-top: 1px solid var(--line); }
+.list-details > summary { cursor: pointer; padding: 10px 0; font-size: 14.5px; color: var(--teal); list-style: none; }
+.list-details > summary::-webkit-details-marker { display: none; }
+.list-details > summary::before { content: "+ "; font-family: var(--mono); color: var(--ink-faint); }
+.list-details[open] > summary::before { content: "− "; }
+.list-details .table-wrap { margin-top: 4px; }
 
 /* Motion */
 @media (prefers-reduced-motion: no-preference) {

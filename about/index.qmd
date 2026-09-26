@@ -10,14 +10,14 @@ toc: false
 <div class="crumbs"><a href="../index.html">igartua</a> / about</div>
 <div class="article-grid">
 <article class="page-article">
-<div style="display:grid;grid-template-columns:200px 1fr;gap:32px;align-items:start;margin:0 0 32px;padding:24px;background:var(--tint);border:1px solid var(--line)">
+<div style="display:grid;grid-template-columns:176px 1fr;gap:28px;align-items:start;margin:0 0 32px;padding:24px;background:var(--tint);border:1px solid var(--line)">
   <figure style="margin:0"><img src="../assets/images/josu-igartua.png" alt="Josu M. Igartua" style="width:100%;height:auto;display:block;border:1px solid var(--line);aspect-ratio:1/1;object-fit:cover"></figure>
   <div class="thesis-facts" style="margin:0;padding:0;background:none;border:0">
     <div class="row"><div class="k">Name</div><div class="v">Josu Mirena Igartua Aldamiz</div></div>
-    <div class="row"><div class="k">Position</div><div class="v">Full Professor of Physics (Catedrático de Universidad), since 2 November 2020</div></div>
-    <div class="row"><div class="k">Department</div><div class="v">Physics Department, Faculty of Science and Technology, UPV/EHU, Leioa</div></div>
+    <div class="row"><div class="k">Position</div><div class="v">Full Professor of Physics, since November 2020</div></div>
+    <div class="row"><div class="k">Department</div><div class="v">Physics Department, Faculty of Science and Technology, Leioa</div></div>
     <div class="row"><div class="k">Area</div><div class="v">Applied Physics &middot; Thermodynamics and statistical physics</div></div>
-    <div class="row"><div class="k">Group</div><div class="v">Thermomat / HAIRL, thermophysical properties of materials (co-lead)</div></div>
+    <div class="row"><div class="k">Group</div><div class="v">Thermomat / HAIRL research group, co-lead</div></div>
     <div class="row"><div class="k">Languages</div><div class="v">Basque, Spanish, English; teaching in Basque since 1993</div></div>
     <div class="row"><div class="k">Contact</div><div class="v"><a href="mailto:josu.igartua@ehu.eus">josu.igartua@ehu.eus</a> &middot; <a href="https://orcid.org/0000-0001-7983-5331">ORCID 0000-0001-7983-5331</a></div></div>
   </div>
@@ -38,10 +38,10 @@ In teaching, I introduced thermodynamics and its neighbouring subjects in Basque
 <table>
 <thead><tr><th>Years</th><th>Position</th><th>Where</th></tr></thead>
 <tbody>
-<tr><td>1988</td><td>Licenciado en Ciencias, Physics, solid-state physics track</td><td>UPV/EHU</td></tr>
-<tr><td>1988–1992</td><td>Research collaborator and doctoral fellow (Basque Government)</td><td>UPV/EHU</td></tr>
+<tr><td>1988</td><td>Licenciado en Ciencias, Physics, solid-state physics track</td><td>EHU</td></tr>
+<tr><td>1988–1992</td><td>Research collaborator and doctoral fellow (Basque Government)</td><td>EHU</td></tr>
 <tr><td>1992–1997</td><td>Assistant professor (Profesor Asociado), bilingual</td><td>Industrial Engineering School, Bilbao; Faculty of Science and Technology, Leioa</td></tr>
-<tr><td>1994</td><td>PhD in Physics, solid-solid structural phase transitions</td><td>UPV/EHU</td></tr>
+<tr><td>1994</td><td>PhD in Physics, solid-solid structural phase transitions</td><td>EHU</td></tr>
 <tr><td>1997–2020</td><td>Associate professor (Profesor Titular de Universidad), tenured</td><td>Applied Physics II, Faculty of Science and Technology</td></tr>
 <tr><td>2012–2015</td><td>Vice-Dean for Students and Academic Exchange</td><td>Faculty of Science and Technology</td></tr>
 <tr><td>2020–</td><td>Full Professor of Physics (Catedrático de Universidad)</td><td>Physics Department, Faculty of Science and Technology</td></tr>
@@ -51,7 +51,7 @@ In teaching, I introduced thermodynamics and its neighbouring subjects in Basque
 
 ## Recognition
 
-- Six six-year research periods (sexenios) recognised by CNEAI, the maximum available in my career, and six five-year teaching periods (quinquenios) awarded by UPV/EHU, likewise the maximum.
+- Six six-year research periods (sexenios) recognised by CNEAI, the maximum available in my career, and six five-year teaching periods (quinquenios) awarded by EHU, likewise the maximum.
 - A1 research-and-teaching supplement granted by Unibasq in 2015, which formally recognises the combination of research and teaching quality.
 - Teaching evaluated under the DOCENTIAZ programme in the top band ("Oso ongi"), with scores of 82.4 and 95.7 for the periods 2008–2013 and 2013–2018.
 - Five doctoral theses completed, all with the highest grade, three with international mention, one with the extraordinary doctorate prize; two in progress.
@@ -67,7 +67,7 @@ Bibliometrics, for what they are worth: 73 documents indexed in Scopus with 1 48
 - [ORCID 0000-0001-7983-5331](https://orcid.org/0000-0001-7983-5331)
 - [Google Scholar](https://scholar.google.es/citations?user=nYJ--CkAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Josu-Igartua)
-- [UPV/EHU research portal](https://ekoizpen-zientifikoa.ehu.eus/investigadores/128210/detalle)
+- [EHU research portal](https://ekoizpen-zientifikoa.ehu.eus/investigadores/128210/detalle)
 - [GitHub](https://github.com/jmigartua)
 
 ```{=html}

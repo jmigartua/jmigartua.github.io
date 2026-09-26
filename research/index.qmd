@@ -36,7 +36,7 @@ The method that ties the work together is symmetry-mode analysis, or mode crysta
 
 ## Thermal radiative properties of materials (2018–) {#radiation}
 
-Over the last decade my activity has moved to the high-temperature thermophysical properties and the infrared radiative behaviour of materials for energy, in Thermomat, the research group on the thermophysical properties of materials at UPV/EHU, which I co-lead. The group operates HAIRL, a high-accuracy infrared radiometer built in-house: directional spectral emissivity from 0.83 to 25 μm, from room temperature to 1000 °C, in controlled atmosphere, with a full uncertainty budget. My part of the work is on the instrument and its data as much as on the samples: the upgrade of the emissometer, the model-free cascaded temperature control published in *IEEE Transactions on Control Systems Technology*, the updated measurement method and uncertainty budget in *Metrologia*, the “fer” framework for FAIR-compliant reporting of traceable experimental results in *IEEE Transactions on Instrumentation and Measurement*, and EKHI, the open database of optical and thermal radiative properties of solids described in *Scientific Data* and indexed by emissivity.org. The materials run from oxidising steels, high-entropy alloys and materials for nuclear fusion to laser-patterned surfaces and selective coatings for concentrated solar power, in close collaboration with CIC Energigune, Tecnalia, Petronor, ArcelorMittal and ESS Bilbao, and with academic partners abroad.
+Over the last decade my activity has moved to the high-temperature thermophysical properties and the infrared radiative behaviour of materials for energy, in Thermomat, the research group on the thermophysical properties of materials at EHU, which I co-lead. The group operates HAIRL, a high-accuracy infrared radiometer built in-house: directional spectral emissivity from 0.83 to 25 μm, from room temperature to 1000 °C, in controlled atmosphere, with a full uncertainty budget. My part of the work is on the instrument and its data as much as on the samples: the upgrade of the emissometer, the model-free cascaded temperature control published in *IEEE Transactions on Control Systems Technology*, the updated measurement method and uncertainty budget in *Metrologia*, the “fer” framework for FAIR-compliant reporting of traceable experimental results in *IEEE Transactions on Instrumentation and Measurement*, and EKHI, the open database of optical and thermal radiative properties of solids described in *Scientific Data* and indexed by emissivity.org. The materials run from oxidising steels, high-entropy alloys and materials for nuclear fusion to laser-patterned surfaces and selective coatings for concentrated solar power, in close collaboration with CIC Energigune, Tecnalia, Petronor, ArcelorMittal and ESS Bilbao, and with academic partners abroad.
 
 The same years opened a second energy strand with CIC Energigune and Abdessamad Faik: molten nitrate salt nanofluids for thermal energy storage in concentrated solar plants, their enhanced heat capacity and thermal conductivity, the stability of the dispersions and the corrosion of carbon steel in contact with them. It was the fifth doctoral thesis (Nithiyanantham 2019) and five papers in *Solar Energy*, *Solar Energy Materials and Solar Cells*, *Journal of Energy Storage* and *Applied Thermal Engineering*, with a sixth on thermochemical storage in double hydrated salts.
 
@@ -46,7 +46,7 @@ The same years opened a second energy strand with CIC Energigune and Abdessamad 
 
 ## Computation in physics education {#teaching}
 
-The fifth line began as a way of teaching thermodynamics and became research. Jupyter notebooks written in Basque are the laboratory notebook of a theoretical subject: students derive, compute and plot in the same document, and the subject keeps a daily log of what was done. MinervaLab, an interactive simulation laboratory for first-order phase transitions and the van der Waals fluid, was built as a bachelor's thesis under my direction, released under the GPL, and is the basis of the physics-education contributions I have presented at CINTE 2016, CSEDU 2017, GIREP 2018 and the 2019 biennial meeting of the Real Sociedad Española de Física, and of the teaching-innovation project on the electronic laboratory notebook I led at UPV/EHU. The same tools now answer another question: what the data say about how students perform, from the subject's own records to the physics entrance examination across the Spanish regions.
+The fifth line began as a way of teaching thermodynamics and became research. Jupyter notebooks written in Basque are the laboratory notebook of a theoretical subject: students derive, compute and plot in the same document, and the subject keeps a daily log of what was done. MinervaLab, an interactive simulation laboratory for first-order phase transitions and the van der Waals fluid, was built as a bachelor's thesis under my direction, released under the GPL, and is the basis of the physics-education contributions I have presented at CINTE 2016, CSEDU 2017, GIREP 2018 and the 2019 biennial meeting of the Real Sociedad Española de Física, and of the teaching-innovation project on the electronic laboratory notebook I led at EHU. The same tools now answer another question: what the data say about how students perform, from the subject's own records to the physics entrance examination across the Spanish regions.
 
 ```{=html}
 <figure class="thesis-figure"><img src="../assets/images/minervalab-sketch.png" alt="Hand-drawn planning sketch for MinervaLab with numbered timeline boxes and app codes"><figcaption>Planning sketch for MinervaLab: the decomposition into simulation apps, each with its code, drawn before a line was written. The software lives on GitHub at jongablop/MinervaLab.</figcaption></figure>
@@ -84,7 +84,7 @@ Nineteen experiments between 2007 and 2011 at the Institut Laue-Langevin in Gren
 
 ## Competitive projects and research groups {#projects}
 
-More than forty competitive projects and recognised research groups across the career, and over sixty entries once funded actions and contracts are counted: first as a member of the structural-physics group led by J. Manuel Pérez-Mato and Gotzon Madariaga, since 2018 in Thermomat, and as principal investigator of the UPV/EHU node of the ELKARTEK storage project, of the large-facility proposals above and of the teaching-innovation project on the electronic laboratory notebook. The recognised groups are listed first, then the projects in reverse chronological order. Amounts are the sums awarded to UPV/EHU as they appear in the certificates of the Vice-Rectorate for Research.
+More than forty competitive projects and recognised research groups across the career, and over sixty entries once funded actions and contracts are counted: first as a member of the structural-physics group led by J. Manuel Pérez-Mato and Gotzon Madariaga, since 2018 in Thermomat, and as principal investigator of the EHU node of the ELKARTEK storage project, of the large-facility proposals above and of the teaching-innovation project on the electronic laboratory notebook. The recognised groups are listed first, then the projects in reverse chronological order. Amounts are the sums awarded to EHU as they appear in the certificates of the Vice-Rectorate for Research.
 
 ### Recognised research groups {#groups}
 
@@ -93,12 +93,12 @@ More than forty competitive projects and recognised research groups across the c
 <thead><tr><th>Years</th><th>Project</th><th>Funder</th><th>PI</th><th>Awarded</th></tr></thead>
 <tbody>
 <tr><td>2022–2025</td><td>Research group on the thermophysical properties of materials (IT1714-22)</td><td>Basque Government</td><td>R. Fuente</td><td>104 400 €</td></tr>
-<tr><td>2019–2022</td><td>Research group on the radiative properties of materials (GIU19/019, IT1364-19)</td><td>UPV/EHU and Basque Government</td><td>R. Fuente, G. A. López</td><td>26 271 €</td></tr>
+<tr><td>2019–2022</td><td>Research group on the radiative properties of materials (GIU19/019, IT1364-19)</td><td>EHU and Basque Government</td><td>R. Fuente, G. A. López</td><td>26 271 €</td></tr>
 <tr><td>2013–2018</td><td>Structural and dynamical properties of solids (GIC12/146, IT779-13)</td><td>Basque Government</td><td>G. Madariaga</td><td>262 798 €</td></tr>
 <tr><td>2007–2012</td><td>Structural and dynamical properties of solids (GIC07/117, IT-282-07)</td><td>Basque Government</td><td>J. M. Pérez-Mato</td><td>563 474 €</td></tr>
 <tr><td>2001–2006</td><td>Development of instrumentation for X-ray and synchrotron diffraction (GIC01/43)</td><td>Basque Government</td><td>J. M. Pérez-Mato</td><td>420 519 €</td></tr>
-<tr><td>2001–2006</td><td>Structural and dynamical properties of solids, consolidated high-performance group (UPV0063.310-13564/2001, with three extensions)</td><td>UPV/EHU</td><td>J. M. Pérez-Mato</td><td>380 426 €</td></tr>
-<tr><td>1998–2000</td><td>Structural and dynamical properties of solids</td><td>UPV/EHU</td><td>J. M. Pérez-Mato</td><td>228 360 €</td></tr>
+<tr><td>2001–2006</td><td>Structural and dynamical properties of solids, consolidated high-performance group (UPV0063.310-13564/2001, with three extensions)</td><td>EHU</td><td>J. M. Pérez-Mato</td><td>380 426 €</td></tr>
+<tr><td>1998–2000</td><td>Structural and dynamical properties of solids</td><td>EHU</td><td>J. M. Pérez-Mato</td><td>228 360 €</td></tr>
 </tbody></table></div>
 ```
 
@@ -109,31 +109,31 @@ More than forty competitive projects and recognised research groups across the c
 <thead><tr><th>Years</th><th>Project</th><th>Funder</th><th>PI</th><th>Awarded</th></tr></thead>
 <tbody>
 <tr><td>2025–2026</td><td>SIMULATE: multiscale and multiphysics simulation approaches in laser microfabrication (KK-2025/00075)</td><td>Basque Government</td><td>—</td><td>135 284 €</td></tr>
-<tr><td>2024–2026</td><td>Systematic study of defects in steel production for traceability and efficiency (US24/04), with Sidenor I+D</td><td>UPV/EHU</td><td>—</td><td>14 585 €</td></tr>
+<tr><td>2024–2026</td><td>Systematic study of defects in steel production for traceability and efficiency (US24/04), with Sidenor I+D</td><td>EHU</td><td>—</td><td>14 585 €</td></tr>
 <tr><td>2021–2023</td><td>Advanced characterisation of latest-generation aeronautical alloys for high temperature (PIBA_2021_1_0022)</td><td>Basque Government</td><td>G. A. López</td><td>50 000 €</td></tr>
-<tr><td>2019–2021</td><td>Modelling for the development of correction algorithms in thermography (US19/13), with Petronor</td><td>UPV/EHU</td><td>R. Fuente, G. A. López</td><td>63 450 €</td></tr>
-<tr><td>2019</td><td>Infrared camera for high temperature, infrastructure (INF19/18)</td><td>UPV/EHU</td><td>R. Fuente</td><td>10 792 €</td></tr>
-<tr><td>2019</td><td>Research aid, groups mode II (PPGA19/25)</td><td>UPV/EHU</td><td>R. Fuente</td><td>5 566 €</td></tr>
-<tr><td>2018–2019</td><td>Strategic fundamental research on electrochemical and thermal energy storage for hybrid storage systems (ELKARTEK KK-2018/00098), coordinated by CIC Energigune</td><td>Basque Government</td><td>G. A. López, J. M. Igartua (UPV/EHU node)</td><td>74 018 € to the group, 3.1 M€ in all</td></tr>
-<tr><td>2018–2019</td><td>Electronic laboratory notebook: Jupyter Notebook, teaching-innovation project (PIE 61)</td><td>UPV/EHU</td><td>J. M. Igartua</td><td>1 000 €</td></tr>
+<tr><td>2019–2021</td><td>Modelling for the development of correction algorithms in thermography (US19/13), with Petronor</td><td>EHU</td><td>R. Fuente, G. A. López</td><td>63 450 €</td></tr>
+<tr><td>2019</td><td>Infrared camera for high temperature, infrastructure (INF19/18)</td><td>EHU</td><td>R. Fuente</td><td>10 792 €</td></tr>
+<tr><td>2019</td><td>Research aid, groups mode II (PPGA19/25)</td><td>EHU</td><td>R. Fuente</td><td>5 566 €</td></tr>
+<tr><td>2018–2019</td><td>Strategic fundamental research on electrochemical and thermal energy storage for hybrid storage systems (ELKARTEK KK-2018/00098), coordinated by CIC Energigune</td><td>Basque Government</td><td>G. A. López, J. M. Igartua (EHU node)</td><td>74 018 € to the group, 3.1 M€ in all</td></tr>
+<tr><td>2018–2019</td><td>Electronic laboratory notebook: Jupyter Notebook, teaching-innovation project (PIE 61)</td><td>EHU</td><td>J. M. Igartua</td><td>1 000 €</td></tr>
 <tr><td>2016–2018</td><td>New magnetic, ferroic and multiferroic materials: structure, properties and tools for their analysis (MAT2015-66441-P)</td><td>Spanish Ministry of Economy and Competitiveness</td><td>G. Madariaga</td><td>177 870 €</td></tr>
 <tr><td>2013–2015</td><td>Synthesis, structure and properties of new ferroic and multiferroic materials (MAT2012-34740)</td><td>Spanish Ministry of Economy and Competitiveness</td><td>G. Madariaga</td><td>204 750 €</td></tr>
 <tr><td>2011</td><td>Multipurpose diffractometer with Eulerian geometry, dual X-ray source and real-time 2D detection, infrastructure (GVINF11/48)</td><td>Basque Government</td><td>J. M. Pérez-Mato</td><td>300 000 €</td></tr>
 <tr><td>2011–2012</td><td>ITON 2011 satellite workshop: online edition of the International Tables for Crystallography (CGV11/51)</td><td>Basque Government</td><td>G. Madariaga</td><td>5 866 €</td></tr>
 <tr><td>2009–2012</td><td>Structure and properties in ferroic and multiferroic materials: modelling and experiments (MAT2008-05839)</td><td>Spanish Ministry of Science and Innovation</td><td>J. M. Pérez-Mato</td><td>121 000 €</td></tr>
 <tr><td>2009–2010</td><td>ITON 2009 satellite workshop: international school on the Bilbao Crystallographic Server</td><td>Basque Government</td><td>G. Madariaga</td><td>5 000 €</td></tr>
-<tr><td>2009</td><td>Upgrade of the electronic interfaces of two X-ray diffractometers, infrastructure (INF09/16)</td><td>UPV/EHU</td><td>G. Madariaga</td><td>23 497 €</td></tr>
-<tr><td>2009–2012</td><td>Visits to the ILL, ESRF and CERN for master's students, two editions (PISAM 2009/10, 2011/12)</td><td>UPV/EHU</td><td>J. M. Igartua</td><td>8 200 €</td></tr>
-<tr><td>2007</td><td>Physics in action, outreach conference (CSJ07/14)</td><td>UPV/EHU</td><td>G. Madariaga</td><td>6 000 €</td></tr>
+<tr><td>2009</td><td>Upgrade of the electronic interfaces of two X-ray diffractometers, infrastructure (INF09/16)</td><td>EHU</td><td>G. Madariaga</td><td>23 497 €</td></tr>
+<tr><td>2009–2012</td><td>Visits to the ILL, ESRF and CERN for master's students, two editions (PISAM 2009/10, 2011/12)</td><td>EHU</td><td>J. M. Igartua</td><td>8 200 €</td></tr>
+<tr><td>2007</td><td>Physics in action, outreach conference (CSJ07/14)</td><td>EHU</td><td>G. Madariaga</td><td>6 000 €</td></tr>
 <tr><td>2005–2008</td><td>Crystal structures and properties of new functional materials under non-ambient conditions (FIS2005-07090)</td><td>Spanish Ministry of Education and Science</td><td>A. Grzechnik</td><td>64 260 €</td></tr>
 <tr><td>2002–2005</td><td>Superspace description and phase transitions in layered compounds with perovskite-derived structures (BFM2002-00057)</td><td>Spanish Ministry of Science and Technology</td><td>F. J. Zúñiga</td><td>80 918 €</td></tr>
 <tr><td>1999–2002</td><td>Phase transitions in solids: mechanisms and structure (PB98-0244)</td><td>DGESIC, Spanish Ministry of Education</td><td>J. M. Pérez-Mato</td><td>48 000 €</td></tr>
 <tr><td>1998–1999</td><td>Basic mechanisms in structural phase transitions</td><td>Spanish Ministry of Education and Science</td><td>J. M. Pérez-Mato</td><td>7 200 €</td></tr>
 <tr><td>1995–1998</td><td>Structure and stability of insulating materials and quasicrystals</td><td>Spanish Ministry of Education and Science</td><td>J. M. Pérez-Mato</td><td>42 000 €</td></tr>
-<tr><td>1995</td><td>Phase-diagram studies in the ABX₃ family</td><td>UPV/EHU</td><td>A. López-Echarri</td><td>10 800 €</td></tr>
-<tr><td>1993</td><td>Phase transitions in ferroelectric crystals</td><td>UPV/EHU</td><td>A. López-Echarri</td><td>—</td></tr>
-<tr><td>1992</td><td>Spectroscopic study of A₂BX₄ crystals with incommensurate phases</td><td>UPV/EHU</td><td>A. López-Echarri</td><td>—</td></tr>
-<tr><td>1989–1991</td><td>Calorimetric study of ferroelectric and incommensurate crystals</td><td>UPV/EHU</td><td>A. López-Echarri</td><td>2 362 €</td></tr>
+<tr><td>1995</td><td>Phase-diagram studies in the ABX₃ family</td><td>EHU</td><td>A. López-Echarri</td><td>10 800 €</td></tr>
+<tr><td>1993</td><td>Phase transitions in ferroelectric crystals</td><td>EHU</td><td>A. López-Echarri</td><td>—</td></tr>
+<tr><td>1992</td><td>Spectroscopic study of A₂BX₄ crystals with incommensurate phases</td><td>EHU</td><td>A. López-Echarri</td><td>—</td></tr>
+<tr><td>1989–1991</td><td>Calorimetric study of ferroelectric and incommensurate crystals</td><td>EHU</td><td>A. López-Echarri</td><td>2 362 €</td></tr>
 </tbody></table></div>
 ```
 
@@ -158,6 +158,76 @@ Research and consultancy contracts of the Thermomat group in which I take part, 
 Around a hundred conference contributions since 1990, with invited talks at the Gordon Conference on order and disorder in solids (New London, 1994), the Kraków workshop on symmetry analysis in diffraction (1996), the Hünfeld symposium on the predictability of crystal structures (1997) and, in the emissivity years, THERMEC, EUROMAT, the MRS Spring Meeting, MMC and EOSAM. Reviewer for some twenty indexed journals in materials science, thermophysics, crystallography and instrumentation, with more than a hundred reviews completed; associate editor of *Energies*. Member of the organising committee of the two international schools of the Bilbao Crystallographic Server (2009, 2011) and a graduate of the ILL FullProf school, the Hercules course and the European School on Multiferroics. Vice-president of the local section of the Real Sociedad Española de Física.
 
 ```{=html}
+<h3 id="conferences">Conference contributions listed in the dossier and the 2022 CV</h3>
+<details class="list-details"><summary>65 contributions, 4 invited talks, 13 oral, 48 posters · open the list</summary><div class="table-wrap"><table>
+<thead><tr><th>Year</th><th>Contribution</th><th>Conference</th><th>Place</th><th>Type</th></tr></thead>
+<tbody>
+<tr><td>2022</td><td>High-accuracy spectral directional emissivity of advanced materials up to 1273 K</td><td>Materials Science and Engineering Congress (DGM)</td><td>Darmstadt, Alemania</td><td>oral</td></tr>
+<tr><td>2021</td><td>Thermo-optical characterization of TiAl intermetallics</td><td>EUROMAT 2021</td><td>Graz, Austria</td><td>oral</td></tr>
+<tr><td>2021</td><td>Spectral emissivity measurements and conversion efficiency estimation in black spinel and nanoneedle-based coatings for solar power plants</td><td>MRS Spring Meeting &amp; Exhibit</td><td>Seattle, USA</td><td>oral</td></tr>
+<tr><td>2018</td><td>Interactive tool for the Introductory Physics Laboratory</td><td>GIREP-MPTL-2018 - Groupe International de Recherche sur l’Enseignement de la Physique (GIREP) Multimedia in Physics Teaching and Learning (MPTL)</td><td>Donostia, España</td><td>oral</td></tr>
+<tr><td>2018</td><td>Infrared emissivity, a useful property to optimize materials and processes</td><td>THERMEC2018 - International Conference on PROCESSING AND MANUFACTURING OF ADVANCED MATERIALS Processing, Fabrication, Properties, Applications</td><td>París, Francia</td><td>invited</td></tr>
+<tr><td>2018</td><td>High accuracy infrared emissivity between 20 and 1000° for solar materials</td><td>ICOME 2018 - International Conference on Materials and Energy</td><td>Donostia, España</td><td>oral</td></tr>
+<tr><td>2018</td><td>Emissivity measurements near room temperature for photovoltaic applications</td><td>20th Symposium on Thermophysical Properties</td><td>Boulder, USA</td><td>poster</td></tr>
+<tr><td>2018</td><td>Emisibitate infragorriaren bidezko metaletako eta aleazioetako oxidazio zinetiken azterketa</td><td>MZT-Materialen Zientzia eta Teknologia IV. Kongresua</td><td>Donostia, España</td><td>oral</td></tr>
+<tr><td>2018</td><td>Doitasun handiko infragorriko emisibitatea, 20 − 1000° C-ko tartean, eguzki- energiakomaterialak ezaugarritzeko</td><td>MZT-Materialen Zientzia eta Teknologia IV. Kongresua</td><td>Donostia, España</td><td>oral</td></tr>
+<tr><td>2017</td><td>Electronic Notes Via Jupyter Notebooks</td><td>9th International Conference on Computer Supported Education (CSEDU)</td><td>Oporto, Portugal</td><td>oral</td></tr>
+<tr><td>2017</td><td>Jupyter Notebook as the Physics Experimental Laboratory’s Logbook First Approach</td><td>9th International Conference on Computer Supported Education (CSEDU)</td><td>Oporto, Portugal</td><td>oral</td></tr>
+<tr><td>2016</td><td>Effect of partial substitution of Ni by Mg on the structural, magnetic and spectroscopic pro- perties of the double perovskite Sr2NiTeO6</td><td>15th European Powder Diffraction Conference (EPDIC15)</td><td>Bari, Italia</td><td>poster</td></tr>
+<tr><td>2015</td><td>Synthesis and Crystal Structure Analysis Of The Lacunar Apatite NaPb2 Ca2 (PO4 )</td><td>The International Conference on Applied Mineralogy and Advanced Materials (AMAM 2015)</td><td>Taranto, Italia</td><td>poster</td></tr>
+<tr><td>2015</td><td>Mode-crystallography and parametrized refinements for a better approach to the crystal struc- ture and its evolution with temperature</td><td>European Conference on Neutron Scattering (ECNS 2015)</td><td>Zaragoza, España</td><td>oral</td></tr>
+<tr><td>2015</td><td>Crystal Structures and high temperature phase transitions of the new ordered double Perovskite SrCaCoTeO6 and SrCaNiTeO6</td><td>The International Conference on Applied Mineralogy and Advanced Materials (AMAM 2015)</td><td>Taranto, Italia</td><td>poster</td></tr>
+<tr><td>2013</td><td>Experimental study of the possible multiferroic magnetoelectric NaLaMM’O6</td><td>International Conference on Neutron Scattering ICNS</td><td>Edimburgo, Reino Unido</td><td>poster</td></tr>
+<tr><td>2013</td><td>Compositional uniformity as driving force of patterned ordering: stripes and nano-chessboards</td><td>14th European Conference on Solid State Chemistry</td><td>Bordeaux, Francia</td><td>oral</td></tr>
+<tr><td>2012</td><td>Crystallographic studies on SrLnFeRuO6 (Ln=La,Pr,Nd) disordered perovskites</td><td>13th European Powder Diffraction Conference (EPDIC)</td><td>Grenoble, Francia</td><td>poster</td></tr>
+<tr><td>2012</td><td>Structural relationship and phase diagram for SrLnMRuO6 perovskites</td><td>VI Reunión de la Sociedad Española de Técnicas Neutrónicas (SETN)</td><td>Segovia, España</td><td>poster</td></tr>
+<tr><td>2011</td><td>Structures and temperature induced phase-transition studies of perovskite type materials. Symmetry-mode analysis</td><td>III Reunión de Jóvenes Cristalógrafos</td><td>La Laguna, España</td><td>poster</td></tr>
+<tr><td>2011</td><td>Structural study of SrPrMRuO6 double perovskites by symmetry-mode analysis</td><td>XXII Congress and General Assembly of the International Union of Crystallography (IUCr)</td><td>Madrid, España</td><td>poster</td></tr>
+<tr><td>2011</td><td>Crystal structure and structural phase-transitions of double perovskite ruthenates by symmetry mode analysis</td><td>5th European Conference on Neutron Scattering (ECNS)</td><td>Praga, Chequia</td><td>poster</td></tr>
+<tr><td>2010</td><td>Thermal Study of the Structures and Phase Transitions of New Possibly Functional Materials: A’A”2 CuTi2 O9 (A’=Ca,Ba) and (A”=Pr,Nd) Triple Perovskites.</td><td>9th Conference on Solid State Chemistry,</td><td>Praga, Chequia</td><td>poster</td></tr>
+<tr><td>2010</td><td>Synthesis, structure and thermal evolution of new SrNdMRuO6 (M=Ni,Co,Fe,Mg,Zn) double perovskites.</td><td>9th Summer School on Condensed Matter Research, Magnetic Phenomena</td><td>Zuoz, Suiza</td><td>poster</td></tr>
+<tr><td>2010</td><td>Ab initio study of structural instabilities in double perovskite compounds Sr2 MWO6 (M=Zn,Mg and Ni)</td><td>17th WIEN2K workshop- ICAMM 2010, Nantes (France), July 5-10</td><td>Nantes, Francia</td><td>poster</td></tr>
+<tr><td>2010</td><td>Sr2 MWO6 (M= Zn, Mg And Ni) Double Perovskites</td><td>Summer School on Computational Materials Sciences</td><td>Donostia, España</td><td>poster</td></tr>
+<tr><td>2010</td><td>Synthesis, structure and thermal evolution of new A’A”2 CuTi2 O9 (A’=Ca,Ba) and (A”=Pr,Nd Triple Perovskites).</td><td>V Reunión de la Sociedad Española de Técnicas Neutrónicas</td><td>Gijón, España</td><td>poster</td></tr>
+<tr><td>2010</td><td>Condensation Of Several Structural Instabilities Via Secondary Distortions: The Case Of Sr2 MWO6 (M=Zn,Mg And Ni) Double Perovskites</td><td>Summer School on Computational Materials Sciences</td><td>Donostia, España</td><td>poster</td></tr>
+<tr><td>2010</td><td>On the composition and high temperature induced phase transition in Ba2−𝑥 Sr𝑥 NiWO6 double perovskite oxides (0 &lt; 𝑥 &lt; 2)</td><td>IX Symposium international environnement, catalyse et génie des procédés</td><td>Settat, Marruecos</td><td>poster</td></tr>
+<tr><td>2010</td><td>Structures and phase transitions at low- and high-temperature of new possibly functional ma- terials: SrNdMRuO6 (M=Ni,Co,Fe,Mg,Zn) double perovskites.</td><td>Hercules XX Symposium – 20th anniversary</td><td>Grenoble, Francia</td><td>poster</td></tr>
+<tr><td>2009</td><td>Caracterisations structurale et vibrationnelle de la solution solide Na1−𝑥 K𝑥 Pb4 (PO4 )3 (0 ≤ 𝑥 ≤ 1)</td><td>Rencontre sur les Matériaux Ferroélectrique et Applications (RMFA2009)</td><td>Settat, Marruecos</td><td>poster</td></tr>
+<tr><td>2009</td><td>Solving crystal structures using symmetry-mode collective coordinates</td><td>25th European Crystallographic Meeting (ECM 25)</td><td>Estambul, Turquía</td><td>poster</td></tr>
+<tr><td>2009</td><td>On the crystal structure of BaSrMWO6 (M = Ni,Mg,Co,Ca) double perovskite oxide</td><td>XIth Moroccan Meeting on Solid State Chemistry,</td><td>Kenitra, Marruecos</td><td>poster</td></tr>
+<tr><td>2009</td><td>On the crystal structure and High temperature Raman spectroscopy of BaSrCuWO6 double perovskite oxide</td><td>XIth Moroccan Meeting on Solid State Chemistry</td><td>Kenitra, Marruecos</td><td>poster</td></tr>
+<tr><td>2008</td><td>Crystal structures and phases transitions of antimony double perovskite oxides</td><td>IV Reunión de la Sociedad Española de Técnicas Neutrónicas</td><td>Girona, España</td><td>poster</td></tr>
+<tr><td>2008</td><td>Crystal structure and phase transitions of new double perovskite oxides Sr2−𝑥 Ca𝑥 LnSbO6 (Ln=La, Sm and 0 ≤ 𝑥 ≤ 2)</td><td>11th European Powder Diffraction Conference,</td><td>Varsovia, Polonia</td><td>poster</td></tr>
+<tr><td>2008</td><td>Structures and high-temperature phase transitions of Sr2 MSbO6 (M= Sc, Cr, Fe) double pe- rovskite oxides</td><td>XXI Congress and General Assembly of the International Union of Crystallography</td><td>Osaka, Japón</td><td>poster</td></tr>
+<tr><td>2008</td><td>Crystal structure and phase transitions of antimony double perovskites</td><td>HERCULES, 18th session, Higher European Research Course for Users of large Experimental Systems</td><td>Grenoble, Francia</td><td>poster</td></tr>
+<tr><td>2007</td><td>A2 FeSbO6 (A=Sr,Ca) double perovskites oxides: Crystal structures, phase-transitions and57Fe Mössbauer spectroscopy study</td><td>24th European Crystallographic Meeting (ECM 24)</td><td>Marrakech, Marruecos</td><td>poster</td></tr>
+<tr><td>2007</td><td>Crystal structures and phases transitions of the double perovskites oxides Sr2 Mn2+ W6+ O6 and its transformation to Sr2 Mn3+ W5+ O6</td><td>4th European Conference on Neutron Scattering (ECNS 2007)</td><td>Lund, Suecia</td><td>poster</td></tr>
+<tr><td>2005</td><td>High-pressure X-ray and Raman studies of the Sr₂CuWO₆ double perovskite oxide</td><td>SMEC</td><td>Miami, USA</td><td>poster</td></tr>
+<tr><td>2001</td><td>Sr₂CaWO₆double perovskite revisited</td><td>20th European Crystallographic Meeting</td><td>Cracovia, Polonia</td><td>poster</td></tr>
+<tr><td>2001</td><td>Room temperature crystal structure and phase transitions in Sr2 ZnWO6</td><td>20th European Crystallographic Meeting</td><td>Cracovia, Polonia</td><td>poster</td></tr>
+<tr><td>2001</td><td>Pseudosymmetry search results and phase transitions in Sr2 MWO6 (Co,Zn,Ni,Cu)</td><td>20th European Crystallographic Meeting</td><td>Cracovia, Polonia</td><td>poster</td></tr>
+<tr><td>2001</td><td>Tetragonal to tetragonal phase transition in Sr₂CuWO₆</td><td>20th European Crystallographic Meeting</td><td>Cracovia, Polonia</td><td>poster</td></tr>
+<tr><td>2001</td><td>PSEUDO: a new program on the Bilbao crystallographic server</td><td>9 Jahrestagung der DGK</td><td>Bayreuth, Alemania</td><td>poster</td></tr>
+<tr><td>2000</td><td>PSEUDO: a program for pseudosymmetry search</td><td>19th European Crystallographic Meeting</td><td>Nancy, Francia</td><td>poster</td></tr>
+<tr><td>1999</td><td>Systematic search of ferroelectric materials</td><td>9th European Meeting on Ferroelectricity</td><td>Hünfeld, Alemania</td><td>poster</td></tr>
+<tr><td>1999</td><td>Systematic search of ferroelectric materials</td><td>Ninth European Meeting on Ferroelectricity</td><td>Praga, Chequia</td><td>poster</td></tr>
+<tr><td>1997</td><td>Supergroups of space groups and their application in the prediction of structural phase transitions</td><td>Symposium on Predictability of Crystal Structures of Inorganic Solids</td><td>Hünfeld, Alemania</td><td>invited</td></tr>
+<tr><td>1997</td><td>Pnma crystal structures with high temperature structural phase transitions</td><td>17th European Crystallographic Meeting</td><td>Lisboa, Portugal</td><td>poster</td></tr>
+<tr><td>1997</td><td>Computer determination of supergroups of space groups</td><td>17th European Crystallographic Meeting</td><td>Lisboa, Portugal</td><td>poster</td></tr>
+<tr><td>1996</td><td>Prediction of phase transitions based on the systematic search of pseudo-symmetry</td><td>Structural phase transitions in non-metallic solids, a Gordon Conference</td><td>Henniker, USA</td><td>oral</td></tr>
+<tr><td>1996</td><td>Supergroups of space groups and their application to prediction of structural phase transitions</td><td>Workshop on Application of Symmetry Analysis to Diffraction Investigation</td><td>Krakow, Polonia</td><td>invited</td></tr>
+<tr><td>1994</td><td>Correlation between the entropy and the modulation wave vector in the incommensurate BCCD crystal</td><td>Order/disorder in solids</td><td>New London, Estados Unidos</td><td>invited</td></tr>
+<tr><td>1993</td><td>Secuencia de transiciones de fase en el cloruro cálcico de betaína dihidratada</td><td>XXIV Reunión de la Real Sociedad Española de Física</td><td>Jaca, España</td><td>poster</td></tr>
+<tr><td>1993</td><td>The specific heat of the ferroelectric phase transitions in [(CH₃)₄]CdBr₃</td><td>Journeés Méditerranées de calorimétrie et d’analyse thermique</td><td>Corte, Italia</td><td>poster</td></tr>
+<tr><td>1993</td><td>Analysis of the specific heat of SC(NH₂)₂</td><td>Calorimetry and experimental thermodynamics</td><td>Praga, Chequia</td><td>poster</td></tr>
+<tr><td>1993</td><td>Phase transitions in [N(CH₃)₄]₂ZnI₄</td><td>8th international meeting on ferroelectricity</td><td>Gaithersburg, USA</td><td>poster</td></tr>
+<tr><td>1993</td><td>Ferroelectric phase transitions in [(CH₃)₄]CdBr₃</td><td>8th international meeting on ferroelectricity</td><td>Gaithersburg, USA</td><td>poster</td></tr>
+<tr><td>1993</td><td>The entropy and the phase transition sequence in BCCD crystals</td><td>European conference on condensed matter</td><td>Madrid, España</td><td>poster</td></tr>
+<tr><td>1992</td><td>Phase transitions in thiourea</td><td>order/disorder in solids, a Gordon Conference</td><td>New London, Estados Unidos</td><td>poster</td></tr>
+<tr><td>1991</td><td>Capacidad calorífica de la thiourea</td><td>XXIII Reunión bienal de la Real Sociedad Española de Física</td><td>Valladolid, España</td><td>poster</td></tr>
+<tr><td>1991</td><td>Experimental study of the phase transition in [N(CH₃)₄]₂ZnBr₄</td><td>7th European meeting on ferroelectricity</td><td>Dijon, Francia</td><td>poster</td></tr>
+<tr><td>1990</td><td>Specific heat of [N(CH₃)₄]₂ZnBr₄ around the ferro-paraelastic phase transition</td><td>XII Convegno nazionale di calorimetria ed analisi termica</td><td>Bari, Italia</td><td>oral</td></tr>
+</tbody></table></div></details>
 </article>
 <aside class="docs-toc" aria-label="On this page"><div class="t">On this page</div><ol id="docs-toc-list"></ol></aside>
 </div>
