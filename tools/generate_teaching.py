@@ -194,9 +194,9 @@ def numbers():
     return dict(years=y1 - y0 + 1, y0=y0, y1=y1, subjects=n_subjects, credits=int(round(credits)), langs="eu · es · en")
 
 # ---------------------------------------------------------------- timeline
-LABEL_W, YEAR_W, LANE_H, INST_H, CEN_H, TOP = 300, 22, 21, 30, 22, 30
+LABEL_W, YEAR_W, LANE_H, INST_H, CEN_H, TOP = 262, 16, 21, 30, 22, 30
 
-def truncate(s, n=48):
+def truncate(s, n=42):
     return s if len(s) <= n else s[: n - 1].rstrip() + "…"
 
 def build_svg(lang):

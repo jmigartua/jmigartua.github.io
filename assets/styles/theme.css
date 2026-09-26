@@ -551,7 +551,7 @@ html[lang^="es"] a.wordmark[data-lang="es"], html[lang^="eu"] a.wordmark[data-la
 /* Teaching timeline */
 .tl-figure { margin: 8px 0 26px; border: 1px solid var(--line); background: var(--paper); padding: 12px 12px 10px; }
 .tl-wrap { position: relative; overflow-x: auto; }
-.tl-wrap svg { display: block; min-width: 900px; width: 100%; height: auto; font-family: var(--sans); }
+.tl-wrap svg { display: block; min-width: 760px; width: 100%; height: auto; font-family: var(--sans); }
 .tl-grid { stroke: var(--line-soft); stroke-width: 1; }
 .tl-grid.major { stroke: var(--line); }
 .tl-year { font-size: 11px; fill: var(--ink-faint); font-family: var(--mono); }
