@@ -10,6 +10,7 @@ and footer partials under `assets/includes/`.
 
 ```sh
 python3 tools/generate_publications.py   # publications/index.qmd + _gen/ from _data/publications.yml
+python3 tools/generate_teaching.py       # teaching/index.qmd ×3 (timeline, tables) from _data/teaching.yml
 quarto render                            # → _site/
 ```
 

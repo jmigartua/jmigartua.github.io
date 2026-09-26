@@ -20,6 +20,7 @@
   --teal:       #8a5a12;
   --teal-soft:  #a8721f;
   --amber:      #2f4858;
+  --tl-eu: #c47a1a; --tl-es: #2a6db5; --tl-en: #9a3f8a; --tl-mixed: #7f858d;
 
   --serif: "Source Serif 4", Georgia, serif;
   --sans:  "Source Sans 3", -apple-system, "Segoe UI", sans-serif;
@@ -41,6 +42,7 @@
     --teal:       #d9a45a;
     --teal-soft:  #e6b871;
     --amber:      #9fb3c4;
+    --tl-eu: #c38424; --tl-es: #3f84d6; --tl-en: #ad5aa8; --tl-mixed: #8b8983;
     color-scheme: dark;
   }
 }
@@ -540,9 +542,38 @@ html[lang^="es"] a.wordmark[data-lang="es"], html[lang^="eu"] a.wordmark[data-la
 
 /* Wide tables scroll inside their own container; small print notes under tables. */
 .table-wrap { overflow-x: auto; margin: 12px 0 20px; }
-.table-wrap table { margin: 0; min-width: 640px; }
+.table-wrap table { margin: 0; min-width: 760px; }
+.table-wrap th { white-space: nowrap; }
 .page-article .table-wrap td, .page-article .table-wrap th { font-size: 14px; vertical-align: top; }
 .table-note { font-size: 13.5px; color: var(--ink-faint); margin: -8px 0 24px; }
+
+
+/* Teaching timeline */
+.tl-figure { margin: 8px 0 26px; border: 1px solid var(--line); background: var(--paper); padding: 12px 12px 10px; }
+.tl-wrap { position: relative; overflow-x: auto; }
+.tl-wrap svg { display: block; min-width: 900px; width: 100%; height: auto; font-family: var(--sans); }
+.tl-grid { stroke: var(--line-soft); stroke-width: 1; }
+.tl-grid.major { stroke: var(--line); }
+.tl-year { font-size: 11px; fill: var(--ink-faint); font-family: var(--mono); }
+.tl-band { fill: var(--tint); }
+.tl-inst { font-family: var(--serif); font-size: 14px; font-weight: 600; fill: var(--ink); }
+.tl-cen { font-size: 11px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; fill: var(--ink-faint); }
+.tl-rule { stroke: var(--line-soft); }
+.tl-lab { font-size: 12px; fill: var(--ink-soft); }
+.tl-bar { cursor: default; outline: none; }
+.tl-bar:hover, .tl-bar:focus { stroke: var(--ink); stroke-width: 1.5; }
+.tl-ext { stroke-width: 1.5; stroke-dasharray: 3 3; }
+.tl-ext:hover, .tl-ext:focus { stroke-dasharray: none; }
+.tl-tip { position: absolute; z-index: 5; max-width: 340px; padding: 10px 12px; font-size: 13px; line-height: 1.45; color: var(--ink); background: var(--paper); border: 1px solid var(--ink); box-shadow: 0 2px 8px rgba(0,0,0,.12); pointer-events: none; }
+.tl-tip b { font-weight: 600; }
+.tl-tip .m, .table-wrap .m { color: var(--ink-faint); font-size: 12.5px; }
+.tl-legend { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 10px 0 4px; font-size: 12.5px; color: var(--ink-soft); }
+.tl-legend span { display: inline-flex; align-items: center; gap: 6px; }
+.tl-legend i { display: inline-block; width: 18px; height: 10px; border-radius: 2px; }
+.tl-legend i.hatch { background: repeating-linear-gradient(45deg, var(--ink-faint) 0 2px, transparent 2px 5px); }
+.tl-legend i.ext { border: 1.5px dashed var(--ink-soft); }
+.tl-legend .note { color: var(--ink-faint); }
+.tl-figure figcaption { font-size: 13px; color: var(--ink-faint); margin-top: 8px; }
 
 /* Motion */
 @media (prefers-reduced-motion: no-preference) {
